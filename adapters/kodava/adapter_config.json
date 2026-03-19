@@ -1,0 +1,52 @@
+{
+    "adapter_path": "adapters/kodava",
+    "batch_size": 1,
+    "config": "training_config/qlora_config.yaml",
+    "data": "data",
+    "fine_tune_type": "lora",
+    "grad_accumulation_steps": 1,
+    "grad_checkpoint": true,
+    "iters": 100,
+    "learning_rate": 5e-05,
+    "lora_parameters": {
+        "rank": 8,
+        "alpha": 16,
+        "dropout": 0.05,
+        "scale": 10.0
+    },
+    "lr_schedule": {
+        "name": "cosine_decay",
+        "warmup": 100,
+        "arguments": [
+            5e-05,
+            1000,
+            5e-06
+        ]
+    },
+    "mask_prompt": true,
+    "max_seq_length": 512,
+    "model": "mlx-community/Qwen3.5-4B-OptiQ-4bit",
+    "num_layers": 4,
+    "optimizer": "adam",
+    "optimizer_config": {
+        "adam": {},
+        "adamw": {},
+        "muon": {},
+        "sgd": {},
+        "adafactor": {}
+    },
+    "project_name": null,
+    "report_to": null,
+    "resume_adapter_file": "adapters/kodava/0000900_adapters.safetensors",
+    "save_every": 100,
+    "seed": 42,
+    "steps_per_eval": 50,
+    "steps_per_report": 10,
+    "test": false,
+    "test_batches": 500,
+    "test_split": "test",
+    "train": true,
+    "train_split": "train",
+    "val_batches": 10,
+    "valid_split": "valid"
+}

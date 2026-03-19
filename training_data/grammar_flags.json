@@ -1,0 +1,901 @@
+[
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "Sindhu'da",
+    "output": {
+      "correct_form": "Sindhu'ra",
+      "devanagari": "सिन्धु'र",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive case suffix in Kodava takk is always -'ra, never -'da.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "'da is never used as genitive in Kodava takk. The correct genitive suffix is -'ra. So Sindhu'da (of Sindhu) must be Sindhu'ra."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "Kodagu'da",
+    "output": {
+      "correct_form": "Kodag'ra",
+      "devanagari": "कोडग्'र",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive case suffix is always -'ra, never -'da.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "Kodagu'da is wrong because 'da is not a valid genitive suffix in Kodava takk. The correct form is Kodag'ra. This is a fundamental grammatical rule confirmed by native speakers."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "akka'da",
+    "output": {
+      "correct_form": "akkanda",
+      "devanagari": "अक्कन्द",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive of akka (elder sister) is akkanda, not akka'da.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "akka'da is doubly wrong: 'da is not a valid genitive suffix, and akka forms its genitive irregularly as akkanda, not by adding 'ra either."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "kuuL'da",
+    "output": {
+      "correct_form": "kuuL'ra",
+      "devanagari": "कूळ्'र",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive case suffix is always -'ra for nouns including food items. Never -'da.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "kuuL'da is incorrect. The genitive suffix for food items (and all nouns) in Kodava takk is -'ra, giving kuuL'ra."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "karii'da",
+    "output": {
+      "correct_form": "karii'ra",
+      "devanagari": "करी'र",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive case suffix is always -'ra. Never -'da.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "karii'da is incorrect. The correct genitive of karii (curry) is karii'ra."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "rasa'da gaaLi uNd",
+    "output": {
+      "correct_form": "rasa'thra ghamana injathe",
+      "devanagari": "रस'थ्र घमन इन्जथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive suffix is -'thra (a variant of 'ra) not -'da. The existential verb uNd should be replaced by injathe.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "rasa'da gaaLi uNd has two errors: (1) the genitive uses the wrong suffix 'da instead of 'thra, and (2) uNd is rarely correct — the standard form is injathe. The correct sentence is rasa'thra ghamana injathe (there is the aroma of taste)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "neyi'da rasa'da gaaLi",
+    "output": {
+      "correct_form": "neyi'ra ghama injathe",
+      "devanagari": "नेयि'र घम इन्जथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive suffix is -'ra not -'da. The correct word for aroma is ghama, not gaaLi.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "neyi'da rasa'da gaaLi has multiple errors: (1) the genitive suffix 'da is wrong, the correct form is neyi'ra, (2) ghama means aroma/smell — the native speaker supplied this word as it is not in FINAL.md, (3) injathe is the correct existential verb."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "kadambuttu'da rasa'na",
+    "output": {
+      "correct_form": "kadambuttu'ra rasa'tna",
+      "devanagari": "कदम्बुत्तु'र रस'त्न",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Genitive suffix is -'ra not -'da. The correct objective/adverbial suffix is -'tna not -'na.",
+          "exception": "naada (my) is correct — do not change naada to naara."
+        }
+      ],
+      "explanation": "kadambuttu'da rasa'na is incorrect. The genitive must use 'ra (kadambuttu'ra) and the second noun takes the suffix 'tna, not 'na, giving kadambuttu'ra rasa'tna."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "kelsa'l",
+    "output": {
+      "correct_form": "kelsath'l",
+      "devanagari": "केलसथ्'ल",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Nouns ending in -a change the final -a to -ath before adding a case suffix. kelsa → kelsath + 'l (locative).",
+          "exception": "none"
+        }
+      ],
+      "explanation": "kelsa'l is wrong because the noun kelsa (work) must undergo stem change before the locative suffix -'l. The final -a is replaced by -ath, giving kelsath'l (at work / in work)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "bappa thingLa'l",
+    "output": {
+      "correct_form": "bappa thingath'l",
+      "devanagari": "बप्प थिन्गथ्'ल",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Nouns ending in -a change the final -a to -ath before the locative suffix -'l. thinga → thingath + 'l.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "thingLa'l is incorrect. The noun thinga (month) undergoes stem change: the -a is replaced by -ath before the locative suffix -'l, giving thingath'l (in the month)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "nela'l",
+    "output": {
+      "correct_form": "nelat'l",
+      "devanagari": "नेलत्'ल",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Nouns ending in -a change the final -a to -at before the locative suffix -'l. nela → nelat + 'l.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "nela'l is the wrong form. The noun nela (ground/floor) undergoes stem change before the locative suffix: the -a is replaced by -at, giving nelat'l (on the ground/floor)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "ava'k noatiyand ikkathe!",
+    "output": {
+      "correct_form": "avala noatiyand ikkathe!",
+      "devanagari": "अवल नोतियन्द इक्कथे!",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The verb 'to stare at' takes an accusative direct object. ava'k is dative; avala is accusative.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "ava'k means 'to her / for her benefit' (dative case). But 'staring at her' requires the accusative (direct object), which is avala. Using the dative here is a case error. Compare Kannada: avalannu nodkond irabeda (accusative ✓) vs avalige nodkond irabeda (dative ✗)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "maradh'le",
+    "output": {
+      "correct_form": "marandhith'le",
+      "devanagari": "मरन्धिथ्'ले",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The negative of 'to forget' is marandhith'le, not maradh'le.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "maradh'le is the incorrect negative form of 'to forget.' The correct negative form is marandhith'le — the stem must include the full verbal root before the negative suffix."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "bappuNdu",
+    "output": {
+      "correct_form": "bakkondu",
+      "devanagari": "बक्कोन्दु",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The obligative 'must come' is bakkondu, not bappuNdu.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "bappuNdu is not the correct form for 'must come' (obligative mood) in Kodava takk. The correct form is bakkondu."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "injiye (past tense 1st person)",
+    "output": {
+      "correct_form": "injit'le",
+      "devanagari": "इन्जित्'ले",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Past tense 1st person of the verb 'to be' or equivalent existential is injit'le, not injiye.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "injiye is an incorrect past tense 1st person form. The correct form is injit'le."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "banthiith uNd",
+    "output": {
+      "correct_form": "baathe",
+      "devanagari": "बाथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The simple past 'arrived/came' is baathe, not the compound banthiith uNd.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "banthiith uNd is a compound form that is incorrect. The correct simple past for 'arrived' is baathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "banthiiyaa",
+    "output": {
+      "correct_form": "bandiiyaa",
+      "devanagari": "बन्दीया",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The interrogative past form of 'to come' is bandiiyaa, not banthiiyaa.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "banthiiyaa is an incorrect form. The correct interrogative past of 'to come' is bandiiyaa — note the dental d (द), not the aspirated th."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "pakkalla",
+    "output": {
+      "correct_form": "pakka'k",
+      "devanagari": "पक्क'क",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The directional/locative 'beside / near' uses the suffix 'k, not the ending -lla.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "pakkalla is incorrect. The correct form meaning 'beside / near' is pakka'k — using the directional suffix -'k."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "kaNdandh uNd",
+    "output": {
+      "correct_form": "kaNdathe",
+      "devanagari": "कण्डथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "'Saw/noticed' is the simple past kaNdathe, not the compound kaNdandh uNd.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "kaNdandh uNd is a compound form that is not correct. The native speaker confirmed that 'saw/noticed' should be expressed as the simple past kaNdathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "kaNdandh",
+    "output": {
+      "correct_form": "noot'chi",
+      "devanagari": "नूत्'चि",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "'Saw' as a simple past is noot'chi. kaNdandh is not a valid standalone past form for this meaning.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "kaNdandh is incorrect when used to mean 'saw.' The correct simple past form is noot'chi."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "bandhand uNd",
+    "output": {
+      "correct_form": "banthê",
+      "devanagari": "बन्थॅ",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "'Came/arrived' is the simple past banthê, not the compound bandhand uNd.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "bandhand uNd is a compound form that is incorrect. The correct simple past for 'came/arrived' is banthê."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "bantha",
+    "output": {
+      "correct_form": "banthê",
+      "devanagari": "बन्थॅ",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The past form of 'to come' ends in the schwa ê, not a plain -a.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "bantha is incorrect. The correct past form is banthê, with the schwa vowel ê at the end."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "ava'k kaNdandh uNd",
+    "output": {
+      "correct_form": "avna kaNdathê",
+      "devanagari": "अव्न कण्डथॅ",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The subject pronoun for 'he noticed' is avna (masculine), not ava'k (dative). The verb should be the simple past kaNdathê, not the compound kaNdandh uNd.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "ava'k kaNdandh uNd has two errors: (1) ava'k is dative ('to her/him') and cannot be a subject; the correct subject pronoun is avna (he), and (2) the compound kaNdandh uNd is incorrect — the simple past kaNdathê should be used."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "ava'k (referring to a male noticing Kiran)",
+    "output": {
+      "correct_form": "ainga'k",
+      "devanagari": "अइन्ग'क",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "When referring to a male in third-person contexts, use ainga (he/him), not ava (she/her).",
+          "exception": "none"
+        }
+      ],
+      "explanation": "ava and ava'k are feminine third-person pronouns. When referring to a male, the correct pronoun is ainga (he) and the dative form is ainga'k (to him)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "ava (subject when referring to a male in a story)",
+    "output": {
+      "correct_form": "ainga",
+      "devanagari": "अइन्ग",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "ava is a feminine third-person pronoun. The masculine equivalent is ainga.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "ava refers to 'she' in Kodava takk. When the subject is male, the correct pronoun is ainga (he)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "uNd (existential 'there is / is')",
+    "output": {
+      "correct_form": "injathe",
+      "devanagari": "इन्जथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "uNd is rarely correct in Kodava takk. The standard existential form is injathe.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "uNd is used rarely and is often incorrect. The correct and standard form for 'there is / is' in Kodava takk is injathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "bantha jana'na",
+    "output": {
+      "correct_form": "bandê jana'la",
+      "devanagari": "बन्दॅ जन'ल",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The past verb form bantha is incorrect; use bandê. The suffix on jana is -'la not -'na.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "bantha jana'na has two errors: (1) the verb bantha should be bandê (past form), and (2) the suffix on jana should be -'la, not -'na, giving jana'la."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "aingada (used in possessive context for 'his')",
+    "output": {
+      "correct_form": "aingada",
+      "devanagari": "अइन्गद",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "aingada is the correct possessive/genitive form for 'his'. This replaces incorrect ava'k in possessive contexts for a male referent.",
+          "exception": "naada (my) uses -da as a correct, frozen possessive form."
+        }
+      ],
+      "explanation": "When expressing 'his' (possessive for a male), the correct form is aingada. Using ava'k (dative feminine) in a possessive context is wrong — ava'k means 'to her', not 'his'."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "Naa Kodagu'nja bandhand Bengaluru'k poayith",
+    "output": {
+      "correct_form": "Naa Kodagu'nja bandhiye. Bengaluru'l ullo.",
+      "devanagari": "ना कोडगु'न्ज बन्धिये। बेन्गलुरु'ल उल्लो।",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Origin and current residence must be expressed as two separate sentences, not combined into one.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "Combining origin and current residence into a single sentence is grammatically incorrect in Kodava takk. The sentence must be split: one sentence for origin (Naa Kodagu'nja bandhiye — I came from Kodagu) and a second for current location (Bengaluru'l ullo — I am in Bengaluru)."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "gothth aapa (I miss them)",
+    "output": {
+      "correct_form": "ghê-na aapa",
+      "devanagari": "घॅ-न आप",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "gothth means 'knowledge/knowing'. Missing someone is expressed with ghê-na aapa, not gothth aapa.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "gothth aapa is a vocabulary error — gothth means 'knowledge', so gothth aapa would mean something like 'knowledge aches/longs', which is not idiomatic. The correct expression for 'I miss them' is ghê-na aapa."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "mansa (used to mean people/crowd)",
+    "output": {
+      "correct_form": "jana",
+      "devanagari": "जन",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "mansa means an individual man, not a crowd or people in general. Use jana for people/crowd.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "mansa refers to an individual man. Using mansa to mean 'people' or 'crowd' is a vocabulary error. The correct word for people/crowd is jana."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "aadiyan (meaning laughing)",
+    "output": {
+      "correct_form": "thoLchand injathe",
+      "devanagari": "थोळ्चन्द इन्जथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "aadiyan means dancing, not laughing. Laughing = thoLchand injathe (progressive) or thoLchathe (past).",
+          "exception": "none"
+        }
+      ],
+      "explanation": "aadiyan means dancing (from aado, to dance). Using it to mean laughing is a vocabulary error. The correct verb for laughing is thoLip'k. Progressive laughing = thoLchand injathe; past = thoLchathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "ava'l elli aachenge bisi gadhdhala uNd",
+    "output": {
+      "correct_form": "aingada pakka ekkalu gadhdhala ippa",
+      "devanagari": "अइन्गद पक्क एक्कलु गद्धल इप्प",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Multiple errors: wrong pronoun (ava'l → aingada), wrong adverb (elli aachenge → pakka ekkalu), wrong existential (uNd → ippa).",
+          "exception": "none"
+        }
+      ],
+      "explanation": "ava'l elli aachenge bisi gadhdhala uNd has several errors: (1) the pronoun and possessive form must be aingada, (2) 'always' is pakka ekkalu not elli aachenge, (3) uNd should be replaced with ippa (there is / she has). The correct sentence is aingada pakka ekkalu gadhdhala ippa."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "ava baarii chaayi mansa",
+    "output": {
+      "correct_form": "naLLa jana",
+      "devanagari": "नळ्ळ जन",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "chaayi is an adjective meaning 'good'. For 'good person', use naLLa jana. mansa means individual man, not person generically.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "ava baarii chaayi mansa has two vocabulary errors: (1) chaayi is an adjective but the idiomatic expression for a good person uses naLLa, and (2) mansa means an individual man — the correct word is jana (person/people). The correct phrase for 'a very good person' is naLLa jana."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "bedh'ra neake bisi (hot like the sun, in fire/flame context)",
+    "output": {
+      "correct_form": "chuduva'cchak",
+      "devanagari": "चुदुव'च्चक",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "bedh = sunlight/sun. For fire/flame heat, use chuduva'cchak (burning like).",
+          "exception": "none"
+        }
+      ],
+      "explanation": "bedh refers to sunlight. If the intended meaning is heat from fire or flame, the correct expression is chuduva'cchak (burning like / hot like fire). Using bedh in a fire context is a vocabulary mismatch."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "POTTIITH (it broke)",
+    "output": {
+      "correct_form": "Potti pochi",
+      "devanagari": "पोत्ति पोचि",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The correct expression for 'it broke' is the compound verb Potti pochi (broke and fell/spilled), not the single form POTTIITH.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "POTTIITH is not the correct form. The correct expression for 'it broke' uses the compound verb Potti pochi, which captures the sense of something breaking and falling or spilling."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "mane'l'ella",
+    "output": {
+      "correct_form": "mane thira",
+      "devanagari": "मने थिर",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "'All over the house / throughout the house' is mane thira, not mane'l'ella.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "mane'l'ella is incorrect. The correct expression for 'throughout/all over the house' is mane thira, where thira conveys the sense of throughout/spreading across."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "injand (used as a free progressive particle in a story)",
+    "output": {
+      "correct_form": "[remove injand]",
+      "devanagari": "[remove]",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "injand cannot be used as a free-floating progressive particle in narrative prose. It must be removed.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "injand used as a free progressive particle in story narration is incorrect. Native speaker confirmed it should be removed entirely from such positions."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "'ndh used inline for reported speech",
+    "output": {
+      "correct_form": "[remove 'ndh from inline position]",
+      "devanagari": "[remove]",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "'ndh (quotative/reported speech marker) should not appear inline in story narration.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "'ndh is a reported speech or quotative marker. Using it inline in narrative story positions is incorrect and should be removed."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "Mangalada (story title)",
+    "output": {
+      "correct_form": "Mangalathra",
+      "devanagari": "मन्गलथ्र",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The genitive/adjectival form of Mangala is Mangalathra, not Mangalada.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "Mangalada uses the wrong suffix 'da. The correct adjectival/genitive form for use in a story title is Mangalathra — applying the correct 'thra suffix variant of 'ra."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "Ondh dhivsa (one day)",
+    "output": {
+      "correct_form": "Oar dhivsa",
+      "devanagari": "ओर् धिव्स",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The article 'one' as in 'one day' is Oar, not Ondh. Ondh is the cardinal number one; Oar is the article.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "Ondh means the numeral 'one' (cardinal). When using 'one' as an article (as in 'one day / a certain day'), the correct word is Oar. So 'one day' = Oar dhivsa, not Ondh dhivsa."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "pottiiye (broke — past tense)",
+    "output": {
+      "correct_form": "pott'chittiya'la",
+      "devanagari": "पोत्'चित्तिय'ल",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "The past form 'broke' is pott'chittiya'la, not pottiiye.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "pottiiye is an incorrect past form for 'broke.' The native speaker confirmed the correct past form is pott'chittiya'la."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "adh'l naada'ella adige ella'k inyii rasa aayi",
+    "output": {
+      "correct_form": "aan'g naada'ella adige ella'k inyii rasa aachi",
+      "devanagari": "आन्ग् नाद'एल्ल अदिगे एल्ल'क इन्यी रस आचि",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "adh'l (from that) should be aan'g (from then / after that). aayi (became) should be aachi.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "This sentence has two errors: (1) adh'l should be aan'g — the temporal connective 'from that/then' is aan'g in this context, and (2) aayi is incorrect for 'became'; the correct form is aachi."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "thoLipa'k — progressive form as thoLchand und",
+    "output": {
+      "correct_form": "thoLchand injathe",
+      "devanagari": "थोळ्चन्द इन्जथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "uNd is rarely used. The correct existential/progressive auxiliary is injathe.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "thoLchand und uses the rarely-correct uNd. The standard progressive form for 'is laughing' is thoLchand injathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "naada'da (my — attempting genitive form of naada)",
+    "output": {
+      "correct_form": "naada",
+      "devanagari": "नाद",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "naada (my) is already the correct possessive form. Do not add 'ra or 'da to it.",
+          "exception": "naada is a frozen form — the 'da within it is correct and should not be changed to 'ra."
+        }
+      ],
+      "explanation": "naada is the correct and complete possessive form for 'my' in Kodava takk. It is a frozen/lexicalised form. Attempting to add another suffix or change 'da to 'ra is wrong. The rule that 'da is not used for genitive does NOT apply to naada."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "thakk pariyand (as complete standalone past verb)",
+    "output": {
+      "correct_form": "thakk pariyath",
+      "devanagari": "थक्क परियथ",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "thakk pariyand is the progressive participial form, not the simple past. The past is thakk pariyath.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "thakk pariyand is the progressive form (speaking/talking — ongoing). It cannot be used as a standalone simple past. The correct simple past of thakk pariyuw'k (to talk/speak) is thakk pariyath."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "thoLchathe used as progressive (she is laughing)",
+    "output": {
+      "correct_form": "thoLchand injathe",
+      "devanagari": "थोळ्चन्द इन्जथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "thoLchathe is the simple past ('laughed'). The progressive 'is laughing' is thoLchand injathe.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "thoLchathe is the simple past form meaning 'laughed'. To express an ongoing action ('is laughing'), the correct progressive form is thoLchand injathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "kelsa'ra (genitive of kelsa — 'of work')",
+    "output": {
+      "correct_form": "kelsath'ra",
+      "devanagari": "केलसथ्'र",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "Nouns ending in -a replace the final -a with -ath before any case suffix, including genitive 'ra.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "kelsa'ra is incorrect. The noun kelsa undergoes stem change before case suffixes: the final -a is replaced by -ath. So the genitive of kelsa is kelsath'ra, not kelsa'ra."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "naa thoLipi (I laughed) used as progressive 'I am laughing'",
+    "output": {
+      "correct_form": "naa thoLchand injathe",
+      "devanagari": "ना थोळ्चन्द इन्जथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "naa thoLipi is the simple past (I laughed). The progressive 'I am laughing' requires the participial + injathe construction.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "naa thoLipi means 'I laughed' (simple past, 1st person). To express 'I am laughing' (progressive), the correct form is naa thoLchand injathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "ellaru thoLcha't used as past of a single individual laughing",
+    "output": {
+      "correct_form": "thoLchathe",
+      "devanagari": "थोळ्चथे",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "ellaru thoLcha't means 'everyone laughed' (plural). For a single person, use the simple past thoLchathe.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "ellaru thoLcha't is the plural form (everyone laughed). When referring to a single person laughing in the past, the correct form is thoLchathe."
+    }
+  },
+  {
+    "type": "grammar_flag",
+    "instruction": "Identify and correct the grammar mistake in this Kodava takk usage. Explain the rule.",
+    "input": "niida bappa elli uNd?",
+    "output": {
+      "correct_form": "niida appa elli uNd?",
+      "devanagari": "नीद अप्प एल्लि उण्ड?",
+      "flags": [
+        {
+          "flag": "🔴",
+          "rule": "bappa means 'coming' (from bapp'k = to come) — NOT father. The word for father is appa.",
+          "exception": "none"
+        }
+      ],
+      "explanation": "The textbook never mentions the word for father. bappa is the nonpast 3rd person form of bapp'k (to come), meaning 'coming'. It is NOT the word for father. Father in Kodava takk is appa (अप्प) — native speaker confirmed. The correct sentence is niida appa elli uNd? (Where is your father?)"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "appa",
+    "output": {
+      "devanagari": "अप्प",
+      "pronunciation": [
+        { "sound": "a",  "hint": "like 'u' in country, bus", "confidence": "✅" },
+        { "sound": "pp", "hint": "double p — hold twice as long, like 'top part'", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country, bus", "confidence": "✅" }
+      ],
+      "meaning": "father",
+      "overall_confidence": "✅",
+      "grammar_note": "🔴 Do NOT use bappa for father. bappa = coming (verb form of bapp'k). Father = appa."
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "niida appa elli uNd?",
+    "output": {
+      "devanagari": "नीद अप्प एल्लि उण्ड?",
+      "pronunciation": [
+        { "sound": "niida", "hint": "nee-da — like 'need' + 'a'", "confidence": "✅" },
+        { "sound": "appa",  "hint": "ap-pa — like 'up' + 'pa', double p held longer", "confidence": "✅" },
+        { "sound": "elli",  "hint": "el-li — like 'ell' + 'i', double l held longer", "confidence": "✅" },
+        { "sound": "uNd",   "hint": "like 'und' — retroflex N, tongue curls back", "confidence": "✅" }
+      ],
+      "meaning": "Where is your father?",
+      "overall_confidence": "✅"
+    }
+  }
+]

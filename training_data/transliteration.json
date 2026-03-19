@@ -1,0 +1,892 @@
+[
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "akku",
+    "output": {
+      "devanagari": "अक्कु",
+      "pronunciation": [
+        { "sound": "a",  "hint": "like 'u' in country, bus", "confidence": "✅" },
+        { "sound": "kk", "hint": "double k — hold twice as long, like 'pick kittens'", "confidence": "✅" },
+        { "sound": "u",  "hint": "like 'oo' in good, put", "confidence": "✅" }
+      ],
+      "meaning": "yes",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ille",
+    "output": {
+      "devanagari": "इल्ले",
+      "pronunciation": [
+        { "sound": "i",  "hint": "like 'i' in itchy, wit", "confidence": "✅" },
+        { "sound": "ll", "hint": "double l — hold twice as long, like 'wall lighting'", "confidence": "✅" },
+        { "sound": "e",  "hint": "like 'e' in enter, egg", "confidence": "✅" }
+      ],
+      "meaning": "no / is not",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "entha?",
+    "output": {
+      "devanagari": "एन्थ?",
+      "pronunciation": [
+        { "sound": "e",  "hint": "like 'e' in enter, egg", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "th", "hint": "dental t — like 't' in Spanish gato, Hindi taal", "confidence": "✅", "flag": "🔴 NOT थ — dental t, tongue touches upper teeth" }
+      ],
+      "meaning": "what?",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "eadh?",
+    "output": {
+      "devanagari": "एद?",
+      "pronunciation": [
+        { "sound": "ea", "hint": "like 'a' in make, wait — hold slightly longer than plain e", "confidence": "⚠️" },
+        { "sound": "dh", "hint": "dental d — like 'd' in Spanish dos, Hindi do", "confidence": "✅", "flag": "🔴 NOT ध — dental d, tongue touches upper teeth" }
+      ],
+      "meaning": "which?",
+      "overall_confidence": "⚠️"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ennane?",
+    "output": {
+      "devanagari": "एन्नाने?",
+      "pronunciation": [
+        { "sound": "e",  "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "nn", "hint": "double n — hold twice as long", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "ne", "hint": "like 'ne' in never", "confidence": "✅" }
+      ],
+      "meaning": "how?",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "naan",
+    "output": {
+      "devanagari": "नान",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "aa", "hint": "like 'o' in honest, oddly", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in pin", "confidence": "✅" }
+      ],
+      "meaning": "I (formal) — in spoken Kodava, naa is more natural",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "niin",
+    "output": {
+      "devanagari": "नीन",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "ii", "hint": "like 'ee' in seek, teeth", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in pin", "confidence": "✅" }
+      ],
+      "meaning": "you (informal) — in spoken Kodava, nii is more natural",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ninga",
+    "output": {
+      "devanagari": "निंग",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "ng", "hint": "like 'ng' in singer", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "you (formal) / you (plural)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "nanga",
+    "output": {
+      "devanagari": "नंग",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "ng", "hint": "like 'ng' in singer", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "we / us",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "āāwu",
+    "output": {
+      "devanagari": "आंवु",
+      "pronunciation": [
+        { "sound": "āā", "hint": "nasalized aa — like Portuguese coração", "confidence": "⚠️" },
+        { "sound": "w",  "hint": "like 'w' in water", "confidence": "✅" },
+        { "sound": "u",  "hint": "like 'oo' in good, put", "confidence": "✅" }
+      ],
+      "meaning": "he / him (remote — person further away)",
+      "overall_confidence": "⚠️"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "īīwu",
+    "output": {
+      "devanagari": "ईंवु",
+      "pronunciation": [
+        { "sound": "ĩĩ", "hint": "nasalized ii — say 'keen to' very fast, the n becomes a nasal vowel", "confidence": "⚠️" },
+        { "sound": "w",  "hint": "like 'w' in water", "confidence": "✅" },
+        { "sound": "u",  "hint": "like 'oo' in good", "confidence": "✅" }
+      ],
+      "meaning": "he / him (proximal — person nearby)",
+      "overall_confidence": "⚠️"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ava",
+    "output": {
+      "devanagari": "अव",
+      "pronunciation": [
+        { "sound": "a", "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "v", "hint": "like 'v' in water", "confidence": "✅" },
+        { "sound": "a", "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "she / her (remote — person further away)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "iva",
+    "output": {
+      "devanagari": "इव",
+      "pronunciation": [
+        { "sound": "i", "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "v", "hint": "like 'v' in water", "confidence": "✅" },
+        { "sound": "a", "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "she / her (proximal — person nearby)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "mane",
+    "output": {
+      "devanagari": "माने",
+      "pronunciation": [
+        { "sound": "m", "hint": "like 'm' in mouse", "confidence": "✅" },
+        { "sound": "a", "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "n", "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "e", "hint": "like 'e' in enter", "confidence": "✅" }
+      ],
+      "meaning": "house",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "raste",
+    "output": {
+      "devanagari": "रास्ते",
+      "pronunciation": [
+        { "sound": "r",  "hint": "flapped r — like American 'water', Spanish toro", "confidence": "✅" },
+        { "sound": "as", "hint": "like 'us' in bus", "confidence": "✅" },
+        { "sound": "t",  "hint": "like 't' in top", "confidence": "✅" },
+        { "sound": "e",  "hint": "like 'e' in enter", "confidence": "✅" }
+      ],
+      "meaning": "road",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "chaayi",
+    "output": {
+      "devanagari": "चायि",
+      "pronunciation": [
+        { "sound": "ch", "hint": "like 'ch' in chin, kitchen", "confidence": "✅" },
+        { "sound": "aa", "hint": "like 'o' in honest, oddly", "confidence": "✅" },
+        { "sound": "y",  "hint": "like 'y' in mayo", "confidence": "✅" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" }
+      ],
+      "meaning": "good",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "paaL",
+    "output": {
+      "devanagari": "पाळ",
+      "pronunciation": [
+        { "sound": "p",  "hint": "like 'p' in port", "confidence": "✅" },
+        { "sound": "aa", "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "L",  "hint": "retroflex L — curl tongue back, Marathi ळ", "confidence": "✅" }
+      ],
+      "meaning": "bad",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ballya",
+    "output": {
+      "devanagari": "बल्य",
+      "pronunciation": [
+        { "sound": "b",  "hint": "like 'b' in boar", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "ll", "hint": "double l — hold twice as long", "confidence": "✅" },
+        { "sound": "ya", "hint": "like 'ya' in yoga", "confidence": "✅" }
+      ],
+      "meaning": "big",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "cheriya",
+    "output": {
+      "devanagari": "चेरिय",
+      "pronunciation": [
+        { "sound": "ch", "hint": "like 'ch' in chin", "confidence": "✅" },
+        { "sound": "e",  "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "r",  "hint": "flapped r — like American 'water'", "confidence": "✅" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "ya", "hint": "like 'ya' in yoga", "confidence": "✅" }
+      ],
+      "meaning": "small / younger",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "uur",
+    "output": {
+      "devanagari": "ऊर",
+      "pronunciation": [
+        { "sound": "uu", "hint": "like 'oo' in oops, pool", "confidence": "✅" },
+        { "sound": "r",  "hint": "flapped r — like American 'water'", "confidence": "✅" }
+      ],
+      "meaning": "village",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "polaaka",
+    "output": {
+      "devanagari": "पोलाक",
+      "pronunciation": [
+        { "sound": "p",   "hint": "like 'p' in port", "confidence": "✅" },
+        { "sound": "o",   "hint": "like 'a' in water (Long Island accent)", "confidence": "✅" },
+        { "sound": "l",   "hint": "like 'l' in long", "confidence": "✅" },
+        { "sound": "aa",  "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "k",   "hint": "like 'c' in cool", "confidence": "✅" },
+        { "sound": "a",   "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "morning",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "thimb'k",
+    "output": {
+      "devanagari": "थिंब्क",
+      "pronunciation": [
+        { "sound": "th", "hint": "dental t — like 't' in Spanish gato", "confidence": "✅", "flag": "🔴 NOT थ aspirated — dental t only" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "mb", "hint": "like 'mb' in number", "confidence": "✅" }
+      ],
+      "meaning": "to eat (infinitive)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "poap'k",
+    "output": {
+      "devanagari": "पोप्क",
+      "pronunciation": [
+        { "sound": "p",  "hint": "like 'p' in port", "confidence": "✅" },
+        { "sound": "oa", "hint": "like 'o' in ownership, loan — hold longer", "confidence": "⚠️" },
+        { "sound": "p",  "hint": "like 'p' in port", "confidence": "✅" }
+      ],
+      "meaning": "to go (infinitive)",
+      "overall_confidence": "⚠️"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "bapp'k",
+    "output": {
+      "devanagari": "बप्प्क",
+      "pronunciation": [
+        { "sound": "b",  "hint": "like 'b' in boar", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "pp", "hint": "double p — hold twice as long", "confidence": "✅" }
+      ],
+      "meaning": "to come / to arrive (infinitive)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "maaduw'k",
+    "output": {
+      "devanagari": "मादुव्क",
+      "pronunciation": [
+        { "sound": "m",  "hint": "like 'm' in mouse", "confidence": "✅" },
+        { "sound": "aa", "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "d",  "hint": "like 'd' in dog", "confidence": "✅" },
+        { "sound": "u",  "hint": "like 'oo' in good", "confidence": "✅" },
+        { "sound": "w",  "hint": "like 'w' in water", "confidence": "✅" }
+      ],
+      "meaning": "to do / to make (infinitive)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ondh",
+    "output": {
+      "devanagari": "ओन्द",
+      "pronunciation": [
+        { "sound": "o",  "hint": "like 'a' in water (Long Island accent)", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "dh", "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध — dental d only" }
+      ],
+      "meaning": "one (1)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "dhand",
+    "output": {
+      "devanagari": "दन्द",
+      "pronunciation": [
+        { "sound": "dh", "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध — dental d only" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "d",  "hint": "like 'd' in dog", "confidence": "✅" }
+      ],
+      "meaning": "two (2)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "muundh",
+    "output": {
+      "devanagari": "मून्द",
+      "pronunciation": [
+        { "sound": "m",  "hint": "like 'm' in mouse", "confidence": "✅" },
+        { "sound": "uu", "hint": "like 'oo' in oops, pool", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "dh", "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध — dental d only" }
+      ],
+      "meaning": "three (3)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "naal",
+    "output": {
+      "devanagari": "नाल",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "aa", "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "l",  "hint": "like 'l' in long", "confidence": "✅" }
+      ],
+      "meaning": "four (4)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "anjii",
+    "output": {
+      "devanagari": "अंजी",
+      "pronunciation": [
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "j",  "hint": "like 'j' in jaw", "confidence": "✅" },
+        { "sound": "ii", "hint": "like 'ee' in seek, teeth", "confidence": "✅" }
+      ],
+      "meaning": "five (5)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "aar",
+    "output": {
+      "devanagari": "आर",
+      "pronunciation": [
+        { "sound": "aa", "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "r",  "hint": "flapped r — like American 'water'", "confidence": "✅" }
+      ],
+      "meaning": "six (6)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "êêL",
+    "output": {
+      "devanagari": "ऍळ",
+      "pronunciation": [
+        { "sound": "êê", "hint": "like vowel in shirt, her, burn — drop the r", "confidence": "⚠️" },
+        { "sound": "L",  "hint": "retroflex L — curl tongue back, Marathi ळ", "confidence": "✅" }
+      ],
+      "meaning": "seven (7)",
+      "overall_confidence": "⚠️"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "êtt",
+    "output": {
+      "devanagari": "ऍट्ट",
+      "pronunciation": [
+        { "sound": "ê",  "hint": "like 'a' in about, assume — weak schwa", "confidence": "⚠️" },
+        { "sound": "tt", "hint": "double retroflex t — curl tongue back, hold twice as long", "confidence": "✅" }
+      ],
+      "meaning": "eight (8)",
+      "overall_confidence": "⚠️"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "woyimbadh",
+    "output": {
+      "devanagari": "वोयिंबद",
+      "pronunciation": [
+        { "sound": "w",  "hint": "like 'w' in water", "confidence": "✅" },
+        { "sound": "o",  "hint": "like 'a' in water (Long Island)", "confidence": "✅" },
+        { "sound": "y",  "hint": "like 'y' in mayo", "confidence": "✅" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "mb", "hint": "like 'mb' in number", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "dh", "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध — dental d only" }
+      ],
+      "meaning": "nine (9)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "pathth",
+    "output": {
+      "devanagari": "पत्थ",
+      "pronunciation": [
+        { "sound": "p",   "hint": "like 'p' in port", "confidence": "✅" },
+        { "sound": "a",   "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "thth","hint": "double dental t — hold twice as long", "confidence": "✅", "flag": "🔴 NOT थ aspirated — dental t only" }
+      ],
+      "meaning": "ten (10)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "nooru",
+    "output": {
+      "devanagari": "नूरु",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "oo", "hint": "like 'oo' in oops, pool", "confidence": "✅" },
+        { "sound": "r",  "hint": "flapped r — like American 'water'", "confidence": "✅" },
+        { "sound": "u",  "hint": "like 'oo' in good", "confidence": "✅" }
+      ],
+      "meaning": "one hundred (100)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ennane uLLiya niin?",
+    "output": {
+      "devanagari": "एन्नाने उळ्ळिया नीन?",
+      "pronunciation": [
+        { "sound": "e",   "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "nn",  "hint": "double n — hold twice as long", "confidence": "✅" },
+        { "sound": "aa",  "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "ne",  "hint": "like 'ne' in never", "confidence": "✅" },
+        { "sound": "u",   "hint": "like 'oo' in good", "confidence": "✅" },
+        { "sound": "LL",  "hint": "double retroflex L — Marathi ळ्ळ", "confidence": "✅" },
+        { "sound": "iya", "hint": "like 'iya' in media", "confidence": "✅" },
+        { "sound": "niin","hint": "like 'neen' — long ee", "confidence": "✅" }
+      ],
+      "meaning": "How are you? (informal)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ennane uLLira ninga?",
+    "output": {
+      "devanagari": "एन्नाने उळ्ळिरा निंग?",
+      "pronunciation": [
+        { "sound": "e",   "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "nn",  "hint": "double n — hold twice as long", "confidence": "✅" },
+        { "sound": "LL",  "hint": "double retroflex L — Marathi ळ्ळ", "confidence": "✅" },
+        { "sound": "ira", "hint": "like 'ira' in era", "confidence": "✅" }
+      ],
+      "meaning": "How are you? (formal / plural)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "naa chaayi'l uLL.",
+    "output": {
+      "devanagari": "ना चायिल उळ्ळ.",
+      "pronunciation": [
+        { "sound": "naa",    "hint": "like 'na' in naan", "confidence": "✅" },
+        { "sound": "ch",     "hint": "like 'ch' in chin", "confidence": "✅" },
+        { "sound": "aa",     "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "yi",     "hint": "like 'yi' in yield", "confidence": "✅" },
+        { "sound": "'l",     "hint": "suffix meaning 'in' — attached directly, no space", "confidence": "✅" },
+        { "sound": "u",      "hint": "like 'oo' in good", "confidence": "✅" },
+        { "sound": "LL",     "hint": "double retroflex L — Marathi ळ्ळ", "confidence": "✅" }
+      ],
+      "meaning": "I am well. (lit. I am in wellness)",
+      "overall_confidence": "✅",
+      "grammar_note": "chaayi'l = chaayi + 'l (locative suffix 'in') — no space before suffix"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "dhaar?",
+    "output": {
+      "devanagari": "दार?",
+      "pronunciation": [
+        { "sound": "dh", "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध — dental d only" },
+        { "sound": "aa", "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "r",  "hint": "flapped r — like American 'water'", "confidence": "✅" }
+      ],
+      "meaning": "who? / whom?",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "elli?",
+    "output": {
+      "devanagari": "एल्लि?",
+      "pronunciation": [
+        { "sound": "e",  "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "ll", "hint": "double l — hold twice as long", "confidence": "✅" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" }
+      ],
+      "meaning": "where?",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "alli",
+    "output": {
+      "devanagari": "अल्लि",
+      "pronunciation": [
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "ll", "hint": "double l — hold twice as long", "confidence": "✅" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" }
+      ],
+      "meaning": "there (remote)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "illi",
+    "output": {
+      "devanagari": "इल्लि",
+      "pronunciation": [
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "ll", "hint": "double l — hold twice as long", "confidence": "✅" },
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" }
+      ],
+      "meaning": "here (proximal)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "naada pedha entha?",
+    "output": {
+      "devanagari": "नाद पेद एन्थ?",
+      "pronunciation": [
+        { "sound": "naa", "hint": "like 'na' in naan", "confidence": "✅" },
+        { "sound": "da",  "hint": "like 'da' in dart", "confidence": "✅" },
+        { "sound": "pe",  "hint": "like 'pe' in pet", "confidence": "✅" },
+        { "sound": "dha", "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध" },
+        { "sound": "th",  "hint": "dental t — like 't' in Spanish gato", "confidence": "✅", "flag": "🔴 NOT थ" }
+      ],
+      "meaning": "What is your name?",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "thakk pariyuw'k",
+    "output": {
+      "devanagari": "तक्क परियुव्क",
+      "pronunciation": [
+        { "sound": "th",  "hint": "dental t — like 't' in Spanish gato", "confidence": "✅", "flag": "🔴 NOT थ — dental t only" },
+        { "sound": "a",   "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "kk",  "hint": "double k — hold twice as long", "confidence": "✅" },
+        { "sound": "pa",  "hint": "like 'pa' in park", "confidence": "✅" },
+        { "sound": "ri",  "hint": "like 'ri' in ring", "confidence": "✅" },
+        { "sound": "yu",  "hint": "like 'yu' in youth", "confidence": "✅" },
+        { "sound": "w",   "hint": "like 'w' in water", "confidence": "✅" }
+      ],
+      "meaning": "to speak / to talk (infinitive)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "indh",
+    "output": {
+      "devanagari": "इन्द",
+      "pronunciation": [
+        { "sound": "i",  "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "dh", "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध — dental d only" }
+      ],
+      "meaning": "today",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "naaLe",
+    "output": {
+      "devanagari": "नाळे",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "aa", "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "L",  "hint": "retroflex L — curl tongue back, Marathi ळ", "confidence": "✅" },
+        { "sound": "e",  "hint": "like 'e' in enter", "confidence": "✅" }
+      ],
+      "meaning": "tomorrow",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ninaandh",
+    "output": {
+      "devanagari": "निनान्द",
+      "pronunciation": [
+        { "sound": "ni",  "hint": "like 'ni' in ninja", "confidence": "✅" },
+        { "sound": "n",   "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "aa",  "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "n",   "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "dh",  "hint": "dental d — like 'd' in Spanish dos", "confidence": "✅", "flag": "🔴 NOT ध" }
+      ],
+      "meaning": "yesterday",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "ikka echchak gante?",
+    "output": {
+      "devanagari": "इक्क एच्चक गन्ते?",
+      "pronunciation": [
+        { "sound": "i",    "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "kk",   "hint": "double k — hold twice as long", "confidence": "✅" },
+        { "sound": "e",    "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "chch", "hint": "double ch — hold twice as long", "confidence": "✅" },
+        { "sound": "a",    "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "k",    "hint": "like 'c' in cut", "confidence": "✅" },
+        { "sound": "g",    "hint": "like 'g' in get", "confidence": "✅" },
+        { "sound": "an",   "hint": "like 'un' in fun", "confidence": "✅" },
+        { "sound": "te",   "hint": "like 'te' in ten", "confidence": "✅" }
+      ],
+      "meaning": "What time is it now?",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "maLe pojjiyan uNd",
+    "output": {
+      "devanagari": "माळे पोज्जियन उण्ड",
+      "pronunciation": [
+        { "sound": "m",   "hint": "like 'm' in mouse", "confidence": "✅" },
+        { "sound": "a",   "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "L",   "hint": "retroflex L — Marathi ळ", "confidence": "✅" },
+        { "sound": "e",   "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "p",   "hint": "like 'p' in port", "confidence": "✅" },
+        { "sound": "o",   "hint": "like 'a' in water (Long Island)", "confidence": "✅" },
+        { "sound": "jj",  "hint": "double j — hold twice as long", "confidence": "✅" },
+        { "sound": "iyan","hint": "like 'iyan' in Iranian", "confidence": "✅" },
+        { "sound": "u",   "hint": "like 'oo' in good", "confidence": "✅" },
+        { "sound": "N",   "hint": "retroflex n — Marathi ण", "confidence": "✅" },
+        { "sound": "d",   "hint": "like 'd' in dog", "confidence": "✅" }
+      ],
+      "meaning": "it is raining hard",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "en visheasha?",
+    "output": {
+      "devanagari": "एन विशेष?",
+      "pronunciation": [
+        { "sound": "e",  "hint": "like 'e' in enter", "confidence": "✅" },
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "vi", "hint": "like 'vi' in visit", "confidence": "✅" },
+        { "sound": "sh", "hint": "like 'sh' in shoe", "confidence": "✅" },
+        { "sound": "ea", "hint": "like 'a' in make — hold slightly longer", "confidence": "⚠️" },
+        { "sound": "sh", "hint": "like 'sh' in shoe", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "What news? / What's up? (greeting)",
+      "overall_confidence": "⚠️"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "naada",
+    "output": {
+      "devanagari": "नाद",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "aa", "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "d",  "hint": "like 'd' in dog", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "my (possessive — genitive of naa)",
+      "overall_confidence": "✅",
+      "grammar_note": "🔴 naada is the EXCEPTION — do NOT change to naara. Only naada is correct for 'my'."
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "niida",
+    "output": {
+      "devanagari": "नीद",
+      "pronunciation": [
+        { "sound": "n",  "hint": "like 'n' in net", "confidence": "✅" },
+        { "sound": "ii", "hint": "like 'ee' in seek", "confidence": "✅" },
+        { "sound": "d",  "hint": "like 'd' in dog", "confidence": "✅" },
+        { "sound": "a",  "hint": "like 'u' in country", "confidence": "✅" }
+      ],
+      "meaning": "your (possessive)",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "thingLaache",
+    "output": {
+      "devanagari": "थिंगळाचे",
+      "pronunciation": [
+        { "sound": "th",  "hint": "dental t — like 't' in Spanish gato", "confidence": "✅", "flag": "🔴 NOT थ aspirated" },
+        { "sound": "i",   "hint": "like 'i' in itchy", "confidence": "✅" },
+        { "sound": "ng",  "hint": "like 'ng' in singer", "confidence": "✅" },
+        { "sound": "L",   "hint": "retroflex L — Marathi ळ", "confidence": "✅" },
+        { "sound": "aa",  "hint": "like 'o' in honest", "confidence": "✅" },
+        { "sound": "ch",  "hint": "like 'ch' in chin", "confidence": "✅" },
+        { "sound": "e",   "hint": "like 'e' in enter", "confidence": "✅" }
+      ],
+      "meaning": "Monday",
+      "overall_confidence": "✅"
+    }
+  },
+  {
+    "type": "transliteration",
+    "instruction": "Transliterate this Kodava takk word or phrase to Marathi Devanagari script. Provide a pronunciation guide using English word hints. Flag any uncertain sounds with ⚠️ and grammar traps with 🔴.",
+    "input": "Kodava-thakk thakk pariyuwiya?",
+    "output": {
+      "devanagari": "कोदव-तक्क तक्क परियुविय?",
+      "pronunciation": [
+        { "sound": "Ko",  "hint": "like 'Ko' in koala", "confidence": "✅" },
+        { "sound": "da",  "hint": "like 'da' in dart", "confidence": "✅" },
+        { "sound": "va",  "hint": "like 'va' in van", "confidence": "✅" },
+        { "sound": "th",  "hint": "dental t — like 't' in Spanish gato", "confidence": "✅", "flag": "🔴 NOT थ" },
+        { "sound": "a",   "hint": "like 'u' in country", "confidence": "✅" },
+        { "sound": "kk",  "hint": "double k — hold twice as long", "confidence": "✅" }
+      ],
+      "meaning": "Do you speak Kodava takk? (informal)",
+      "overall_confidence": "✅"
+    }
+  }
+]

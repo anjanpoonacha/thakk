@@ -1,0 +1,20 @@
+# Dataset weights for QLoRA training
+# Grammar flags weighted 3x — rare but critical for correctness
+
+datasets:
+  - path: "training_data/transliteration.json"
+    weight: 1.0
+    description: "Kodava romanized to Marathi Devanagari transliteration with pronunciation hints"
+
+  - path: "training_data/grammar_flags.json"
+    weight: 3.0
+    description: "Grammar corrections and traps — weighted 3x because rare but critical"
+
+  - path: "training_data/conjugations.json"
+    weight: 1.0
+    description: "Verb conjugation tables across all tenses and persons"
+
+notes:
+  - "grammar_flags.json weighted 3x to prevent model from ignoring rare but critical errors"
+  - "Adjust weights based on validation loss per dataset type"
+  - "Re-run training after adding new corrections to kodava_corrections.md"

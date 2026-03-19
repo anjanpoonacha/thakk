@@ -1,0 +1,1532 @@
+[
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "maaduw'k — past tense",
+    "output": {
+      "verb": "maaduw'k",
+      "meaning": "to do / to make",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "maad'nê", "devanagari": "माद्नॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "maad'nê", "devanagari": "माद्नॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "maad'nê", "devanagari": "माद्नॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "maad'nê", "devanagari": "माद्नॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "maad'nê", "devanagari": "माद्नॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "maad'nê", "devanagari": "माद्नॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "✅", "rule": "Regular -uw'k: drop -uw'k, add -'nê. Same form for all persons." }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "maaduw'k — progressive tense",
+    "output": {
+      "verb": "maaduw'k",
+      "meaning": "to do / to make",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "maadiyand uLL",   "devanagari": "मादियन्द् उळ्ळ",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "maadiyand uNd",   "devanagari": "मादियन्द् उण्ड",   "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "maadiyand uNd",   "devanagari": "मादियन्द् उण्ड",   "confidence": "✅" },
+        { "person": "nanga", "kodava": "maadiyand uNd",   "devanagari": "मादियन्द् उण्ड",   "confidence": "✅" },
+        { "person": "ninga", "kodava": "maadiyand uNd",   "devanagari": "मादियन्द् उण्ड",   "confidence": "✅" },
+        { "person": "ainga", "kodava": "maadiyand uNd",   "devanagari": "मादियन्द् उण्ड",   "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Progressive = particle maadiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "maaduw'k — nonpast tense",
+    "output": {
+      "verb": "maaduw'k",
+      "meaning": "to do / to make",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "maaduwii",   "devanagari": "मादुवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "maaduwiiya", "devanagari": "मादुवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "maaduwa",    "devanagari": "मादुव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "maaduwa",    "devanagari": "मादुव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "maaduwiiraa","devanagari": "मादुवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "maaduwa",    "devanagari": "मादुव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Nonpast endings on stem maaduw-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "noatuw'k — past tense",
+    "output": {
+      "verb": "noatuw'k",
+      "meaning": "to look",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "noat'nê", "devanagari": "नोट्नॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "noat'nê", "devanagari": "नोट्नॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "noat'nê", "devanagari": "नोट्नॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "noat'nê", "devanagari": "नोट्नॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "noat'nê", "devanagari": "नोट्नॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "noat'nê", "devanagari": "नोट्नॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "✅", "rule": "Regular -uw'k: drop -uw'k, add -'nê. Same form for all persons." }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "noatuw'k — progressive tense",
+    "output": {
+      "verb": "noatuw'k",
+      "meaning": "to look",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "noatiyand uLL",  "devanagari": "नोटियन्द् उळ्ळ",  "confidence": "✅" },
+        { "person": "nii",   "kodava": "noatiyand uNd",  "devanagari": "नोटियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "noatiyand uNd",  "devanagari": "नोटियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "nanga", "kodava": "noatiyand uNd",  "devanagari": "नोटियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ninga", "kodava": "noatiyand uNd",  "devanagari": "नोटियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ainga", "kodava": "noatiyand uNd",  "devanagari": "नोटियन्द् उण्ड",  "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Progressive = particle noatiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "noatuw'k — nonpast tense",
+    "output": {
+      "verb": "noatuw'k",
+      "meaning": "to look",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "noatuwii",   "devanagari": "नोटुवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "noatuwiiya", "devanagari": "नोटुवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "noatuwa",    "devanagari": "नोटुव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "noatuwa",    "devanagari": "नोटुव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "noatuwiiraa","devanagari": "नोटुवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "noatuwa",    "devanagari": "नोटुव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Nonpast endings on stem noatuw-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "waruw'k — past tense",
+    "output": {
+      "verb": "waruw'k",
+      "meaning": "to sleep",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "war'nê", "devanagari": "वर्नॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "war'nê", "devanagari": "वर्नॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "war'nê", "devanagari": "वर्नॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "war'nê", "devanagari": "वर्नॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "war'nê", "devanagari": "वर्नॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "war'nê", "devanagari": "वर्नॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "✅", "rule": "Regular -uw'k: drop -uw'k, add -'nê. Same form for all persons." }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "waruw'k — progressive tense",
+    "output": {
+      "verb": "waruw'k",
+      "meaning": "to sleep",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "wariyand uLL",  "devanagari": "वरियन्द् उळ्ळ",  "confidence": "✅" },
+        { "person": "nii",   "kodava": "wariyand uNd",  "devanagari": "वरियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "wariyand uNd",  "devanagari": "वरियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "nanga", "kodava": "wariyand uNd",  "devanagari": "वरियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ninga", "kodava": "wariyand uNd",  "devanagari": "वरियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ainga", "kodava": "wariyand uNd",  "devanagari": "वरियन्द् उण्ड",  "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Progressive = particle wariyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "waruw'k — nonpast tense",
+    "output": {
+      "verb": "waruw'k",
+      "meaning": "to sleep",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "waruwii",   "devanagari": "वरुवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "waruwiiya", "devanagari": "वरुवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "waruwa",    "devanagari": "वरुव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "waruwa",    "devanagari": "वरुव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "waruwiiraa","devanagari": "वरुवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "waruwa",    "devanagari": "वरुव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Nonpast endings on stem waruw-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "pottuw'k — past tense",
+    "output": {
+      "verb": "pottuw'k",
+      "meaning": "to break",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "pott'nê", "devanagari": "पोट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "pott'nê", "devanagari": "पोट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "pott'nê", "devanagari": "पोट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "pott'nê", "devanagari": "पोट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "pott'nê", "devanagari": "पोट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "pott'nê", "devanagari": "पोट्ट्नॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "✅", "rule": "Regular -uw'k: drop -uw'k, add -'nê. Same form for all persons." }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "pottuw'k — progressive tense",
+    "output": {
+      "verb": "pottuw'k",
+      "meaning": "to break",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "pottiyand uLL",  "devanagari": "पोट्टियन्द् उळ्ळ",  "confidence": "✅" },
+        { "person": "nii",   "kodava": "pottiyand uNd",  "devanagari": "पोट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "pottiyand uNd",  "devanagari": "पोट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "nanga", "kodava": "pottiyand uNd",  "devanagari": "पोट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ninga", "kodava": "pottiyand uNd",  "devanagari": "पोट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ainga", "kodava": "pottiyand uNd",  "devanagari": "पोट्टियन्द् उण्ड",  "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Progressive = particle pottiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "pottuw'k — nonpast tense",
+    "output": {
+      "verb": "pottuw'k",
+      "meaning": "to break",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "pottuwii",   "devanagari": "पोट्टुवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "pottuwiiya", "devanagari": "पोट्टुवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "pottuwa",    "devanagari": "पोट्टुव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "pottuwa",    "devanagari": "पोट्टुव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "pottuwiiraa","devanagari": "पोट्टुवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "pottuwa",    "devanagari": "पोट्टुव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Nonpast endings on stem pottuw-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kaakuw'k — past tense",
+    "output": {
+      "verb": "kaakuw'k",
+      "meaning": "to call",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "kaak'nê", "devanagari": "काक्नॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "kaak'nê", "devanagari": "काक्नॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "kaak'nê", "devanagari": "काक्नॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "kaak'nê", "devanagari": "काक्नॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "kaak'nê", "devanagari": "काक्नॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "kaak'nê", "devanagari": "काक्नॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "✅", "rule": "Regular -uw'k: drop -uw'k, add -'nê. Same form for all persons." }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kaakuw'k — progressive tense",
+    "output": {
+      "verb": "kaakuw'k",
+      "meaning": "to call",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "kaakiyand uLL",  "devanagari": "काकियन्द् उळ्ळ",  "confidence": "✅" },
+        { "person": "nii",   "kodava": "kaakiyand uNd",  "devanagari": "काकियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "kaakiyand uNd",  "devanagari": "काकियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "nanga", "kodava": "kaakiyand uNd",  "devanagari": "काकियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ninga", "kodava": "kaakiyand uNd",  "devanagari": "काकियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ainga", "kodava": "kaakiyand uNd",  "devanagari": "काकियन्द् उण्ड",  "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Progressive = particle kaakiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kaakuw'k — nonpast tense",
+    "output": {
+      "verb": "kaakuw'k",
+      "meaning": "to call",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "kaakuwii",   "devanagari": "काकुवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "kaakuwiiya", "devanagari": "काकुवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "kaakuwa",    "devanagari": "काकुव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "kaakuwa",    "devanagari": "काकुव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "kaakuwiiraa","devanagari": "काकुवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "kaakuwa",    "devanagari": "काकुव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Nonpast endings on stem kaakuw-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "muttuw'k — past tense",
+    "output": {
+      "verb": "muttuw'k",
+      "meaning": "to touch",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "mutt'nê", "devanagari": "मुट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "mutt'nê", "devanagari": "मुट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "mutt'nê", "devanagari": "मुट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "mutt'nê", "devanagari": "मुट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "mutt'nê", "devanagari": "मुट्ट्नॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "mutt'nê", "devanagari": "मुट्ट्नॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "✅", "rule": "Regular -uw'k: drop -uw'k, add -'nê. Same form for all persons." }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "muttuw'k — progressive tense",
+    "output": {
+      "verb": "muttuw'k",
+      "meaning": "to touch",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "muttiyand uLL",  "devanagari": "मुट्टियन्द् उळ्ळ",  "confidence": "✅" },
+        { "person": "nii",   "kodava": "muttiyand uNd",  "devanagari": "मुट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "muttiyand uNd",  "devanagari": "मुट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "nanga", "kodava": "muttiyand uNd",  "devanagari": "मुट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ninga", "kodava": "muttiyand uNd",  "devanagari": "मुट्टियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ainga", "kodava": "muttiyand uNd",  "devanagari": "मुट्टियन्द् उण्ड",  "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Progressive = particle muttiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "muttuw'k — nonpast tense",
+    "output": {
+      "verb": "muttuw'k",
+      "meaning": "to touch",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "muttuwii",   "devanagari": "मुट्टुवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "muttuwiiya", "devanagari": "मुट्टुवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "muttuwa",    "devanagari": "मुट्टुव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "muttuwa",    "devanagari": "मुट्टुव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "muttuwiiraa","devanagari": "मुट्टुवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "muttuwa",    "devanagari": "मुट्टुव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Nonpast endings on stem muttuw-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "poyyuw'k — past tense",
+    "output": {
+      "verb": "poyyuw'k",
+      "meaning": "to hit",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "pojjê", "devanagari": "पोज्जॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "pojjê", "devanagari": "पोज्जॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "pojjê", "devanagari": "पोज्जॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "pojjê", "devanagari": "पोज्जॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "pojjê", "devanagari": "पोज्जॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "pojjê", "devanagari": "पोज्जॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem change: yy→jj (poyyuw'k → pojj-)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "poyyuw'k — progressive tense",
+    "output": {
+      "verb": "poyyuw'k",
+      "meaning": "to hit",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "pojjiyand uLL",  "devanagari": "पोज्जियन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "pojjiyand uNd",  "devanagari": "पोज्जियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "pojjiyand uNd",  "devanagari": "पोज्जियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "pojjiyand uNd",  "devanagari": "पोज्जियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "pojjiyand uNd",  "devanagari": "पोज्जियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "pojjiyand uNd",  "devanagari": "पोज्जियन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem change carries into progressive: yy→jj (pojjiyand)" },
+        { "flag": "✅", "rule": "Progressive = particle pojjiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "poyyuw'k — nonpast tense",
+    "output": {
+      "verb": "poyyuw'k",
+      "meaning": "to hit",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "poyyuwii",   "devanagari": "पोय्युवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "poyyuwiiya", "devanagari": "पोय्युवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "poyyuwa",    "devanagari": "पोय्युव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "poyyuwa",    "devanagari": "पोय्युव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "poyyuwiiraa","devanagari": "पोय्युवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "poyyuwa",    "devanagari": "पोय्युव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Nonpast uses uninflected stem poyyuw- (no yy→jj change in nonpast)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "buduwu'k — past tense",
+    "output": {
+      "verb": "buduwu'k",
+      "meaning": "to stop",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "buttandhê", "devanagari": "बुत्तन्दॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "buttandhê", "devanagari": "बुत्तन्दॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "buttandhê", "devanagari": "बुत्तन्दॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "buttandhê", "devanagari": "बुत्तन्दॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "buttandhê", "devanagari": "बुत्तन्दॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "buttandhê", "devanagari": "बुत्तन्दॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular: buduwu'k → stem change to butt-, past form buttandhê. Variant buttuw'k also attested." },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "dh → द (not ध) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "buduwu'k — progressive tense",
+    "output": {
+      "verb": "buduwu'k",
+      "meaning": "to stop",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "buttiyand uLL",  "devanagari": "बुत्तियन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "buttiyand uNd",  "devanagari": "बुत्तियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "buttiyand uNd",  "devanagari": "बुत्तियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "buttiyand uNd",  "devanagari": "बुत्तियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "buttiyand uNd",  "devanagari": "बुत्तियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "buttiyand uNd",  "devanagari": "बुत्तियन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem butt- carries into progressive particle: buttiyand" },
+        { "flag": "✅", "rule": "Progressive = particle buttiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "buduwu'k — nonpast tense",
+    "output": {
+      "verb": "buduwu'k",
+      "meaning": "to stop",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "buduwuii",   "devanagari": "बुदुवुई",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "buduwuiiya", "devanagari": "बुदुवुईय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "buduwua",    "devanagari": "बुदुवु",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "buduwua",    "devanagari": "बुदुवु",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "buduwuiiraa","devanagari": "बुदुवुईरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "buduwua",    "devanagari": "बुदुवु",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast uses base stem buduwu- (dictionary form). Variant stem buttuw- also attested in some dialects." }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "bapp'k — past tense",
+    "output": {
+      "verb": "bapp'k",
+      "meaning": "to come",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "bandhê", "devanagari": "बन्दॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "bandhê", "devanagari": "बन्दॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "bandhê", "devanagari": "बन्दॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "bandhê", "devanagari": "बन्दॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "bandhê", "devanagari": "बन्दॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "bandhê", "devanagari": "बन्दॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: bapp'k → past stem bandh- (unpredictable)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "dh → द (not ध) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "bapp'k — progressive tense",
+    "output": {
+      "verb": "bapp'k",
+      "meaning": "to come",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "bandhand uLL",  "devanagari": "बन्धन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "bandhand uNd",  "devanagari": "बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "bandhand uNd",  "devanagari": "बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "bandhand uNd",  "devanagari": "बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "bandhand uNd",  "devanagari": "बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "bandhand uNd",  "devanagari": "बन्धन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem bandh- carries into progressive particle: bandhand" },
+        { "flag": "✅", "rule": "Progressive = particle bandhand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "bapp'k — nonpast tense",
+    "output": {
+      "verb": "bapp'k",
+      "meaning": "to come",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "bappii",   "devanagari": "बप्पी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "bappiiya", "devanagari": "बप्पीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "bappa",    "devanagari": "बप्प",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "bappa",    "devanagari": "बप्प",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "bappiiraa","devanagari": "बप्पीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "bappa",    "devanagari": "बप्प",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on irregular stem bapp-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "poap'k — past tense",
+    "output": {
+      "verb": "poap'k",
+      "meaning": "to go",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "poanê", "devanagari": "पोअनॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "poanê", "devanagari": "पोअनॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "poanê", "devanagari": "पोअनॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "poanê", "devanagari": "पोअनॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "poanê", "devanagari": "पोअनॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "poanê", "devanagari": "पोअनॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: poap'k → past stem poa- (p dropped, vowel stem remains)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "oa → ओ is approximate; the oa diphthong has no exact Devanagari equivalent" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "poap'k — progressive tense",
+    "output": {
+      "verb": "poap'k",
+      "meaning": "to go",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "poayand uLL",  "devanagari": "पोअयन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "poayand uNd",  "devanagari": "पोअयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "poayand uNd",  "devanagari": "पोअयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "poayand uNd",  "devanagari": "पोअयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "poayand uNd",  "devanagari": "पोअयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "poayand uNd",  "devanagari": "पोअयन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem poa- carries into progressive particle: poayand" },
+        { "flag": "✅", "rule": "Progressive = particle poayand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "poap'k — nonpast tense",
+    "output": {
+      "verb": "poap'k",
+      "meaning": "to go",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "poaii",   "devanagari": "पोअई",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "poaiiya", "devanagari": "पोअईय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "poaa",    "devanagari": "पोअ",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "poaa",    "devanagari": "पोअ",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "poaiiraa","devanagari": "पोअईरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "poaa",    "devanagari": "पोअ",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on vowel stem poa-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "thimb'k — past tense",
+    "output": {
+      "verb": "thimb'k",
+      "meaning": "to eat",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "thindhê", "devanagari": "तिन्दॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "thindhê", "devanagari": "तिन्दॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "thindhê", "devanagari": "तिन्दॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "thindhê", "devanagari": "तिन्दॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "thindhê", "devanagari": "तिन्दॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "thindhê", "devanagari": "तिन्दॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -b'k verb: thimb'k → past stem thindh- (mb→ndh, unpredictable)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "th → त (not थ), dh → द (not ध) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "thimb'k — progressive tense",
+    "output": {
+      "verb": "thimb'k",
+      "meaning": "to eat",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "thindhand uLL",  "devanagari": "तिन्धन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "thindhand uNd",  "devanagari": "तिन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "thindhand uNd",  "devanagari": "तिन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "thindhand uNd",  "devanagari": "तिन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "thindhand uNd",  "devanagari": "तिन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "thindhand uNd",  "devanagari": "तिन्धन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem thindh- carries into progressive particle: thindhand" },
+        { "flag": "✅", "rule": "Progressive = particle thindhand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "thimb'k — nonpast tense",
+    "output": {
+      "verb": "thimb'k",
+      "meaning": "to eat",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "thimbii",   "devanagari": "तिम्बी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "thimbiiya", "devanagari": "तिम्बीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "thimba",    "devanagari": "तिम्ब",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "thimba",    "devanagari": "तिम्ब",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "thimbiiraa","devanagari": "तिम्बीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "thimba",    "devanagari": "तिम्ब",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on stem thimb-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kêêp'k — past tense",
+    "output": {
+      "verb": "kêêp'k",
+      "meaning": "to listen / to ask",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "kêêtê", "devanagari": "कॅॅतॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "kêêtê", "devanagari": "कॅॅतॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "kêêtê", "devanagari": "कॅॅतॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "kêêtê", "devanagari": "कॅॅतॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "kêêtê", "devanagari": "कॅॅतॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "kêêtê", "devanagari": "कॅॅतॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: kêêp'k → past stem kêêt- (p→t change)" },
+        { "flag": "⚠️", "rule": "êê → ऍ is approximate; double schwa vowel has no standard Devanagari representation" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kêêp'k — progressive tense",
+    "output": {
+      "verb": "kêêp'k",
+      "meaning": "to listen / to ask",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "kêêtiyand uLL",  "devanagari": "कॅॅतियन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "kêêtiyand uNd",  "devanagari": "कॅॅतियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "kêêtiyand uNd",  "devanagari": "कॅॅतियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "kêêtiyand uNd",  "devanagari": "कॅॅतियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "kêêtiyand uNd",  "devanagari": "कॅॅतियन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "kêêtiyand uNd",  "devanagari": "कॅॅतियन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem kêêt- carries into progressive particle: kêêtiyand" },
+        { "flag": "✅", "rule": "Progressive = particle kêêtiyand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kêêp'k — nonpast tense",
+    "output": {
+      "verb": "kêêp'k",
+      "meaning": "to listen / to ask",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "kêêii",   "devanagari": "कॅॅई",   "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "kêêiiya", "devanagari": "कॅॅईय",  "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "kêêa",    "devanagari": "कॅॅअ",   "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "kêêa",    "devanagari": "कॅॅअ",   "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "kêêiiraa","devanagari": "कॅॅईरा", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "kêêa",    "devanagari": "कॅॅअ",   "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on vowel stem kêê-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" },
+        { "flag": "⚠️", "rule": "êê → ऍ is approximate; Devanagari representation uncertain" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kodp'k — past tense",
+    "output": {
+      "verb": "kodp'k",
+      "meaning": "to give",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "kodthê", "devanagari": "कोत्तॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "kodthê", "devanagari": "कोत्तॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "kodthê", "devanagari": "कोत्तॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "kodthê", "devanagari": "कोत्तॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "kodthê", "devanagari": "कोत्तॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "kodthê", "devanagari": "कोत्तॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: kodp'k → past stem kodth- (p→th change)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "th → त (not थ) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kodp'k — progressive tense",
+    "output": {
+      "verb": "kodp'k",
+      "meaning": "to give",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "kodthand uLL",  "devanagari": "कोत्धन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "kodthand uNd",  "devanagari": "कोत्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "kodthand uNd",  "devanagari": "कोत्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "kodthand uNd",  "devanagari": "कोत्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "kodthand uNd",  "devanagari": "कोत्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "kodthand uNd",  "devanagari": "कोत्धन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem kodth- carries into progressive particle: kodthand" },
+        { "flag": "✅", "rule": "Progressive = particle kodthand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kodp'k — nonpast tense",
+    "output": {
+      "verb": "kodp'k",
+      "meaning": "to give",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "kodpii",   "devanagari": "कोद्पी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "kodpiiya", "devanagari": "कोद्पीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "kodpa",    "devanagari": "कोद्प",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "kodpa",    "devanagari": "कोद्प",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "kodpiiraa","devanagari": "कोद्पीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "kodpa",    "devanagari": "कोद्प",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on stem kodp-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "êdp'k — past tense",
+    "output": {
+      "verb": "êdp'k",
+      "meaning": "to take",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "êdthê", "devanagari": "ॅद्तॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "êdthê", "devanagari": "ॅद्तॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "êdthê", "devanagari": "ॅद्तॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "êdthê", "devanagari": "ॅद्तॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "êdthê", "devanagari": "ॅद्तॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "êdthê", "devanagari": "ॅद्तॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: êdp'k → past stem êdth- (p→th change)" },
+        { "flag": "⚠️", "rule": "Initial ê = schwa; Devanagari ॅ word-initially is approximate" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "th → त (not थ) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "êdp'k — progressive tense",
+    "output": {
+      "verb": "êdp'k",
+      "meaning": "to take",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "êdthand uLL",  "devanagari": "ॅद्धन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "êdthand uNd",  "devanagari": "ॅद्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "êdthand uNd",  "devanagari": "ॅद्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "êdthand uNd",  "devanagari": "ॅद्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "êdthand uNd",  "devanagari": "ॅद्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "êdthand uNd",  "devanagari": "ॅद्धन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem êdth- carries into progressive particle: êdthand" },
+        { "flag": "✅", "rule": "Progressive = particle êdthand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "êdp'k — nonpast tense",
+    "output": {
+      "verb": "êdp'k",
+      "meaning": "to take",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "êdpii",   "devanagari": "ॅद्पी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "êdpiiya", "devanagari": "ॅद्पीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "êdpa",    "devanagari": "ॅद्प",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "êdpa",    "devanagari": "ॅद्प",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "êdpiiraa","devanagari": "ॅद्पीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "êdpa",    "devanagari": "ॅद्प",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on stem êdp-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" },
+        { "flag": "⚠️", "rule": "Initial ê = schwa; Devanagari ॅ word-initially is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kudip'k — past tense",
+    "output": {
+      "verb": "kudip'k",
+      "meaning": "to drink",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "kudichê", "devanagari": "कुदिचॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "kudichê", "devanagari": "कुदिचॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "kudichê", "devanagari": "कुदिचॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "kudichê", "devanagari": "कुदिचॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "kudichê", "devanagari": "कुदिचॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "kudichê", "devanagari": "कुदिचॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: kudip'k → past stem kudich- (p→ch change)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kudip'k — progressive tense",
+    "output": {
+      "verb": "kudip'k",
+      "meaning": "to drink",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "kudichand uLL",  "devanagari": "कुदिचन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "kudichand uNd",  "devanagari": "कुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "kudichand uNd",  "devanagari": "कुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "kudichand uNd",  "devanagari": "कुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "kudichand uNd",  "devanagari": "कुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "kudichand uNd",  "devanagari": "कुदिचन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem kudich- carries into progressive particle: kudichand" },
+        { "flag": "✅", "rule": "Progressive = particle kudichand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kudip'k — nonpast tense",
+    "output": {
+      "verb": "kudip'k",
+      "meaning": "to drink",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "kudipii",   "devanagari": "कुदिपी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "kudipiiya", "devanagari": "कुदिपीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "kudipa",    "devanagari": "कुदिप",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "kudipa",    "devanagari": "कुदिप",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "kudipiiraa","devanagari": "कुदिपीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "kudipa",    "devanagari": "कुदिप",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on stem kudi- (p retained): naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "padip'k — past tense",
+    "output": {
+      "verb": "padip'k",
+      "meaning": "to learn",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "padichê", "devanagari": "पदिचॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "padichê", "devanagari": "पदिचॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "padichê", "devanagari": "पदिचॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "padichê", "devanagari": "पदिचॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "padichê", "devanagari": "पदिचॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "padichê", "devanagari": "पदिचॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: padip'k → past stem padich- (p→ch change)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "padip'k — progressive tense",
+    "output": {
+      "verb": "padip'k",
+      "meaning": "to learn",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "padichand uLL",  "devanagari": "पदिचन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "padichand uNd",  "devanagari": "पदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "padichand uNd",  "devanagari": "पदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "padichand uNd",  "devanagari": "पदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "padichand uNd",  "devanagari": "पदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "padichand uNd",  "devanagari": "पदिचन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem padich- carries into progressive particle: padichand" },
+        { "flag": "✅", "rule": "Progressive = particle padichand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "padip'k — nonpast tense",
+    "output": {
+      "verb": "padip'k",
+      "meaning": "to learn",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "padipii",   "devanagari": "पदिपी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "padipiiya", "devanagari": "पदिपीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "padipa",    "devanagari": "पदिप",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "padipa",    "devanagari": "पदिप",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "padipiiraa","devanagari": "पदिपीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "padipa",    "devanagari": "पदिप",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on stem padi- (p retained): naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "wolip'k — past tense",
+    "output": {
+      "verb": "wolip'k",
+      "meaning": "to wash",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "wolichê", "devanagari": "वोलिचॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "wolichê", "devanagari": "वोलिचॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "wolichê", "devanagari": "वोलिचॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "wolichê", "devanagari": "वोलिचॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "wolichê", "devanagari": "वोलिचॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "wolichê", "devanagari": "वोलिचॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: wolip'k → past stem wolich- (p→ch change)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "wolip'k — progressive tense",
+    "output": {
+      "verb": "wolip'k",
+      "meaning": "to wash",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "wolchand uLL",  "devanagari": "वोल्चन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "wolchand uNd",  "devanagari": "वोल्चन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "wolchand uNd",  "devanagari": "वोल्चन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "wolchand uNd",  "devanagari": "वोल्चन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "wolchand uNd",  "devanagari": "वोल्चन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "wolchand uNd",  "devanagari": "वोल्चन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular progressive particle: wolchand (vowel i elided before -chand)" },
+        { "flag": "✅", "rule": "Progressive = particle wolchand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "wolip'k — nonpast tense",
+    "output": {
+      "verb": "wolip'k",
+      "meaning": "to wash",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "wolipii",   "devanagari": "वोलिपी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "wolipiiya", "devanagari": "वोलिपीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "wolipa",    "devanagari": "वोलिप",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "wolipa",    "devanagari": "वोलिप",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "wolipiiraa","devanagari": "वोलिपीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "wolipa",    "devanagari": "वोलिप",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on stem woli- (p retained): naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "pudip'k — past tense",
+    "output": {
+      "verb": "pudip'k",
+      "meaning": "to hold",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "pudichê", "devanagari": "पुदिचॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "pudichê", "devanagari": "पुदिचॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "pudichê", "devanagari": "पुदिचॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "pudichê", "devanagari": "पुदिचॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "pudichê", "devanagari": "पुदिचॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "pudichê", "devanagari": "पुदिचॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: pudip'k → past stem pudich- (p→ch change)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "pudip'k — progressive tense",
+    "output": {
+      "verb": "pudip'k",
+      "meaning": "to hold",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "pudichand uLL",  "devanagari": "पुदिचन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "pudichand uNd",  "devanagari": "पुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "pudichand uNd",  "devanagari": "पुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "pudichand uNd",  "devanagari": "पुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "pudichand uNd",  "devanagari": "पुदिचन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "pudichand uNd",  "devanagari": "पुदिचन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem pudich- carries into progressive particle: pudichand" },
+        { "flag": "✅", "rule": "Progressive = particle pudichand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "pudip'k — nonpast tense",
+    "output": {
+      "verb": "pudip'k",
+      "meaning": "to hold",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "pudipii",   "devanagari": "पुदिपी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "pudipiiya", "devanagari": "पुदिपीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "pudipa",    "devanagari": "पुदिप",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "pudipa",    "devanagari": "पुदिप",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "pudipiiraa","devanagari": "पुदिपीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "pudipa",    "devanagari": "पुदिप",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on stem pudi- (p retained): naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "aap'k — past tense",
+    "output": {
+      "verb": "aap'k",
+      "meaning": "to happen",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "aachê", "devanagari": "आचॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "aachê", "devanagari": "आचॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "aachê", "devanagari": "आचॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "aachê", "devanagari": "आचॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "aachê", "devanagari": "आचॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "aachê", "devanagari": "आचॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -p'k verb: aap'k → past stem aach- (p→ch, vowel stem aa)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "aap'k — progressive tense",
+    "output": {
+      "verb": "aap'k",
+      "meaning": "to happen",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "aayand uLL",  "devanagari": "आयन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "aayand uNd",  "devanagari": "आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "aayand uNd",  "devanagari": "आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "aayand uNd",  "devanagari": "आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "aayand uNd",  "devanagari": "आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "aayand uNd",  "devanagari": "आयन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular progressive particle: aayand (aa stem + yand, not -chand from past stem)" },
+        { "flag": "✅", "rule": "Progressive = particle aayand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "aap'k — nonpast tense",
+    "output": {
+      "verb": "aap'k",
+      "meaning": "to happen",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "aaii",   "devanagari": "आई",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "aaiiya", "devanagari": "आईय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "aaa",    "devanagari": "आअ",   "confidence": "🟡" },
+        { "person": "nanga", "kodava": "aaa",    "devanagari": "आअ",   "confidence": "🟡" },
+        { "person": "ninga", "kodava": "aaiiraa","devanagari": "आईरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "aaa",    "devanagari": "आअ",   "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast endings on vowel stem aa-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kaamb'k — past tense",
+    "output": {
+      "verb": "kaamb'k",
+      "meaning": "to see",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "kandhê", "devanagari": "कन्दॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "kandhê", "devanagari": "कन्दॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "kandhê", "devanagari": "कन्दॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "kandhê", "devanagari": "कन्दॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "kandhê", "devanagari": "कन्दॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "kandhê", "devanagari": "कन्दॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular -b'k verb: kaamb'k → past stem kandh- (aam→an, b→dh, vowel shortens)" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "dh → द (not ध) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kaamb'k — progressive tense",
+    "output": {
+      "verb": "kaamb'k",
+      "meaning": "to see",
+      "tense": "progressive",
+      "forms": [
+        { "person": "naa",   "kodava": "kandhand uLL",  "devanagari": "कन्धन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "kandhand uNd",  "devanagari": "कन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "kandhand uNd",  "devanagari": "कन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "kandhand uNd",  "devanagari": "कन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "kandhand uNd",  "devanagari": "कन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "kandhand uNd",  "devanagari": "कन्धन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Irregular stem kandh- carries into progressive particle: kandhand" },
+        { "flag": "✅", "rule": "Progressive = particle kandhand + ipp'k conjugation: uLL (naa), uNd (all others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "kaamb'k — nonpast tense",
+    "output": {
+      "verb": "kaamb'k",
+      "meaning": "to see",
+      "tense": "nonpast",
+      "forms": [
+        { "person": "naa",   "kodava": "kaambii",   "devanagari": "काम्बी",   "confidence": "🟡" },
+        { "person": "nii",   "kodava": "kaambiiya", "devanagari": "काम्बीय",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "kaamba",    "devanagari": "काम्ब",    "confidence": "🟡" },
+        { "person": "nanga", "kodava": "kaamba",    "devanagari": "काम्ब",    "confidence": "🟡" },
+        { "person": "ninga", "kodava": "kaambiiraa","devanagari": "काम्बीरा", "confidence": "🟡" },
+        { "person": "ainga", "kodava": "kaamba",    "devanagari": "काम्ब",    "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Nonpast uses dictionary stem kaamb-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "ipp'k — present tense",
+    "output": {
+      "verb": "ipp'k",
+      "meaning": "to be",
+      "tense": "present",
+      "forms": [
+        { "person": "naa",   "kodava": "uLL",    "devanagari": "उळ्ळ",  "confidence": "✅" },
+        { "person": "nii",   "kodava": "uLLiya", "devanagari": "उळ्ळिय", "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "uNd",    "devanagari": "उण्ड",  "confidence": "✅" },
+        { "person": "nanga", "kodava": "uNd",    "devanagari": "उण्ड",  "confidence": "✅" },
+        { "person": "ninga", "kodava": "uLLira", "devanagari": "उळ्ळिर", "confidence": "✅" },
+        { "person": "ainga", "kodava": "uNd",    "devanagari": "उण्ड",  "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "ipp'k present: naa→uLL, nii→uLLiya, āāwu/nanga/ainga→uNd, ninga→uLLira" },
+        { "flag": "✅", "rule": "L → ळ, N → ण in Devanagari" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "ipp'k — future tense",
+    "output": {
+      "verb": "ipp'k",
+      "meaning": "to be",
+      "tense": "future",
+      "forms": [
+        { "person": "naa",   "kodava": "ippii",   "devanagari": "इप्पी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "ippiiya", "devanagari": "इप्पीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "ippa",    "devanagari": "इप्प",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "ippa",    "devanagari": "इप्प",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "ippiiraa","devanagari": "इप्पीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "ippa",    "devanagari": "इप्प",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "ipp'k future: stem ipp- + nonpast endings: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "ipp'k — past tense",
+    "output": {
+      "verb": "ipp'k",
+      "meaning": "to be",
+      "tense": "past",
+      "forms": [
+        { "person": "naa",   "kodava": "injê",    "devanagari": "इन्जॅ",   "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "injathê", "devanagari": "इन्जतॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "injathê", "devanagari": "इन्जतॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "injathê", "devanagari": "इन्जतॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "injathê", "devanagari": "इन्जतॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "injathê", "devanagari": "इन्जतॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "ipp'k past is NOT invariant: naa→injê, all others→injathê" },
+        { "flag": "⚠️", "rule": "ê = schwa — Devanagari ॅ is approximate in both injê and injathê" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "êdthan bapp'k — past tense",
+    "output": {
+      "verb": "êdthan bapp'k",
+      "meaning": "to bring",
+      "tense": "past",
+      "grammar_note": "Compound verb — only the last verb is conjugated. First part stays unchanged.",
+      "forms": [
+        { "person": "naa",   "kodava": "êdthan bandhê", "devanagari": "ॅद्थन् बन्दॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "êdthan bandhê", "devanagari": "ॅद्थन् बन्दॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "êdthan bandhê", "devanagari": "ॅद्थन् बन्दॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "êdthan bandhê", "devanagari": "ॅद्थन् बन्दॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "êdthan bandhê", "devanagari": "ॅद्थन् बन्दॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "êdthan bandhê", "devanagari": "ॅद्थन् बन्दॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Compound verb: êdthan (verbal adverb of êdp'k) + bapp'k conjugated as bandhê" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "Initial ê in êdthan = schwa; Devanagari ॅ word-initially is approximate" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "êdthan bapp'k — progressive tense",
+    "output": {
+      "verb": "êdthan bapp'k",
+      "meaning": "to bring",
+      "tense": "progressive",
+      "grammar_note": "Compound verb — only the last verb is conjugated. First part stays unchanged.",
+      "forms": [
+        { "person": "naa",   "kodava": "êdthan bandhand uLL",  "devanagari": "ॅद्थन् बन्धन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "êdthan bandhand uNd",  "devanagari": "ॅद्थन् बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "êdthan bandhand uNd",  "devanagari": "ॅद्थन् बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "êdthan bandhand uNd",  "devanagari": "ॅद्थन् बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "êdthan bandhand uNd",  "devanagari": "ॅद्थन् बन्धन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "êdthan bandhand uNd",  "devanagari": "ॅद्थन् बन्धन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Compound verb: êdthan unchanged + bapp'k progressive bandhand + ipp'k: uLL (naa), uNd (others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "susth aap'k — past tense",
+    "output": {
+      "verb": "susth aap'k",
+      "meaning": "to be tired",
+      "tense": "past",
+      "grammar_note": "Compound verb — only the last verb is conjugated. First part stays unchanged.",
+      "forms": [
+        { "person": "naa",   "kodava": "susth aachê", "devanagari": "सुस्थ् आचॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "susth aachê", "devanagari": "सुस्थ् आचॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "susth aachê", "devanagari": "सुस्थ् आचॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "susth aachê", "devanagari": "सुस्थ् आचॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "susth aachê", "devanagari": "सुस्थ् आचॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "susth aachê", "devanagari": "सुस्थ् आचॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Compound verb: susth (adjective, unchanged) + aap'k conjugated as aachê" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "th → त (not थ) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "susth aap'k — progressive tense",
+    "output": {
+      "verb": "susth aap'k",
+      "meaning": "to be tired",
+      "tense": "progressive",
+      "grammar_note": "Compound verb — only the last verb is conjugated. First part stays unchanged.",
+      "forms": [
+        { "person": "naa",   "kodava": "susth aayand uLL",  "devanagari": "सुस्थ् आयन्द् उळ्ळ",  "confidence": "🟡" },
+        { "person": "nii",   "kodava": "susth aayand uNd",  "devanagari": "सुस्थ् आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "āāwu",  "kodava": "susth aayand uNd",  "devanagari": "सुस्थ् आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "nanga", "kodava": "susth aayand uNd",  "devanagari": "सुस्थ् आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ninga", "kodava": "susth aayand uNd",  "devanagari": "सुस्थ् आयन्द् उण्ड",  "confidence": "🟡" },
+        { "person": "ainga", "kodava": "susth aayand uNd",  "devanagari": "सुस्थ् आयन्द् उण्ड",  "confidence": "🟡" }
+      ],
+      "flags": [
+        { "flag": "🟡", "rule": "Compound verb: susth unchanged + aap'k progressive aayand + ipp'k: uLL (naa), uNd (others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "thakk pariyuw'k — past tense",
+    "output": {
+      "verb": "thakk pariyuw'k",
+      "meaning": "to speak",
+      "tense": "past",
+      "grammar_note": "Compound verb — only the last verb is conjugated. First part stays unchanged.",
+      "forms": [
+        { "person": "naa",   "kodava": "thakk pariyunê", "devanagari": "तक्क् परियुनॅ", "confidence": "⚠️" },
+        { "person": "nii",   "kodava": "thakk pariyunê", "devanagari": "तक्क् परियुनॅ", "confidence": "⚠️" },
+        { "person": "āāwu",  "kodava": "thakk pariyunê", "devanagari": "तक्क् परियुनॅ", "confidence": "⚠️" },
+        { "person": "nanga", "kodava": "thakk pariyunê", "devanagari": "तक्क् परियुनॅ", "confidence": "⚠️" },
+        { "person": "ninga", "kodava": "thakk pariyunê", "devanagari": "तक्क् परियुनॅ", "confidence": "⚠️" },
+        { "person": "ainga", "kodava": "thakk pariyunê", "devanagari": "तक्क् परियुनॅ", "confidence": "⚠️" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Compound verb: thakk (noun 'speech', unchanged) + pariyuw'k conjugated as regular -uw'k" },
+        { "flag": "⚠️", "rule": "Past tense marker ê = schwa — Devanagari ॅ is approximate" },
+        { "flag": "⚠️", "rule": "th → त (not थ) in Kodava romanization" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "thakk pariyuw'k — progressive tense",
+    "output": {
+      "verb": "thakk pariyuw'k",
+      "meaning": "to speak",
+      "tense": "progressive",
+      "grammar_note": "Compound verb — only the last verb is conjugated. First part stays unchanged.",
+      "forms": [
+        { "person": "naa",   "kodava": "thakk pariyand uLL",  "devanagari": "तक्क् परियन्द् उळ्ळ",  "confidence": "✅" },
+        { "person": "nii",   "kodava": "thakk pariyand uNd",  "devanagari": "तक्क् परियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "thakk pariyand uNd",  "devanagari": "तक्क् परियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "nanga", "kodava": "thakk pariyand uNd",  "devanagari": "तक्क् परियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ninga", "kodava": "thakk pariyand uNd",  "devanagari": "तक्क् परियन्द् उण्ड",  "confidence": "✅" },
+        { "person": "ainga", "kodava": "thakk pariyand uNd",  "devanagari": "तक्क् परियन्द् उण्ड",  "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Compound verb: thakk unchanged + pariyuw'k progressive pariyand + ipp'k: uLL (naa), uNd (others)" }
+      ]
+    }
+  },
+  {
+    "type": "verb_conjugation",
+    "instruction": "Conjugate this Kodava takk verb. Show all person forms. Flag irregular patterns with 🟡 and uncertain Devanagari sounds with ⚠️.",
+    "input": "thakk pariyuw'k — nonpast tense",
+    "output": {
+      "verb": "thakk pariyuw'k",
+      "meaning": "to speak",
+      "tense": "nonpast",
+      "grammar_note": "Compound verb — only the last verb is conjugated. First part stays unchanged.",
+      "forms": [
+        { "person": "naa",   "kodava": "thakk pariyuwii",   "devanagari": "तक्क् परियुवी",   "confidence": "✅" },
+        { "person": "nii",   "kodava": "thakk pariyuwiiya", "devanagari": "तक्क् परियुवीय",  "confidence": "✅" },
+        { "person": "āāwu",  "kodava": "thakk pariyuwa",    "devanagari": "तक्क् परियुव",    "confidence": "✅" },
+        { "person": "nanga", "kodava": "thakk pariyuwa",    "devanagari": "तक्क् परियुव",    "confidence": "✅" },
+        { "person": "ninga", "kodava": "thakk pariyuwiiraa","devanagari": "तक्क् परियुवीरा", "confidence": "✅" },
+        { "person": "ainga", "kodava": "thakk pariyuwa",    "devanagari": "तक्क् परियुव",    "confidence": "✅" }
+      ],
+      "flags": [
+        { "flag": "✅", "rule": "Compound verb: thakk unchanged + pariyuw'k nonpast on stem pariyuw-: naa→-ii, nii→-iiya, āāwu/nanga/ainga→-a, ninga→-iiraa" }
+      ]
+    }
+  }
+]

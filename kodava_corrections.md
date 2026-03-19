@@ -60,6 +60,16 @@ Corrections in Section B are confirmed textbook errors — the agent must prefer
 
 ## Vocabulary Corrections
 
+- WHAT: bappa (incorrectly assumed to mean "father")
+- CORRECT: appa
+- DEVANAGARI: अप्प
+- WHY: The textbook never mentions the word for father at all.
+  bappa in the textbook refers exclusively to the verb "coming" (from bapp'k = to come).
+  The word for father is appa — native speaker confirmed.
+  Do NOT infer bappa = father from the textbook.
+- CONFIDENCE: native speaker confirmed
+- USAGE: niida appa elli uNd? = Where is your father?
+
 - WHAT: gothth aapa (I miss them)
 - CORRECT: ghê-na aapa
 - WHY: gothth = knowledge. Missing someone = ghê-na aapa

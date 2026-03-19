@@ -1,0 +1,45 @@
+# QLoRA fine-tuning config for MLX on Apple Silicon
+# Base model: Qwen3.5 4B OptiQ (mixed-precision, text generation only)
+# Target: Kodava takk transliteration and grammar
+# Hardware: Apple M3 Pro 18GB unified memory
+
+model: "mlx-community/Qwen3.5-4B-OptiQ-4bit"
+train: true
+fine_tune_type: "lora"
+
+# LoRA hyperparameters
+lora_parameters:
+  rank: 8
+  alpha: 16
+  dropout: 0.05
+  scale: 10.0
+
+# 4 layers — sufficient for 175-example dataset, halves gradient memory vs 8
+# MLX bug #2305: grad_accumulation_steps removed — causes memory explosion
+# at every optimizer step via lazy eval graph accumulation
+num_layers: 4
+batch_size: 1
+
+iters: 1000
+val_batches: 10
+learning_rate: 5.0e-5
+steps_per_report: 10
+steps_per_eval: 50
+save_every: 100
+adapter_path: "adapters/kodava"
+grad_checkpoint: true
+
+# 512 — all examples fit after compact JSON + short system prompt
+max_seq_length: 512
+
+optimizer: "adam"
+lr_schedule:
+  name: "cosine_decay"
+  warmup: 100
+  arguments: [5.0e-5, 1000, 5.0e-6]
+
+train_split: "train"
+valid_split: "valid"
+test_split: "test"
+
+seed: 42

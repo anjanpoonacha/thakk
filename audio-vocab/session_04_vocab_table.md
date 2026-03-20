@@ -185,6 +185,6 @@
 | Who is in the bathroom? (model answer) | Gudda'thil oru manusha injathe. | One person is in the bathroom |
 | Who all are at this table? (model answer) | Oru manusha and oru manshathi meaji'l injathe. | A man and a woman are at the table |
 | Who all are in this picture? (model answer) | Oru thaathth, oru awaya, ainga'ra kiru moova injathe. | A grandfather, a grandmother, their grandson are there |
-| Whose doll is this? (model answer) | Idh dhaa'ra gombe? — Adh ava'ra gombe. | dhaa'ra = whose; ava'ra = hers |
-| Whose ball is this? (model answer) | Idh dhaa'ra cheNdu? — Idh ivan'ra cheNdu. | ivan'ra = his (this boy's) |
-| Who has it? (model answer) | Idh dhaa'ra pakka injathe? — Idh naada pakka injathe. | naada pakka = with me / I have it |
+| Whose doll is this? (model answer) | Idh dhaa'da gombe? — Adh ava'ra gombe. | dhaa'da = whose; ava'ra = hers |
+| Whose ball is this? (model answer) | Idh dhaa'da cheNdu? — Idh ivan'ra cheNdu. | ivan'ra = his (this boy's) |
+| Who has it? (model answer) | Idh dhaa'da pakka injathe? — Idh naada pakka injathe. | naada pakka = with me / I have it |

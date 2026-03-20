@@ -44,7 +44,7 @@ Corrections in Section B are confirmed textbook errors — the agent must prefer
 - WHAT: nelat'l not nela'l → CORRECT: nelat'l (locative of nela) — CONFIDENCE: certain
 
 - WHAT: Naa Kodagu'nja bandhand Bengaluru'k poayith
-- CORRECT: Naa Kodagu'nja bandhiye. Bengaluru'l ullo.
+- CORRECT: Naan Kodagu'nja bandhiye. Bengaluru'l ullo.
 - WHY: Origin + residence = two separate sentences
 - CONFIDENCE: certain
 

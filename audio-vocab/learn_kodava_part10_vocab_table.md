@@ -1,7 +1,7 @@
 # Learn Kodava Language Completely — Part 10
 ## Words in Coorgi Language: Days, Time Words & Numbers
 
-*Source: "Learn Kodava language completely | PART - 10 | Words in Coorgi Language"*
+*Source: "Learn Kodava language completely — PART 10 — Words in Coorgi Language"*
 
 ---
 

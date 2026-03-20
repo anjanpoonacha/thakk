@@ -2,12 +2,6 @@
 
 A language resource for Kodava takk — a Dravidian language spoken in Coorg (Kodagu), Karnataka. This repo is the single source of truth for the [kodava-rag](https://github.com/anjanpoonacha/kodava-rag) system, which answers questions about Kodava grammar, vocabulary, and sentence construction.
 
-The primary audience is **Kannada speakers** learning Kodava takk. Kodava and Kannada share Dravidian roots and many structural similarities, making Kannada a natural reference point for phoneme comparisons and grammatical analogies.
-
-## Use Case
-
-Kannada speakers learning Kodava takk can query the RAG system with natural language questions and receive answers grounded in the verified corpus. The system uses Claude as the language model, with Kannada script rendering handled on demand — no pre-computation required.
-
 ## Repository Structure
 
 ```
@@ -53,13 +47,6 @@ The override layer exists because published textbooks occasionally contain roman
 | ⚠️ | Uncertain — no clean equivalent; treat with caution |
 | 🔴 | Grammar trap — structural rule commonly misapplied (e.g. geminate consonants, retroflex distinctions) |
 | 🟡 | Provisional — sourced from textbook only; not yet native-speaker verified |
-
-## Script Fields
-
-Corpus entries carry two script fields alongside the romanized form:
-
-- **`devanagari`** — pre-computed Devanagari rendering (retained for reference)
-- **`kannada`** — Kannada script rendering; empty string until populated. The RAG model renders Kannada script on demand when this field is empty.
 
 ## Adding New Corrections
 

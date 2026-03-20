@@ -10,7 +10,7 @@
 | Forty-one (41) | naapath'ondh | Example: pathth guuma (10 owls) + nuppath'ondh guuma (31 owls) = 41 |
 | Forty-two (42) | naapath'dhand | Example: irovadh kappe (20 frogs) + irovadh'dhand kappe (22 frogs) = 42 |
 | Forty-three (43) | naapath'muundh | Example: nuppadh biiga (30 locks) + padhimuundh biiga (13 locks) = 43 |
-| Forty-four (44) | naapath'naal | Example: naapadh kondi (40 monkeys) + naal kondi (4 monkeys) = 44 |
+| Forty-four (44) | naapath'naal | Example: naapadh kondi (40 buttons) + naal kondi (4 buttons) = 44 |
 | Forty-five (45) | naapath'anjii | Example: pathth motte (10 eggs) + nuppath'anjii motte (35 eggs) = 45 |
 | Forty-six (46) | naapath'aar | Example: irovadh chakra (20 wheels) + irovath'aar chakra (26 wheels) = 46 |
 | Forty-seven (47) | naapath'êêL | Example: nuppadh (30 keys) + padhinêêL (17 keys) = 47 |
@@ -24,7 +24,6 @@
 |---------|-------------|-------------|
 | Owl | guuma | Used in number counting examples |
 | Frog | kappe | Used in number counting examples |
-| Monkey | kondi | Used in number counting examples |
 | Bird | pakshi | General term for bird |
 | Sparrow | mane pakshi | mane (house) + pakshi (bird) — literally 'house bird' |
 | Crow | kaake | |
@@ -69,6 +68,7 @@
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
+| Button | kondi | Used in number counting examples |
 | Lock | biiga | Used in number counting examples |
 | Wheel | chakra | Used in number counting examples |
 | Finger | bera | Used in number counting examples (50 = all 10 fingers × 5) |

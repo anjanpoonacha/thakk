@@ -10,7 +10,7 @@ datasets:
     weight: 3.0
     description: "Grammar corrections and traps — weighted 3x because rare but critical"
 
-  - path: "training_data/conjugations.json"
+  - path: "training_data/conjugations.jsonl"
     weight: 1.0
     description: "Verb conjugation tables across all tenses and persons"
 

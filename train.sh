@@ -130,7 +130,10 @@ for dataset_cfg in weights_cfg["datasets"]:
         continue
 
     with open(path, encoding="utf-8") as f:
-        records = json.load(f)
+        if path.endswith(".jsonl"):
+            records = [json.loads(line) for line in f if line.strip()]
+        else:
+            records = json.load(f)
 
     print(f"[data] Loaded {len(records)} records from {path} (weight={weight})")
 

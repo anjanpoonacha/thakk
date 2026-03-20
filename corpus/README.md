@@ -14,7 +14,7 @@ thakk/
 │   ├── *_vocab_table.md          ← vocabulary source (one per session)
 │   └── *_transcription.txt       ← raw audio transcriptions
 ├── phoneme_table/
-│   └── kodava_devanagari_map.json ← phoneme → Devanagari mapping
+│   └── kodava_devanagari_map.json ← phoneme map with Devanagari + English hints
 ├── kodava_corrections.md          ← grammar corrections & native-speaker verified forms
 ├── elementary_kodava_FINAL.md     ← primary textbook source
 └── corpus/
@@ -44,8 +44,9 @@ Every entry in a corpus JSONL file follows the `CorpusEntry` schema:
 {
   "id": "7af43df2",            // SHA-256[:8] of type+kodava+english — deterministic, deduplication key
   "type": "vocabulary",        // vocabulary | grammar_rule | phoneme | sentence
-  "kodava": "Naa bandi.",      // Romanized Kodava — never Devanagari
+  "kodava": "Naa bandi.",      // Romanized Kodava — never Devanagari or Kannada script
   "devanagari": "नान बन्दि.", // Devanagari rendering, empty string if unknown
+  "kannada": "ನಾನ್ ಬಂದಿ.",   // Kannada script rendering, empty string until populated
   "english": "I came.",        // English meaning or description
   "explanation": "naa = I, bandi = came (past of bapp'k)",
   "confidence": "audio_source",// verified | audio_source | textbook | unverified
@@ -53,6 +54,8 @@ Every entry in a corpus JSONL file follows the `CorpusEntry` schema:
   "tags": ["lesson:11", "past-tense"]
 }
 ```
+
+**On script fields:** `devanagari` is pre-computed where available (retained for reference). `kannada` defaults to empty string — the RAG model (Claude) renders Kannada script on demand when the field is empty. Both fields can be populated manually over time as the corpus matures.
 
 **Sentence entries** (from `corpus/sentences.jsonl`) use a simpler shape produced by the feedback endpoint:
 

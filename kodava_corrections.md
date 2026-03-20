@@ -437,3 +437,13 @@ All entries use the canonical WHAT / CORRECT / WHY / CONFIDENCE format so every 
 - WHAT: poyoNd uNd vs poayand uLL (progressive forms of poap'k)
 - CORRECT: poyoNd uNd = going RIGHT NOW (pure present, happening at this moment). poayand uLL = going (habitual / general present / future). These are DISTINCT constructions — both valid, different meaning.
 - CONFIDENCE: verified
+
+- WHAT: poap'killa or poapilla (negative future of poap'k — will not go)
+- CORRECT: poap'le = will not go (definite negative future)
+- WHY: poap'le is the confirmed definite negative future. poap'killa/poapilla are incorrect forms.
+- CONFIDENCE: native speaker confirmed
+
+- WHAT: negative future of poap'k — may not go (dubitative)
+- CORRECT: poap'killê = may not go (dubitative negative future)
+- WHY: poap'killê expresses uncertainty about not going — distinct from poap'le which is definite. The ê suffix marks the dubitative mood.
+- CONFIDENCE: native speaker confirmed

@@ -155,19 +155,19 @@
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| This is our house. | Idh nanga'ra mane. | idh = this, nanga'ra = our (genitive), mane = house |
-| She is your (older) sister. | Iva nii'ra akkayya. | iva = she, nii'ra = your (singular genitive), akkayya = older sister |
-| That is your mango. (to a group) | Adh ninga'ra maange. | ninga'ra = your (plural genitive) |
-| That is your mango. (to one person) | Adh nii'ra maange. | nii'ra = your (singular genitive) |
-| I am her little sister. | Naanu iva'ra thange. | iva'ra = her (genitive), thange = younger sister |
-| That man is his younger brother. | Aa manusha avan'ra thammaNa. | avan'ra = his (genitive), thammaNa = younger brother |
-| Their daughter is sad. | Ainga'ra moova beajarat'l injathe. | ainga'ra = their, moova = daughter, beajarat'l injathe = is sad |
+| This is our house. | Idh nangada mane. | idh = this, nangada = our (genitive), mane = house |
+| She is your (older) sister. | Iva niida akkayya. | iva = she, niida = your (singular genitive), akkayya = older sister |
+| That is your mango. (to a group) | Adh ningada maange. | ningada = your (plural genitive) |
+| That is your mango. (to one person) | Adh niida maange. | niida = your (singular genitive) |
+| I am her little sister. | Naanu ivada thange. | ivada = her (genitive), thange = younger sister |
+| That man is his younger brother. | Aa manusha avanda thammaNa. | avanda = his (genitive), thammaNa = younger brother |
+| Their daughter is sad. | Ainga'ra moova beajarat'l injathe. | aingada = their, moova = daughter, beajarat'l injathe = is sad |
 | I have three dogs. | Naada pakka muundh naayi injathe. | naada pakka = with me / I have, muundh = 3, naayi = dogs |
-| We have a table. | Nanga'ra pakka oru meaji injathe. | nanga'ra pakka = with us / we have, oru = a/one, meaji = table |
-| Do you have a fork? | Nii'ra pakka oru muLLu chamcha injathe? | nii'ra pakka = with you / do you have |
+| We have a table. | Nanga'ra pakka oru meaji injathe. | nangada pakka = with us / we have, oru = a/one, meaji = table |
+| Do you have a fork? | Nii'ra pakka oru muLLu chamcha injathe? | niida pakka = with you / do you have |
 | Do you have 20 dollars? | Nii'ra pakka irovad dollar injathe? | irovad = 20 |
-| At home he has 10 spoons. | Mane'l avan'ra pakka pathth chamcha injathe. | mane'l = at home, avan'ra pakka = he has, pathth = 10, chamcha = spoons |
-| Do they have a pan? | Ainga'ra pakka oru ganji injathe? | ainga'ra pakka = with them / do they have |
+| At home he has 10 spoons. | Mane'l avanda pakka pathth chamcha injathe. | mane'l = at home, avanda pakka = he has, pathth = 10, chamcha = spoons |
+| Do they have a pan? | Ainga'ra pakka oru ganji injathe? | aingada pakka = with them / do they have |
 | They have two cats. | Ainga'ra pakka dhandu poonye injathe. | dhandu = 2, poonye = cats |
 
 ## Practice Questions (with model answers)
@@ -184,7 +184,7 @@
 | Are they in a room? | Ainga oru kombare'l injathe? | oru = a/one, kombare = room |
 | Who is in the bathroom? (model answer) | Gudda'thil oru manusha injathe. | One person is in the bathroom |
 | Who all are at this table? (model answer) | Oru manusha and oru manshathi meaji'l injathe. | A man and a woman are at the table |
-| Who all are in this picture? (model answer) | Oru thaathth, oru awaya, ainga'ra kiru moova injathe. | A grandfather, a grandmother, their grandson are there |
-| Whose doll is this? (model answer) | Idh dhaa'da gombe? — Adh ava'ra gombe. | dhaa'da = whose; ava'ra = hers |
-| Whose ball is this? (model answer) | Idh dhaa'da cheNdu? — Idh ivan'ra cheNdu. | ivan'ra = his (this boy's) |
+| Who all are in this picture? (model answer) | Oru thaathth, oru awaya, aingada kiru moova injathe. | A grandfather, a grandmother, their grandson are there |
+| Whose doll is this? (model answer) | Idh dhaa'da gombe? — Adh avada gombe. | dhaa'da = whose; avada = hers |
+| Whose ball is this? (model answer) | Idh dhaa'da cheNdu? — Idh ivanda cheNdu. | ivanda = his (this boy's) |
 | Who has it? (model answer) | Idh dhaa'da pakka injathe? — Idh naada pakka injathe. | naada pakka = with me / I have it |

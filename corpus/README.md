@@ -14,11 +14,11 @@ thakk/
 │   ├── *_vocab_table.md          ← vocabulary source (one per session)
 │   └── *_transcription.txt       ← raw audio transcriptions
 ├── phoneme_table/
-│   └── kodava_devanagari_map.json ← phoneme map with Devanagari + English hints
+│   └── kodava_devanagari_map.json ← phoneme map with script hints
 ├── kodava_corrections.md          ← grammar corrections & native-speaker verified forms
 ├── elementary_kodava_FINAL.md     ← primary textbook source
 └── corpus/
-    ├── sentences.jsonl            ← approved user-submitted sentences (this repo)
+    ├── sentences.jsonl            ← approved user-submitted sentences
     ├── review.jsonl               ← rejected submissions pending manual review
     └── README.md                  ← this file
 ```
@@ -42,22 +42,22 @@ Every entry in a corpus JSONL file follows the `CorpusEntry` schema:
 
 ```json
 {
-  "id": "7af43df2",            // SHA-256[:8] of type+kodava+english — deterministic, deduplication key
-  "type": "vocabulary",        // vocabulary | grammar_rule | phoneme | sentence
-  "kodava": "Naa bandi.",      // Romanized Kodava — never Devanagari or Kannada script
-  "devanagari": "नान बन्दि.", // Devanagari rendering, empty string if unknown
-  "kannada": "ನಾನ್ ಬಂದಿ.",   // Kannada script rendering, empty string until populated
-  "english": "I came.",        // English meaning or description
+  "id": "7af43df2",       // SHA-256[:8] of type+kodava+english — deterministic, deduplication key
+  "type": "vocabulary",   // vocabulary | grammar_rule | phoneme | sentence
+  "kodava": "Naa bandi.", // Romanized Kodava — always Roman script
+  "devanagari": "...",    // Devanagari rendering, empty string if unknown
+  "kannada": "...",       // Kannada script rendering, empty string if unknown
+  "english": "I came.",   // English meaning or description
   "explanation": "naa = I, bandi = came (past of bapp'k)",
-  "confidence": "audio_source",// verified | audio_source | textbook | unverified
+  "confidence": "audio_source", // verified | audio_source | textbook | unverified
   "source": "session_11_vocab_table.md",
   "tags": ["lesson:11", "past-tense"]
 }
 ```
 
-**On script fields:** `devanagari` is pre-computed where available (retained for reference). `kannada` defaults to empty string — the RAG model (Claude) renders Kannada script on demand when the field is empty. Both fields can be populated manually over time as the corpus matures.
+Script fields (`devanagari`, `kannada`) default to empty string. The model renders them on demand when empty. They can be pre-populated over time as the corpus matures.
 
-**Sentence entries** (from `corpus/sentences.jsonl`) use a simpler shape produced by the feedback endpoint:
+**Sentence entries** (from `corpus/sentences.jsonl`) use a simpler shape:
 
 ```json
 {
@@ -85,7 +85,7 @@ Every entry in a corpus JSONL file follows the `CorpusEntry` schema:
 
 ## Adding new vocabulary (contributor workflow)
 
-1. Create a new `audio-vocab/<session_name>_vocab_table.md` with this structure:
+1. Create a new `audio-vocab/<session_name>_vocab_table.md`:
 
    ```markdown
    | English | Kodava Takk | Explanation |
@@ -93,13 +93,13 @@ Every entry in a corpus JSONL file follows the `CorpusEntry` schema:
    | I went  | Naa poaye.  | naa = I, poaye = went (past of poap'k) |
    ```
 
-2. Run `make corpus` in the `kodava-rag` repo — it will sync this file and rebuild the BM25 index automatically.
+2. Run `make corpus` in `kodava-rag` — syncs and rebuilds the BM25 index automatically.
 
 ---
 
 ## Adding grammar corrections
 
-Append a block to `kodava_corrections.md` following the existing `WHAT / CORRECT / WHY / CONFIDENCE` format:
+Append a block to `kodava_corrections.md`:
 
 ```markdown
 - WHAT: incorrect form or phrase
@@ -108,8 +108,6 @@ Append a block to `kodava_corrections.md` following the existing `WHAT / CORRECT
 - CONFIDENCE: certain
 ```
 
-Sections B, C, D, E group corrections by type (textbook errors, person forms, vocabulary, spelling).
-
 ---
 
 ## Feedback loop (sentences.jsonl / review.jsonl)
@@ -117,8 +115,6 @@ Sections B, C, D, E group corrections by type (textbook errors, person forms, vo
 The RAG API writes directly to this repo via the GitHub Contents API:
 
 - `POST /feedback` with `status: approved` or `corrected` → appended to `corpus/sentences.jsonl`
-- `POST /feedback` with `status: rejected` → appended to `corpus/review.jsonl` (pending manual review)
+- `POST /feedback` with `status: rejected` → appended to `corpus/review.jsonl`
 
 To promote a rejected entry: move it from `review.jsonl` to `sentences.jsonl` manually, or re-submit via the API with `status: corrected`.
-
-Entries in `sentences.jsonl` are live in the RAG immediately on the next `make corpus` run (or on next pod startup in Kyma).

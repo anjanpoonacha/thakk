@@ -167,7 +167,7 @@ The agent must learn these verb forms. Native speaker flagged that thakk pariyan
 
 ## Verb: thoLip'k (to laugh)
 - thoLipa'k = to laugh (infinitive)
-- naa thoLipi = I laughed
+- naan thoLipi = I laughed
 - ninga thoLiri = you laughed
 - ellaru thoLcha't = everyone laughed
 - thoLchathe = laughed (past)
@@ -215,7 +215,7 @@ CONFIDENCE: certain (native speaker supplied full conjugation)
 #### Regular -uw'k verbs (past root = progressive - iyand)
 | Person | Ending | Example (maaduw'k) | Devanagari |
 |---|---|---|---|
-| naa | root + unê (spoken) OR root + iye (textbook) | maadunê / maadiye | मादुनॅ / मादिये |
+| naan | root + unê (spoken) OR root + iye (textbook) | maadunê / maadiye | मादुनॅ / मादिये |
 | nii | root + iiyaa | maadiiyaa | मादीया |
 | āāwu/ava/adh/ainga | root + ichi | maadichi | मादिचि |
 | nanga | root + DDichi (ONLY for maad root) OR root + ichi | maDDichi | माड्डिचि |
@@ -226,13 +226,13 @@ Note: maDDichi (retroflex DD) is ONLY for the maaduw'k root. Other verbs use pla
 #### Irregular -p'k/-b'k verbs
 | Person | Ending | bapp'k | poap'k | thimb'k | kudip'k |
 |---|---|---|---|---|---|
-| naa | stem + ê | bandhê | poanê | thindhê | kudichê |
+| naan | stem + ê | bandhê | poanê | thindhê | kudichê |
 | nii | stem + iiyaa | bandhiiyaa | poaiiyaa | thindhiiyaa | kudichiiyaa |
 | āāwu/nanga/ainga | 3rd form | baanthê | poachi | thindhêchi | kudichethê |
 | ninga | stem + iiraa | bandhiiraa | poaiiraa | thindhiiraa | kudichiiraa |
 
 #### Special case: êêw'k (to wake up)
-- naa → êêtê
+- naan → êêtê
 - āāwu/nanga/ainga → êêdêthê (native speaker confirmed)
 
 ---
@@ -243,7 +243,7 @@ Note: maDDichi (retroflex DD) is ONLY for the maaduw'k root. Other verbs use pla
 - CORRECT: pinynya (FINAL.md uses pinynya 19 times consistently)
 - ALSO: minynya (before) — NOT mininya
 
-- WHAT: injie or innji (ipp'k naa past)
+- WHAT: injie or innji (ipp'k naan past)
 - CORRECT: injiye (FINAL.md confirmed)
 
 - WHAT: kudichand (kudip'k progressive)
@@ -252,7 +252,7 @@ Note: maDDichi (retroflex DD) is ONLY for the maaduw'k root. Other verbs use pla
 - WHAT: baathê (bapp'k 3rd person past)
 - CORRECT: baanthê (native speaker confirmed)
 
-- WHAT: poaii (poap'k naa nonpast)
+- WHAT: poaii (poap'k naan nonpast)
 - CORRECT: poapi (native speaker confirmed)
 
 - WHAT: poachi (poap'k 3rd person past)

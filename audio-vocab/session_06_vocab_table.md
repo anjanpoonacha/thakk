@@ -1,274 +1,236 @@
 # Session 06 — Kodava Takk Vocabulary Table
 
 **Source:** https://www.youtube.com/watch?v=O9tdR9DYACg  
-**Topics:** Recap & picture questions, days of the week practice, numbers 41–60, nature vocabulary, maternal relationships, body parts, verbs & activities, maaduw'k conjugation, compound verbs with maaduw'k, daily routine phrases, directions & locations, movement sentences with progressive forms, progressive tense (maadiyand ipp'k)
+**Topics:** Days of the week practice (with past tense), numbers 51–60, nature vocabulary, maternal relationships, body parts, verbs & activities, maaduw'k conjugation, compound verbs with maaduw'k, daily routine phrases, directions & locations, movement sentences with progressive forms, progressive tense (maadiyand ipp'k)
 
 ---
 
-## Recap / Picture Questions
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Kodava language | Kodava takk | - |
-| What do you all see? | Nink' or ningak' enthellā kāmbā? | `ningak'` = you (pl.), `enthellā` = what all, `kāmbā` = see |
-| I see a stool. | nāk' oru mukkāli kāmbā | `nāk'` = I, `oru` = one, `mukkāli` = stool, `kāmbā` = see |
-| I see a banana. | nāk' oru bāLe paNNu kāmbā | `nāk'` = I, `oru` = one, `bāLe paNNu` = banana, `kāmbā` = see |
-| In this picture, where is the crow? | Ī chithrathil' kāke elli uṇḍ? | `ī chithrathil'` = in this picture, `kāke` = crow, `elli uṇḍ` = where is |
-| On which side is it? | Ēdh bariyil uṇḍ? | `ēdh` = which, `bariyil` = on the side, `uṇḍ` = is |
-| Where is the horse? | Kudhre elli uṇḍ? | `kudhre` = horse, `elli uṇḍ` = where is |
-| In this picture, where are the kids? | Ī chithrathil' poḍiye elli uṇḍ? | `poḍiye` = kids/children |
-| In this picture, where is the spider? | Ī chithrathil' sūrāL elli uṇḍ? | `sūrāL` = spider |
-| Is it below or is it on top? | Aḍil uṇḍā koḍil uṇḍā? | `aḍil` = below, `koḍil` = on top, `uṇḍā` = is it? |
-| In this picture, where is the bell? | Ī chithrathil' gaṇṭe elli uṇḍ? | `gaṇṭe` = bell |
 
 ## Days of the Week
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| Daily chores of the week | Wārathra dhinachari | - |
-| What did Thomas do on Monday? | Thomas thingLāche enth māḍchi? | `thingLāche` = on Monday, `enth māḍchi` = what did (he) do |
-| Thomas worked on Monday. | Thomas thingLāche kelsa māḍchi | `kelsa māḍchi` = worked |
-| What did Akkam do on Sunday? | Akkam' nārāche enth māḍchi? | `nārāche` = on Sunday |
-| Akkam took a holiday on Sunday. | Akkam' nārāche raja māḍchi | `raja` = holiday, `māḍchi` = took/did |
-| Who has work on Wednesday? | Ikkā dārk' padhnāche kelsa uṇḍ? | `dārk'` = for whom, `padhnāche` = Wednesday, `kelsa uṇḍ` = work is there |
-| Who has a holiday on Thursday? | dārk' bēLāche raja uṇḍ? | `bēLāche` = Thursday |
-| On which day does everybody have a festival? | ēdh dhinathil' ellārkū namme uṇḍ? | `ēdh dhinathil'` = on which day, `ellārkū` = for everybody, `namme` = festival |
-| On Saturday everybody has a festival. | Cheniāche ellārkū namme uṇḍ | `cheniāche` = Saturday |
-| Which day does everybody have work? | Ēdh dhinathil' ellārkū kelsa uṇḍ? | - |
-| Tuesday | Chowāche | - |
+| Daily chores of the week | Waarathra dhinachari | - |
+| What did Thomas do on Monday? | Thomas thingLaache enth maaDchi? | `thingLaache` = on Monday, `enth maaDchi` = what did (he) do |
+| Thomas worked on Monday. | Thomas thingLaache kelsa maaDchi | `kelsa maaDchi` = worked |
+| What did Akkam do on Sunday? | Akkam' naaraache enth maaDchi? | `naaraache` = on Sunday |
+| Akkam took a holiday on Sunday. | Akkam' naaraache raja maaDchi | `raja` = holiday, `maaDchi` = took/did |
+| Who has work on Wednesday? | Ikkaa daark' padhnaache kelsa uND? | `daark'` = for whom, `padhnaache` = Wednesday, `kelsa uND` = work is there |
+| Who has a holiday on Thursday? | daark' beaLaache raja uND? | `beaLaache` = Thursday |
+| On which day does everybody have a festival? | eadh dhinathil' ellaarkuu namme uND? | `eadh dhinathil'` = on which day, `ellaarkuu` = for everybody, `namme` = festival |
+| On Saturday everybody has a festival. | Cheniaache ellaarkuu namme uND | `cheniaache` = Saturday |
+| Which day does everybody have work? | Eadh dhinathil' ellaarkuu kelsa uND? | - |
+| Tuesday | Chowaache | - |
 
-## Numbers 41–60
+
+## Numbers 51–60
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| 50 | aimbadh | - |
 | 51 | aimbath'ondh | - |
 | 53 | aimbath muundh | - |
-| 54 | aimbath nāl | - |
+| 54 | aimbath naal | - |
 | 55 | aimbath'anjii | - |
-| 56 | aimbath'ār | - |
-| 57 | aimbath'ēL | - |
-| 58 | aimbath'êṭṭ | - |
+| 56 | aimbath'aar | - |
+| 57 | aimbath'eaL | - |
+| 58 | aimbath'êTT | - |
 | 59 | aimbath'oyimbadh | - |
 | 60 | Arubadh | - |
-| 20 poles and 30 poles become 50 poles. | Irovadh kambā and nuppadh dhaṇḍ poles become aimbadh dhaṇḍ | - |
-| 30 dogs and 23 dogs is 53. | Nuppadh nāyi and irovadh muundh nāyi is aimbath muundh | - |
-| 40 drops and 14 drops is 54. | Nālpath thuLi drops and padhināl thuLi drops is aimbath nāl | - |
-| 50 trees and 5 trees become 55 trees. | Aimbadh marā and anjii marā become aimbath'anjii marā | - |
-| How much did it become? | Echchak āchi? | - |
+| 20 poles and 30 poles become 50 poles. | Irovadh kambaa and nuppadh dhaND poles become aimbadh dhaND | - |
+| 30 dogs and 23 dogs is 53. | Nuppadh naayi and irovadh muundh naayi is aimbath muundh | - |
+| How much did it become? | Echchak aachi? | - |
 | how much? | echchak? | - |
-| 40 bangles and 19 bangles became 59 bangles. | Nālpath baLe and pathth'oyimbadh baLe aimbath'oyimbadh baLe āchi | - |
-| When 50 leaves and 10 leaves are added, how much did it become? 60. | Aimbadh ele and pathth ele kūḍuvākā echchak āchi? Arubadh | - |
+| When 50 leaves and 10 leaves are added, how much did it become? 60. | Aimbadh ele and pathth ele kuuDuvaakaa echchak aachi? Arubadh | - |
 
 ## Nature Vocabulary
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| flower | Pū | - |
+| flower | Puu | - |
 | thorn | MuLLu | - |
-| plant | Giḍa | - |
-| tree | Marā | - |
+| plant | GiDa | - |
+| tree | Maraa | - |
 | creeper | BaLLi | - |
-| forest | Kāḍu | - |
+| forest | KaaDu | - |
 | mountain | Kundh | - |
 | pond | Kere | - |
 | river | PoLe | - |
-| stream | Thōḍu | - |
+| stream | ThoaDu | - |
 | stone | Kallu | - |
+
 
 ## Maternal Relationships
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| maternal relationships | bendhu-chāche | - |
-| mother's dad | Thātha | - |
-| mother's mom | Avayā | - |
-| mother's older sister | Ballyabā | Also Ballyavā |
-| mother's younger sister | kuññabā | Also Kuññavā |
-| mother's sister, aunt | bōjavā | - |
-| mother's brother | Māma | - |
-| aunt, mother's older sister | Ballyavā | - |
-| ballyavā's husband | Ballyappā | - |
-| aunt, mother's sister (middle) | Bōjavā | - |
-| bōjavā's husband | Bōjappā | - |
-| aunt, mother's younger sister | Kuññavā | - |
-| kuññavā's husband | Kuññappā | - |
+| maternal relationships | bendhu-chaache | - |
+| mother's dad | Thaatha | - |
+| mother's mom | Avayaa | - |
+| mother's older sister | Ballyabaa | Also Ballyavaa |
+| mother's younger sister | kunjnjabaa | Also Kunjnjavaa |
+| mother's sister, aunt | boajavaa | - |
+| mother's brother | Maama | - |
+| aunt, mother's older sister | Ballyavaa | - |
+| ballyavaa's husband | Ballyappaa | - |
+| aunt, mother's sister (middle) | Boajavaa | - |
+| boajavaa's husband | Boajappaa | - |
+| aunt, mother's younger sister | Kunjnjavaa | - |
+| kunjnjavaa's husband | Kunjnjappaa | - |
 | mother's sister's daughter (older than you) | Akka | Cousin |
-| mother's sister's son (older than you) | Aṇṇa | Cousin |
-| uncle, mother's brother | Māma | - |
-| māma's wife | Māmi | - |
-| mother's older brother | ballyamāma | - |
-| mother's middle brother | bōjimāma | - |
-| mother's younger brother | kuññimāma | - |
-| wife of mother's older brother | ballyamāmi | - |
-| wife of mother's middle brother | bōjimāmi | - |
-| wife of mother's younger brother | kuññimāmi | - |
-| mother's brother's son (older than you) | Bāvā | Cousin |
-| mother's brother's daughter (older than you) | Mammā | Cousin |
+| mother's sister's son (older than you) | ANNa | Cousin |
+| uncle, mother's brother | Maama | - |
+| maama's wife | Maami | - |
+| mother's older brother | ballyamaama | - |
+| mother's middle brother | boajimaama | - |
+| mother's younger brother | kunjnjimaama | - |
+| wife of mother's older brother | ballyamaami | - |
+| wife of mother's middle brother | boajimaami | - |
+| wife of mother's younger brother | kunjnjimaami | - |
+| mother's brother's son (older than you) | Baavaa | Cousin |
+| mother's brother's daughter (older than you) | Mammaa | Cousin |
+
 
 ## Body Parts
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| head | Maṇḍe | - |
-| hair | Thal-mī | - |
-| skull | Maṇḍera ōḍu | `Maṇḍe` = head, `ōḍu` = shell/covering |
+| head | MaNDe | - |
+| hair | Thal-mii | - |
+| skull | MaNDera oaDu | `MaNDe` = head, `oaDu` = shell/covering |
 | forehead | Netti | - |
-| face | Mūḍu | - |
+| face | MuuDu | - |
 | eye(s) | KaNNu | - |
 | eyebrow | Kuyib | - |
 | eyelashes | Reppe | - |
 | ear | Kemi | - |
-| nose | Mūku | - |
-| mouth | Bāyi | - |
-| cheek(s) | Dhawuḍe | - |
+| nose | Muuku | - |
+| mouth | Baayi | - |
+| cheek(s) | DhawuDe | - |
 | lips | Kiri | - |
-| tongue | Nāvu | - |
+| tongue | Naavu | - |
 | teeth | Pallu | - |
-| throat | Thoṇḍe | - |
+| throat | ThoNDe | - |
+
 
 ## Verbs & Activities
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| to run | Ōḍuv' | - |
-| to walk | Naḍapp' | - |
+| to run | OaDuv' | - |
+| to walk | NaDapp' | - |
 | to stand up | Nipp' | - |
-| to sit down | Aḷapp' | - |
+| to sit down | ALapp' | - |
 | to lie down | Buddhuv' | - |
 | to sleep | Waruv' | - |
 | to eat (a snack) | Thimb' | - |
 | to eat (a meal, sitting down) | Umb' | - |
-| Come for lunch / come for dinner. | Umbak bāri | - |
-| to read | Ōdhuv' | - |
-| to write | Eḷudhuv' | - |
+| Come for lunch / come for dinner. | Umbak baari | - |
+| to read | Oadhuv' | - |
+| to write | ELudhuv' | - |
+
 
 ## maaduw'k Conjugation (Non-past)
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| to do / to make | māḍuv' | Infinitive form |
-| I will do. | Nān' māḍuvi | 1st person singular |
-| We will do. | Nanga māḍuva | 1st person plural |
-| You will do. | Nī māḍuvyā | 2nd person singular |
-| You all will do. | Ninga māḍuvirā | 2nd person plural |
-| he (that one) | Āvã | 3rd person masculine remote |
-| he (this one) | īvã | 3rd person masculine proximal |
-| she (that one) | Avā | 3rd person feminine remote |
-| she (this one) | ivā | 3rd person feminine proximal |
+| to do / to make | maaDuv' | Infinitive form |
+| I will do. | Naan' maaDuvi | 1st person singular |
+| We will do. | Nanga maaDuva | 1st person plural |
+| You will do. | Nii maaDuvyaa | 2nd person singular |
+| You all will do. | Ninga maaDuviraa | 2nd person plural |
+| he (that one) | Aavã | 3rd person masculine remote |
+| he (this one) | iivã | 3rd person masculine proximal |
+| she (that one) | Avaa | 3rd person feminine remote |
+| she (this one) | ivaa | 3rd person feminine proximal |
 | it (that) | Adh | 3rd person neuter remote |
 | it (this) | idh | 3rd person neuter proximal |
-| He/She/It will do. | Avã māḍuvā | 3rd person singular |
+| He/She/It will do. | Avã maaDuvaa | 3rd person singular |
 | they (those) | Ainga | 3rd person plural remote |
-| they (these) | īnga | 3rd person plural proximal |
-| They will do. | Ainga māḍuvā | 3rd person plural |
-| won't do / doesn't do | māḍu-le | Negative form |
+| they (these) | iinga | 3rd person plural proximal |
+| They will do. | Ainga maaDuvaa | 3rd person plural |
+| won't do / doesn't do | maaDu-le | Negative form |
 
-## maaduw'k + Compound Verbs
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| to worry | Waris māḍuv' | - |
-| to work | Kelsa māḍuv' | - |
-| to make food / to cook | Aḍige māḍuv' | - |
-| to begin | Shuru māḍuv' | - |
-| to be upset / to be sad | Bājāra māḍuv' | - |
-| to increase | Jāsthi māḍuv' | - |
-| to reduce | Kammi māḍuv' | - |
-| to make money | Dhuḍḍ māḍuv' | - |
 
 ## Daily Routine Phrases
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
 | to brush your teeth | Pall' uddhuv' | - |
-| to drink water | Nīr kuḍipp' | - |
+| to drink water | Niir kuDipp' | - |
 | to eat breakfast | Breakfast thimb' | - |
-| to go to school | Iskūlk' pōp' | - |
-| to read a book | Oru pusthaka ōdhuv' | - |
+| to go to school | Iskuulk' poap' | - |
+| to read a book | Oru pusthaka oadhuv' | - |
 | to eat dinner | Dinner umb' | - |
-| to go to sleep | Warok' pōp' | - |
-| What will you do today? | Nīn' ind enth māḍuvyā? | `ind` = today |
-| To brush your teeth. | Pall' uddhō | - |
-| I will brush my teeth. | Nān' pall' uddhuvi | - |
-| We will drink water. | Nanga nīr kuḍippā | - |
-| Did you eat breakfast? | nīn' breakfast thindhyā? | Past tense question |
-| Do you go to school? | Ninga iskūlk' pōppīrā? | - |
-| She will read a book. | Avā oru pusthaka ōdhuvā | Non-past form |
-| They will eat dinner. | Ainga dinner umbā | - |
-| Shall we all go to sleep? | Nangellarū warok' pōkkanā? | `nangellarū` = we all |
-| We will all go to sleep. | nangellarū warok' pōppā | `nangellarū` = we all |
+| to go to sleep | Warok' poap' | - |
+| What will you do today? | Niin' ind enth maaDuvyaa? | `ind` = today |
+| To brush your teeth. | Pall' uddhoa | - |
+| I will brush my teeth. | Naan' pall' uddhuvi | - |
+| We will drink water. | Nanga niir kuDippaa | - |
+| Did you eat breakfast? | niin' breakfast thindhyaa? | Past tense question |
+| Do you go to school? | Ninga iskuulk' poappiiraa? | - |
+| She will read a book. | Avaa oru pusthaka oadhuvaa | Non-past form |
+| They will eat dinner. | Ainga dinner umbaa | - |
+| Shall we all go to sleep? | Nangellaruu warok' poakkanaa? | `nangellaruu` = we all |
+| We will all go to sleep. | nangellaruu warok' poappaa | `nangellaruu` = we all |
 
-## Directions & Locations
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| under | Aḍil' | - |
-| above | Koḍil' | - |
-| outside | Por-me | - |
-| inside | Oḷil' | - |
-| in front | Miññathil' | - |
-| behind | Bayyathil' / bembarthl' | - |
-| right side | Baltha bariyil' | - |
-| left side | Eḍtha bariyil' | - |
-| in the middle | Madhyathil' | - |
 
 ## Movement Sentences
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| I go home tomorrow. | NāLe nān' manek' pōp' | `nāLe` = tomorrow, `manek'` = to home, `pōp'` = go |
-| Will you go to the room? | Nīn' kōmbrak' pōpyā? | `kōmbrak'` = to the room |
-| I am coming from the backyard. | Nān' paṭṭiñja bandhēnḍ uLLō | `paṭṭiñja` = from the backyard |
-| to be coming from behind | Bandhēnḍ uLLō | - |
-| We are going from here to there. | Nanga illiñji allik' pōyan uṇḍ | `illiñji` = from here, `allik'` = to there |
-| Will you come from the left side? | Eḍtha bariñji bappirā? | `eḍtha bariñji` = from the left side |
-| Where are they going? | Ellik' pōyan uṇḍ | - |
-| Where are they coming from? | elliñja bandan uṇḍ | - |
-| Where is he going? | Ellik' pōyanḍ uṇḍ ivã? | `ivã` = he (this one) |
-| Which side is he going? | Ēdh barik' pōyanḍ uṇḍ? | `ēdh barik'` = to which side |
-| He is going to the left side. | Āvã eḍtha barik' pōyanḍ uṇḍ | `āvã` = he (that one) |
-| Where is he coming from? | Elliñja bandanḍ uṇḍ? | `elliñja` = from where |
-| He is coming from the office. | Āvã office-iñja bandanḍ uṇḍ | `office-iñja` = from the office |
-| Where or to which side is she going? | Ivā ellik' or ēdh barik' pōyanḍ uṇḍ? | `ivā` = she (this one) |
-| She is going to the right side. | ivā baltha barik' pōyanḍ uṇḍ | `baltha barik'` = to the right side |
-| From which side to where is she going? | Ivā ēdh bariñja ellik' pōyanḍ uṇḍ? | `ēdh bariñja` = from which side |
-| She is going from the left side to the right side. | Ivā eḍtha bariñja baltha barik' pōyanḍ uṇḍ | - |
-| Where is he coming from? | Elliñji bandanḍ uṇḍ ivã? | - |
-| He is coming from behind the wall. | Āvã paḍira bayya thiñji bandanḍ uṇḍ | `paḍira` = wall's, `bayya thiñji` = from behind |
-| He is coming from behind the wall. | āvã paḍira bembarth iñji bandanḍ uṇḍ | `bembarth iñji` = from behind |
-| Where is she coming from? | Ivā elliñji bandanḍ uṇḍ? | - |
-| She is coming from inside the house. | Ivā manera oḷiñji bandanḍ uṇḍ | `manera` = house's, `oḷiñji` = from inside |
+| I go home tomorrow. | NaaLe naan' manek' poap' | `naaLe` = tomorrow, `manek'` = to home, `poap'` = go |
+| Will you go to the room? | Niin' koambrak' poapyaa? | `koambrak'` = to the room |
+| I am coming from the backyard. | Naan' paTTinjja bandheanD uLLoa | `paTTinjja` = from the backyard |
+| to be coming from behind | BandheanD uLLoa | - |
+| We are going from here to there. | Nanga illinjji allik' poayan uND | `illinjji` = from here, `allik'` = to there |
+| Will you come from the left side? | EDtha barinjji bappiraa? | `eDtha barinjji` = from the left side |
+| Where are they going? | Ellik' poayan uND | - |
+| Where are they coming from? | ellinjja bandan uND | - |
+| Where is he going? | Ellik' poayanD uND ivã? | `ivã` = he (this one) |
+| Which side is he going? | Eadh barik' poayanD uND? | `eadh barik'` = to which side |
+| He is going to the left side. | Aavã eDtha barik' poayanD uND | `aavã` = he (that one) |
+| Where is he coming from? | Ellinjja bandanD uND? | `ellinjja` = from where |
+| He is coming from the office. | Aavã office-injja bandanD uND | `office-injja` = from the office |
+| Where or to which side is she going? | Ivaa ellik' or eadh barik' poayanD uND? | `ivaa` = she (this one) |
+| She is going to the right side. | ivaa baltha barik' poayanD uND | `baltha barik'` = to the right side |
+| From which side to where is she going? | Ivaa eadh barinjja ellik' poayanD uND? | `eadh barinjja` = from which side |
+| She is going from the left side to the right side. | Ivaa eDtha barinjja baltha barik' poayanD uND | - |
+| Where is he coming from? | Ellinjji bandanD uND ivã? | - |
+| He is coming from behind the wall. | Aavã paDira bayya thinjji bandanD uND | `paDira` = wall's, `bayya thinjji` = from behind |
+| He is coming from behind the wall. | aavã paDira bembarth injji bandanD uND | `bembarth injji` = from behind |
+| Where is she coming from? | Ivaa ellinjji bandanD uND? | - |
+| She is coming from inside the house. | Ivaa manera oLinjji bandanD uND | `manera` = house's, `oLinjji` = from inside |
+
 
 ## Progressive Tense (maadiyand ipp'k)
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
-| to be doing | Mādiyanḍ ipp' | Infinitive progressive form |
-| I am doing. | Nān' mādiyanḍ uLLō | 1st person singular |
-| We are doing. | Nanga mādiyan uṇḍ | 1st person plural |
-| You are doing. | Nīn' mādiyanḍ uLLyā | 2nd person singular |
-| You all are doing. | Ninga mādiyanḍ uLLīrā | 2nd person plural |
-| He is doing. | Āvã mādiyanḍ uṇḍ | 3rd person singular |
-| They are doing. | Ainga mādiyanḍ uṇḍ | 3rd person plural |
-| are not doing | Mādiyanḍ ille | Negative progressive form |
-| What are you all doing now? | Ninga ikka enth mādiyanḍ uLLīrā? | `ikka` = now |
-| To be brushing one's teeth. | Pallu uddhyanḍ ipp' | - |
-| I am brushing my teeth. | Nān' pallu uddhyanḍ uLLō | - |
-| To be drinking water. | Nīr kuḍchanḍ ipp' | - |
-| We are drinking water. | nanga nīr kuḍchanḍ uṇḍ | - |
-| I am drinking water. | Nān' nīr kuḍchanḍ uLLō | - |
-| To be eating breakfast. | Breakfast thindanḍ ippadh | - |
-| Are you eating breakfast? | Nīn' breakfast thindanḍ uLLyā? | - |
-| I am having breakfast. | Nān' breakfast thindanḍ uLLō | - |
-| To be going to school. | Iskūlk' pōyanḍ ipp' | - |
-| Are you going to school? | Ninga iskūlk' pōyanḍ uLLīrā? | - |
-| We are going to school. | nanga iskūlk' pōyanḍ uṇḍ | - |
-| To be reading a book. | Oru pusthaka ōdhyanḍ ipp' | - |
-| She is reading a book. | Avā oru pusthaka ōdhyanḍ uṇḍ | - |
-| To be eating dinner. | Dinner uṇḍanḍ ipp' | - |
-| They are eating dinner. | Ainga dinner thindanḍ uṇḍ | `thindanḍ` = alternative to `uṇḍanḍ` |
-| They are eating dinner (alternate). | ainga dinner uṇḍanḍ uṇḍ | - |
-| To be going to sleep. | Warok' pōppadh / warok' pōyanḍ ipp' | Two forms for same meaning |
-| We all are going to sleep. | Nangellarū warok' pōyanḍ uṇḍ | `nangellarū` = we all |
-| We will all go to sleep. | nangellarū warok' pōppā | Non-past/future tense form |
+| to be doing | MaadiyanD ipp' | Infinitive progressive form |
+| I am doing. | Naan' maadiyanD uLLoa | 1st person singular |
+| We are doing. | Nanga maadiyan uND | 1st person plural |
+| You are doing. | Niin' maadiyanD uLLyaa | 2nd person singular |
+| You all are doing. | Ninga maadiyanD uLLiiraa | 2nd person plural |
+| He is doing. | Aavã maadiyanD uND | 3rd person singular |
+| They are doing. | Ainga maadiyanD uND | 3rd person plural |
+| are not doing | MaadiyanD ille | Negative progressive form |
+| What are you all doing now? | Ninga ikka enth maadiyanD uLLiiraa? | `ikka` = now |
+| To be brushing one's teeth. | Pallu uddhyanD ipp' | - |
+| I am brushing my teeth. | Naan' pallu uddhyanD uLLoa | - |
+| To be drinking water. | Niir kuDchanD ipp' | - |
+| We are drinking water. | nanga niir kuDchanD uND | - |
+| I am drinking water. | Naan' niir kuDchanD uLLoa | - |
+| To be eating breakfast. | Breakfast thindanD ippadh | - |
+| Are you eating breakfast? | Niin' breakfast thindanD uLLyaa? | - |
+| I am having breakfast. | Naan' breakfast thindanD uLLoa | - |
+| To be going to school. | Iskuulk' poayanD ipp' | - |
+| Are you going to school? | Ninga iskuulk' poayanD uLLiiraa? | - |
+| We are going to school. | nanga iskuulk' poayanD uND | - |
+| To be reading a book. | Oru pusthaka oadhyanD ipp' | - |
+| She is reading a book. | Avaa oru pusthaka oadhyanD uND | - |
+| To be eating dinner. | Dinner uNDanD ipp' | - |
+| They are eating dinner. | Ainga dinner thindanD uND | `thindanD` = alternative to `uNDanD` |
+| They are eating dinner (alternate). | ainga dinner uNDanD uND | - |
+| To be going to sleep. | Warok' poappadh / warok' poayanD ipp' | Two forms for same meaning |
+| We all are going to sleep. | Nangellaruu warok' poayanD uND | `nangellaruu` = we all |
+| We will all go to sleep. | nangellaruu warok' poappaa | Non-past/future tense form |

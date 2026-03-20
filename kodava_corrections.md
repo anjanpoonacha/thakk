@@ -205,3 +205,81 @@ CONFIDENCE: certain (native speaker supplied full conjugation)
 4. Section A corrections override extrapolated answers only
 5. Flags uncertain content with ⚠️
 6. Suggests corrections.md entries when user corrects agent
+
+---
+
+## SECTION C: Past Tense Person Forms (Confirmed — FINAL.md + native speaker)
+
+### Past tense VARIES by person
+
+#### Regular -uw'k verbs (past root = progressive - iyand)
+| Person | Ending | Example (maaduw'k) | Devanagari |
+|---|---|---|---|
+| naa | root + unê (spoken) OR root + iye (textbook) | maadunê / maadiye | मादुनॅ / मादिये |
+| nii | root + iiyaa | maadiiyaa | मादीया |
+| āāwu/ava/adh/ainga | root + ichi | maadichi | मादिचि |
+| nanga | root + DDichi (ONLY for maad root) OR root + ichi | maDDichi | माड्डिचि |
+| ninga | root + iiraa | maadiiraa | मादीरा |
+
+Note: maDDichi (retroflex DD) is ONLY for the maaduw'k root. Other verbs use plain -ichi for nanga.
+
+#### Irregular -p'k/-b'k verbs
+| Person | Ending | bapp'k | poap'k | thimb'k | kudip'k |
+|---|---|---|---|---|---|
+| naa | stem + ê | bandhê | poanê | thindhê | kudichê |
+| nii | stem + iiyaa | bandhiiyaa | poaiiyaa | thindhiiyaa | kudichiiyaa |
+| āāwu/nanga/ainga | 3rd form | baanthê | poachi | thindhêchi | kudichethê |
+| ninga | stem + iiraa | bandhiiraa | poaiiraa | thindhiiraa | kudichiiraa |
+
+#### Special case: êêw'k (to wake up)
+- naa → êêtê
+- āāwu/nanga/ainga → êêdêthê (native speaker confirmed)
+
+---
+
+## SECTION E: Spelling Standards (FINAL.md gold standard — confirmed March 2026)
+
+- WHAT: pininya (was changed from pinynya — this was WRONG)
+- CORRECT: pinynya (FINAL.md uses pinynya 19 times consistently)
+- ALSO: minynya (before) — NOT mininya
+
+- WHAT: injie or innji (ipp'k naa past)
+- CORRECT: injiye (FINAL.md confirmed)
+
+- WHAT: kudichand (kudip'k progressive)
+- CORRECT: kudchiyand (FINAL.md confirmed 3 times)
+
+- WHAT: baathê (bapp'k 3rd person past)
+- CORRECT: baanthê (native speaker confirmed)
+
+- WHAT: poaii (poap'k naa nonpast)
+- CORRECT: poapi (native speaker confirmed)
+
+- WHAT: poachi (poap'k 3rd person past)
+- CORRECT: poachi ✅ (native speaker confirmed)
+
+- PROGRESSIVE -oNd form:
+  poyoNd uNd = going RIGHT NOW (pure present, happening at this moment)
+  poayand uLL = going (habitual / general present / future)
+  These are DISTINCT constructions — both valid, different meaning
+
+---
+
+## SECTION D: Vocabulary Corrections (native speaker confirmed)
+
+- WHAT: muka (face — incorrect)
+- CORRECT: mood
+- CONFIDENCE: native speaker confirmed
+
+- WHAT: pininya (incorrectly used — was a misidentified "typo fix")
+- CORRECT: pinynya (FINAL.md gold standard — see Section E)
+
+- WHAT: naada used for "his" — WRONG
+- CORRECT: naada = MY (1st person possessive only). āāwuNda = his
+- NOTE: naada (my), niida (your), āāwuNda (his), avada (her), nangada (our)
+- CONFIDENCE: native speaker confirmed
+
+- WHAT: appa'k used for "with father"
+- CORRECT: appa'nda (companion/instrumental case)
+- NOTE: 'nda suffix = with/accompanied by. Different from 'k (dative = to/toward)
+- CONFIDENCE: native speaker confirmed

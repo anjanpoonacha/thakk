@@ -162,6 +162,13 @@ All entries use the canonical WHAT / CORRECT / WHY / CONFIDENCE format so every 
 
 ## SECTION A: Vocabulary Corrections
 
+- WHAT: `hasi` used as hunger / hungry; `naa'k hasi aachi` used for "I am hungry"
+- CORRECT: `kela baip'w` = hungry / stomach is growling; `naa'k kela baip'w` = I am hungry; `naa'k kela baichaind'und` = I am hungry (progressive)
+- WHY: `hasi` is not the correct Kodava word for hunger. The correct expression uses `kela` (stomach) + `baip'w` (growling/hungry). The textbook also confirms: `kela bayp'k` = to be hungry (lit. for the stomach to growl). `hasi` may be a Kannada borrowing and must not be used.
+- FORMS: kela baip'w (state/noun), kela baipa (present/adjective), kela baichaind'und (present progressive)
+- USAGE: naa'k kela baip'w = I am hungry. naada kela bayp'le = I'm not hungry (textbook confirmed)
+- CONFIDENCE: native speaker confirmed
+
 - WHAT: bappa (incorrectly assumed to mean "father")
 - CORRECT: appa
 - WHY: bappa in the textbook refers exclusively to the verb "coming" (from bapp'k = to come). The word for father is appa — native speaker confirmed. Do NOT infer bappa = father from the textbook.

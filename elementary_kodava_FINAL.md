@@ -134,7 +134,7 @@ Here are some more examples illustrating the distinctions between non-geminate a
 
 # LESSON 1: Greetings, To Be, What/Which, Yes/No
 
-**VOCABULARY**:
+### VOCABULARY
 
 | kodava | English |
 |--------|---------|
@@ -155,7 +155,7 @@ Here are some more examples illustrating the distinctions between non-geminate a
 | mane | house |
 | raste | road |
 
-**IMPORTANT PHRASES**:
+### IMPORTANT PHRASES
 
 | | |
 |---|---|
@@ -175,7 +175,7 @@ Here are some more examples illustrating the distinctions between non-geminate a
 ⁶ Literally: *'let it happen'*
 <!-- Page 7 -->
 
-## **EXPLANATION**:
+## EXPLANATION
 
 <u>The verb 'to be'</u>:
 
@@ -228,7 +228,7 @@ Having arrived from their flight to Bengaluru, A. has found a bus station, but i
 
 # **LESSON 2: Talking about each other: Pronouns, Who?**
 
-### **VOCABULARY**:
+### VOCABULARY
 
 | dhaar? | who? |
 |---|---|
@@ -260,12 +260,12 @@ Having arrived from their flight to Bengaluru, A. has found a bus station, but i
 | aaNaaL | man |
 | poNNaaL | woman |
 
-### **IMPORTANT PHRASES**:
+### IMPORTANT PHRASES
 
 | naada pedha X. niida pedha entha? | My name is X. What is your name? |
 |---|---|
 
-### **GRAMMAR EXPLANATION**:
+### GRAMMATICAL EXPLANATION
 
 ---
 
@@ -320,7 +320,7 @@ For brevity's sake, the abbreviations given below will be used in future tables,
 | | | | |
 |---|---|---|---|
 
-### **IMPORTANT PHRASES**:
+### IMPORTANT PHRASES
 
 | āāwu dhaar? | Who is he? |
 |---|---|
@@ -343,7 +343,7 @@ Having found Kempegowda Station, A. now needs to locate some specific people in 
 
 # **LESSON 3: States of Being: ipp'k (nonpast), Basic questions, Location: the suffix 'l**
 
-### **VOCABULARY**:
+### VOCABULARY
 
 | ipp'k | to be |
 |---|---|
@@ -367,7 +367,7 @@ Having found Kempegowda Station, A. now needs to locate some specific people in 
 | | |
 | | |
 
-### **GRAMMATICAL EXPLANATION**:
+### GRAMMATICAL EXPLANATION
 
 <u>ipp'k - 'to be'</u>:
 
@@ -458,7 +458,7 @@ Having located some people, A. decides to get familiar with the station. Seeing 
 
 # LESSON 4: Numbers 1-5, **maaduw'k** (nonpast tense) and nonpast tense endings, -'ella, **ipp'k** (future tense), how much?
 
-**VOCABULARY**:
+### VOCABULARY
 
 | maaduw'k | to do, to make |
 |---|---|
@@ -500,7 +500,7 @@ Having located some people, A. decides to get familiar with the station. Seeing 
 | -'ella | everything |
 |---|---|
 
-**GRAMMATICAL EXPLANATION**:
+### GRAMMATICAL EXPLANATION
 
 ipp'k, future tense: in spoken KoDava-takk, the only verb in which there is a future tense is ipp'k. In the table below, you will find the conjugations of this verb in the future tense. In other words, the future tense conjugation of ipp'k reflects the difference between the habitual/present tense and the future tense.
 
@@ -621,7 +621,7 @@ Similarly, ead? 'which?' can be modified to ead'ella? 'which all?'. This is usef
 
 # LESSON 5: Numbers 13–100, **poap'k** and **bapp'k** (nonpast), Ablative Case *-'nja*, Travel Vocabulary
 
-**VOCABULARY**:
+### VOCABULARY
 
 | | |
 |---|---|
@@ -659,7 +659,7 @@ Similarly, ead? 'which?' can be modified to ead'ella? 'which all?'. This is usef
 
 <!-- Page 20 -->
 
-**GRAMMATICAL EXPLANATION**:
+### GRAMMATICAL EXPLANATION
 
 <u>Numbers 13–19</u>:
 
@@ -776,7 +776,7 @@ Combined with the dative *-'k* and *eththane* ('until'), it constructs the full 
 
 # LESSON 6: Numbers 6-12, time expressions, when?
 
-**VOCABULARY**:
+### VOCABULARY
 
 | | |
 |---|---|
@@ -844,7 +844,7 @@ Combined with the dative *-'k* and *eththane* ('until'), it constructs the full 
 | | |
 | | |
 
-**GRAMMATICAL EXPLANATION**:
+### GRAMMATICAL EXPLANATION
 
 <u>Telling time</u>: The act of telling time is grammatically very simple. It does not require ipp'k, as shown by the vocabulary box.
 
@@ -863,7 +863,7 @@ Combined with the dative *-'k* and *eththane* ('until'), it constructs the full 
 
 # LESSON 7: useful verbs, comparisons and superlatives, and useful adjectives:
 
-**VOCABULARY**:
+### VOCABULARY
 
 <u>Verbs</u>:
 
@@ -933,7 +933,7 @@ Combined with the dative *-'k* and *eththane* ('until'), it constructs the full 
 | | |
 | | |
 
-**IMPORTANT PHRASES**:
+### IMPORTANT PHRASES
 
 | | |
 |---|---|
@@ -943,7 +943,7 @@ Combined with the dative *-'k* and *eththane* ('until'), it constructs the full 
 | | |
 | | |
 
-**GRAMMATICAL EXPLANATION**:
+### GRAMMATICAL EXPLANATION
 
 <u>-'k inyii</u>: As we have already seen, the suffix -'k is used to mean 'to or toward'. We see it in the infinitive form of the verb. In grammatical terms, it is known as the <u>dative case</u>. inyii simply means 'more'. For example, if someone is serving you food you might say madhi 'enough' or inyii chana jaasthi 'a little more' to indicate how much you want.
 
@@ -1033,7 +1033,7 @@ Numbers:
 
 # Lesson 8: Possession, Possessive Adjectives & Pronouns, Present Progressive Tense, Weather:
 
-**Vocabulary**:
+### Vocabulary
 
 | | |
 |---|---|
@@ -1058,7 +1058,7 @@ Numbers:
 | | |
 | | |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 Possessive adjective (i.e. my, your, his, etc or the Genitive Case): To make the possessive simply combine the pronouns with the possessive suffix -da.
 
@@ -1245,7 +1245,7 @@ Below is a table of common verbs along with their progressive particles. Italici
 
 # Lesson 9: Past tense, Food, "and/or" , with:
 
-**Vocabulary**:
+### Vocabulary
 
 | | |
 |---|---|
@@ -1272,7 +1272,7 @@ Below is a table of common verbs along with their progressive particles. Italici
 | minynya'l | beforehand, previously |
 | | |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 'with', kuude: the word 'kuude' literally means 'company' as in 'I was in their company for the evening'. The idea of 'with' is expressed in the following way:
 
@@ -1341,7 +1341,7 @@ Regarding the negative form of the past tense, maadiith comes from the past part
 
 # Lesson 10: Past progressive tense, Dative Case and Accusative, nothing:
 
-**Vocabulary**:
+### Vocabulary
 
 | X'k kusii aap'k | For X to be happy |
 |---|---|
@@ -1360,7 +1360,7 @@ Regarding the negative form of the past tense, maadiith comes from the past part
 | jiiwumaana | life |
 | ikka'saa | still |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 Nothing/Anything: We have covered how to express the negative of a sentence; simply add the negative suffix 'le to the stem of a verb. For example:
 
@@ -1457,7 +1457,7 @@ Here are some examples:
 
 # Lesson 11: Wants/Needs (boaNdu, baaNda, êdkaNda, êdkoNdu), prohibition, aapaka:
 
-**Vocabulary**:
+### Vocabulary
 
 | X'k Y boaNdu | X wants/needs Y |
 |---|---|
@@ -1473,9 +1473,9 @@ Here are some examples:
 | dhaar achenge | some one, anyone |
 
 
-**Important Phrases**:
+### Important Phrases
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 booNdu/baaNda/booNduwaa: These terms respectively translate to 'want/don't want'. The phrasal form requires the genitive suffix before the subject. For example:
 
@@ -1569,7 +1569,7 @@ Take a look at the examples below.
 
 # Lesson 12: Imperative mood, positive and negative commands, in the kitchen:
 
-**Vocabulary**:
+### Vocabulary
 
 | elli aachenge | somewhere, anywhere |
 |---|---|
@@ -1591,7 +1591,7 @@ Take a look at the examples below.
 | | |
 | | |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 Imperative mood: The imperative: The imperative mood is an important one as it describes what you wish people would do. In the 2nd person, this can be translated as a basic command (i.e. 'do this'). In the first and third person, it might be translated as 'I shall do that,', 'let me do that, or (in the interrogative sense) 'shall I do that?'. Because the imperative mood is sometimes difficult to translate into English, it is best not to take the English translation too literally. Take a look below at maaduw'k:
 
@@ -1714,7 +1714,7 @@ Take a look at the exchange below:
 
 # Lesson 13: Order of words, more time expressions:
 
-**Vocabulary**:
+### Vocabulary
 
 | | |
 |---|---|
@@ -1734,7 +1734,7 @@ Take a look at the exchange below:
 | | |
 | | |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 Order of words: Kodava thakk is a subject-object-verb (SOV) language. This refers to the order of the various parts of speech. To demonstrate order, let's look at a very long sentence:
 
@@ -1781,7 +1781,7 @@ adh'na maadiyand ipp'ka: 'while doing that'. Here the verb is in the progressive
 
 # Lesson 14: 'If' Statements, ordinal numbers:
 
-**Vocabulary**:
+### Vocabulary
 
 | | |
 |---|---|
@@ -1801,7 +1801,7 @@ adh'na maadiyand ipp'ka: 'while doing that'. Here the verb is in the progressive
 | | |
 | | |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 'if statements: the 'if statement', also known as the conditional form, is formed using the suffix 'chenge' to the second-person singular command. Hence:
 
@@ -1828,7 +1828,7 @@ ordinal numbers: as given by the vocabulary box, the ordinal numbers are formed 
 
 # Lesson 15: aap'k, Around the House, Adjectives from Verbs, Nouns from Adjectives, Perfect tenses: past, present, future:
 
-**Vocabulary**:
+### Vocabulary
 
 | | |
 |---|---|
@@ -1853,7 +1853,7 @@ ordinal numbers: as given by the vocabulary box, the ordinal numbers are formed 
 | | |
 | | |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 aap'k: Expressions and Uses: To provide a review of aap'k, below is a conjugation table of the verb:
 
@@ -1984,7 +1984,7 @@ Future Perfect:
 
 # Lesson 16: multiple verbs, reported speech:
 
-**Vocabulary**:
+### Vocabulary
 
 | 'ra maadhrii | like (used with nouns) |
 |---|---|
@@ -1996,7 +1996,7 @@ Future Perfect:
 | | |
 | | |
 
-**Grammatical Explanation**:
+### Grammatical Explanation
 
 <u>multiple verbs, sequential</u>: in previous lessons, we have learned about certain words and phrases dealing with relations in time such as adh'k inyii minynya 'before that', idh aana pinynya 'after this', etc. For example:
 

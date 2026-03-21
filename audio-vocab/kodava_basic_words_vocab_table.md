@@ -47,7 +47,7 @@ This document provides a structured vocabulary list from the Kodava language (Ko
 
 | English | Kodava Takk | Notes |
 |---------|-------------|-------|
-| How | ennane | |
+| How | ennane | Question word for manner and method. ennane uLLiya niin? = How are you? ennane adige maaduva = how to cook. Used in how-to constructions with an infinitive verb: [verb infinitive] + ennane. |
 | What | entha | |
 | When | ekka | |
 | Where | elli | |

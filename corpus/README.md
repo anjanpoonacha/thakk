@@ -118,3 +118,4 @@ The RAG API writes directly to this repo via the GitHub Contents API:
 - `POST /feedback` with `status: rejected` → appended to `corpus/review.jsonl`
 
 To promote a rejected entry: move it from `review.jsonl` to `sentences.jsonl` manually, or re-submit via the API with `status: corrected`.
+

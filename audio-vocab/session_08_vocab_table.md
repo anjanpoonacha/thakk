@@ -182,7 +182,7 @@
 | Go outside to play. | Porme'k kalippa'k po. | `Porme'k`=outside, `kalippa'k`=to play. |
 | Will you go outside to play? | Porme'k kalippa'k poppiya? | Question, singular 'you'. |
 | Will you (plural) go outside to play? | Porme'k kalippa'k poppira? | Question, plural 'you'. |
-| (They) went outside to play. | Porme'k kalippa'k poyi. | Past tense statement. `poyi`=went. |
+| (They) Go outside to play! | Porme'k kalippa'k poyi. | Plural form statement. `poyi`=go. |
 | Come inside to eat. | WoLu'k uMba'k baa. | `WoLu'k`=inside. |
 | Will you all come to eat? | Ninga'ella uMba'k bappira? | Question, plural 'you'. |
 

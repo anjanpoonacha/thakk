@@ -19,7 +19,7 @@
       { "kodava": "ê",   "devanagari": "ॅ",  "hint": "like 'a' in about, assume — weak schwa",     "confidence": "⚠️", "type": "vowel_schwa", "note": "no clean Devanagari equivalent" },
       { "kodava": "êê",  "devanagari": "ऍ",  "hint": "like vowel in shirt, her, burn — drop the r", "confidence": "⚠️", "type": "vowel_mid", "note": "no clean Devanagari equivalent" },
       { "kodava": "o",   "devanagari": "ओ",  "hint": "like 'a' in water (Long Island accent)",     "confidence": "✅", "type": "vowel_short" },
-      { "kodava": "oa",  "devanagari": "ओ",  "hint": "like 'o' in ownership, loan — hold longer",  "confidence": "⚠️", "type": "vowel_long", "note": "same Devanagari as o, elongated" },
+      { "kodava": "oa",  "devanagari": "ओ",  "kannada": "ಓ",  "hint": "like 'o' in ownership, loan — hold longer",  "confidence": "⚠️", "type": "vowel_long", "note": "single long-O character ಓ — must never be split into two characters" },
       { "kodava": "u",   "devanagari": "उ",  "hint": "like 'oo' in good, put, could",              "confidence": "✅", "type": "vowel_short" },
       { "kodava": "uu",  "devanagari": "ऊ",  "hint": "like 'oo' in oops, pool, crouton",           "confidence": "✅", "type": "vowel_long" },
       { "kodava": "ãã",  "devanagari": "आं", "hint": "nasalized aa — like Portuguese coração",     "confidence": "⚠️", "type": "vowel_nasal", "note": "Devanagari anusvara is approximate" },

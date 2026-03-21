@@ -125,7 +125,7 @@
 | This | idh | this |
 | That | adh | that |
 | When? | ekka | when? |
-| Then | akka | then (at that time) |
+| Then | akka | Temporal discourse connective: then, after that. Sequences events in a narrative. Example: naan bande, akka kelsa maadide = I came, then I did the work. |
 | Now | ikka | now (at this time) |
 | How much? / How many? | echchak? | how much? / how many? |
 | That much / That many | achchak | that much / that many |

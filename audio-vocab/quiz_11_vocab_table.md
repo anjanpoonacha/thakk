@@ -16,5 +16,5 @@ This quiz covers Kodava vocabulary for various categories including household it
 | Name any three jewelry worn by a Kodava bride around her neck. | paththakku / joamaale / kokke thaathi | |
 | Please | Dayavittu | |
 | Do (command) | maadi | Used in phrases like "like maadi" (do a like). |
-| And then / also | pinynya | |
+| And then / also | pinynya | Additive/sequential conjunction: and, also, after that. Primary joining word for paragraphs and narratives. |
 | Thank you | Dhanyavada | |

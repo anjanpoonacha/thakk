@@ -39,7 +39,7 @@
 
 | English | Kodava Takk | Explanation |
 |---|---|---|
-| and | pinynya | also used as "after/also" |
+| and | pinynya | Additive/sequential conjunction: and, also, after that, and then. Primary conjunction in Kodava Takk for joining nouns, verb phrases, and clauses in a paragraph or narrative. |
 | when added | kooduwakka | |
 | became | aachi | |
 | How much did it become? | Echchakaachi? | echchak = how much, aachi = became |
@@ -102,7 +102,7 @@
 | all | ella | |
 | family / together | okkathra | |
 | ancestral home | ainmane | |
-| or | athava | |
+| or | athava | Disjunctive conjunction: or. Presents alternatives. Example: bapa athava poapa? = Coming or going? |
 | main/big house | balyamane | |
 | will congregate / gather | kooduwa | |
 | All the family members will congregate in the ainmane or balyamane. | Mane jana ellaru okkathra ainmane'l' athava balyamane'l' kooduwa. | mane jana ellaru = all the people of the house |

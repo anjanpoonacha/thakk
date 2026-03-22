@@ -1,1 +1,2 @@
 {"id": "fb_test0001", "type": "sentence", "kodava": "mane", "english": "how do you say house", "devanagari": "", "kannada": "", "explanation": "User corrected[kodava]: mane. Original answer: manè", "confidence": "unverified", "source": "ui_feedback", "tags": ["feedback", "corrected", "kodava"]}
+{"id": "fb_test0002", "type": "sentence", "kodava": "", "english": "how do you say water", "devanagari": "", "kannada": "", "explanation": "User approved. Original answer: niiru", "confidence": "unverified", "source": "ui_feedback", "tags": ["feedback", "approved"]}

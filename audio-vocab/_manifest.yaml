@@ -1,0 +1,388 @@
+videos:
+- name: session_01
+  category: sessions
+  title: Kodava Thakk Padipo — Session 1
+  url: null
+  series: kodava_thakk_padipo
+  episode: 1
+  audio_file: data/thakk/source/audio/mp3/session_01.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_02
+  category: sessions
+  title: Kodava Thakk Padipo — Session 2 (Days of the Week)
+  url: null
+  series: kodava_thakk_padipo
+  episode: 2
+  audio_file: null
+  has_transcription: false
+  has_vocab_table: false
+- name: session_03
+  category: sessions
+  title: Kodava Thakk Padipo — Session 3 (Greetings)
+  url: null
+  series: kodava_thakk_padipo
+  episode: 3
+  audio_file: data/thakk/source/audio/mp3/session_03.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_04
+  category: sessions
+  title: Kodava Thakk Padipo — Session 4
+  url: https://www.youtube.com/watch?v=ep17AxP_Cog
+  series: kodava_thakk_padipo
+  episode: 4
+  audio_file: data/thakk/source/audio/mp3/session_04.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_05
+  category: sessions
+  title: Kodava Thakk Padipo — Session 5
+  url: https://www.youtube.com/watch?v=PibktL2nUzk
+  series: kodava_thakk_padipo
+  episode: 5
+  audio_file: data/thakk/source/audio/mp3/session_05.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_06
+  category: sessions
+  title: Kodava Thakk Padipo — Session 6
+  url: https://www.youtube.com/watch?v=O9tdR9DYACg
+  series: kodava_thakk_padipo
+  episode: 6
+  audio_file: data/thakk/source/audio/mp3/session_06.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_07
+  category: sessions
+  title: Kodava Thakk Padipo — Session 7
+  url: https://www.youtube.com/watch?v=5BBBwMB5PrE
+  series: kodava_thakk_padipo
+  episode: 7
+  audio_file: data/thakk/source/audio/mp3/session_07.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_08
+  category: sessions
+  title: Kodava Thakk Padipo — Session 8
+  url: https://www.youtube.com/watch?v=7wllJQeD02k
+  series: kodava_thakk_padipo
+  episode: 8
+  audio_file: data/thakk/source/audio/mp3/session_08.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_09
+  category: sessions
+  title: Kodava Thakk Padipo — Session 9
+  url: https://www.youtube.com/watch?v=AJ6xcpeEkxU
+  series: kodava_thakk_padipo
+  episode: 9
+  audio_file: data/thakk/source/audio/mp3/session_09.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_10
+  category: sessions
+  title: Kodava Thakk Padipo — Session 10
+  url: https://www.youtube.com/watch?v=mYNvUTJPOtE
+  series: kodava_thakk_padipo
+  episode: 10
+  audio_file: data/thakk/source/audio/mp3/session_10.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: session_11
+  category: sessions
+  title: Kodava Thakk Padipo — Session 11
+  url: null
+  series: kodava_thakk_padipo
+  episode: 11
+  audio_file: null
+  has_transcription: false
+  has_vocab_table: false
+- name: session_12
+  category: sessions
+  title: 'Kodava Thakk Padipo — Session 12 (Story: Adventures of Choondhu)'
+  url: null
+  series: kodava_thakk_padipo
+  episode: 12
+  audio_file: null
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_01
+  category: quizzes
+  title: Kodava Padipu Quiz 1 — Kodava Culture & Festivals
+  url: https://www.youtube.com/watch?v=1ozH5UsgK20
+  series: kodava_padipu
+  episode: 1
+  audio_file: data/thakk/source/audio/mp3/quiz_01.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_02
+  category: quizzes
+  title: Kodava Padipu Quiz 2 — Kodava Flora, Kitchen & Culture
+  url: https://www.youtube.com/watch?v=u-GjjjzPraU
+  series: kodava_padipu
+  episode: 2
+  audio_file: data/thakk/source/audio/mp3/quiz_02.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_03
+  category: quizzes
+  title: Kodava Padipu Quiz 3 — Kodava Professions / Occupations
+  url: https://www.youtube.com/watch?v=nc8R2Rrj0-M
+  series: kodava_padipu
+  episode: 3
+  audio_file: data/thakk/source/audio/mp3/quiz_03.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_04
+  category: quizzes
+  title: Kodava Padipu Quiz 4 — Kodava Games, Culture & Traditions
+  url: https://www.youtube.com/watch?v=alJT16SVA50
+  series: kodava_padipu
+  episode: 4
+  audio_file: data/thakk/source/audio/mp3/quiz_04.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_05
+  category: quizzes
+  title: Kodava Padipu Quiz 5 — Human Body Parts in Kodava Takk
+  url: https://www.youtube.com/watch?v=H8-hAuLU8Ck
+  series: kodava_padipu
+  episode: 5
+  audio_file: data/thakk/source/audio/mp3/quiz_05.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_06
+  category: quizzes
+  title: Kodava Padipu Quiz 6 — Kodava Family Relationships (Chaache)
+  url: https://www.youtube.com/watch?v=Je1JO42f7RI
+  series: kodava_padipu
+  episode: 6
+  audio_file: data/thakk/source/audio/mp3/quiz_06.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_07
+  category: quizzes
+  title: Kodava Padipu Quiz 7 — Kodava Nature, History & Architecture
+  url: https://www.youtube.com/watch?v=mikPoo1Nifg
+  series: kodava_padipu
+  episode: 7
+  audio_file: data/thakk/source/audio/mp3/quiz_07.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_08
+  category: quizzes
+  title: Kodava Padipu Quiz 8 — Human Body Parts
+  url: null
+  series: kodava_padipu
+  episode: 8
+  audio_file: data/thakk/source/audio/mp3/quiz_08.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_09
+  category: quizzes
+  title: Kodava Padipu Quiz 9 — Parts of a Traditional Kodava House
+  url: null
+  series: kodava_padipu
+  episode: 9
+  audio_file: data/thakk/source/audio/mp3/quiz_09.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_10
+  category: quizzes
+  title: Kodava Padipu Quiz 10 — Kodava History, Culture & Geography
+  url: null
+  series: kodava_padipu
+  episode: 10
+  audio_file: data/thakk/source/audio/mp3/quiz_10.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_11
+  category: quizzes
+  title: Kodava Padipu Quiz 11 — Household Items, Food & Nature
+  url: null
+  series: kodava_padipu
+  episode: 11
+  audio_file: data/thakk/source/audio/mp3/quiz_11.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_12
+  category: quizzes
+  title: Kodava Padipu Quiz 12 — Clothing & Traditional Wear
+  url: null
+  series: kodava_padipu
+  episode: 12
+  audio_file: data/thakk/source/audio/mp3/quiz_12.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_13
+  category: quizzes
+  title: Kodava Padipu Quiz 13 — Parts of the Ain Mane (Traditional House)
+  url: null
+  series: kodava_padipu
+  episode: 13
+  audio_file: data/thakk/source/audio/mp3/quiz_13.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_14
+  category: quizzes
+  title: Kodava Padipu Quiz 14 — Traditional Kitchen Utensils & Vessels
+  url: null
+  series: kodava_padipu
+  episode: 14
+  audio_file: data/thakk/source/audio/mp3/quiz_14.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_15
+  category: quizzes
+  title: Kodava Padipu Quiz 15 — Banana Varieties, Tools, Ceremonies & Festivals
+  url: null
+  series: kodava_padipu
+  episode: 15
+  audio_file: data/thakk/source/audio/mp3/quiz_15.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_16
+  category: quizzes
+  title: Kodava Padipu Quiz 16 — Animals in Kodava Takk
+  url: null
+  series: kodava_padipu
+  episode: 16
+  audio_file: data/thakk/source/audio/mp3/quiz_16.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_17
+  category: quizzes
+  title: Kodava Padipu Quiz 17 — Kaveri River Traditions & Kodava Festivals
+  url: null
+  series: kodava_padipu
+  episode: 17
+  audio_file: data/thakk/source/audio/mp3/quiz_17.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_18
+  category: quizzes
+  title: Kodava Padipu Quiz 18 — Authentic Kodava Takk (Vocabulary Reclamation)
+  url: null
+  series: kodava_padipu
+  episode: 18
+  audio_file: data/thakk/source/audio/mp3/quiz_18.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_19
+  category: quizzes
+  title: Kodava Padipu Quiz 19 — Geography, Colors, Aquatic Animals & Ceremonies
+  url: null
+  series: kodava_padipu
+  episode: 19
+  audio_file: data/thakk/source/audio/mp3/quiz_19.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_20
+  category: quizzes
+  title: Kodava Padipu Quiz 20 — Authentic Kodava Takk Part 2
+  url: null
+  series: kodava_padipu
+  episode: 20
+  audio_file: data/thakk/source/audio/mp3/quiz_20.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_21
+  category: quizzes
+  title: Kodava Padipu Quiz 21 — Kodava History, Culture & Geography
+  url: null
+  series: kodava_padipu
+  episode: 21
+  audio_file: data/thakk/source/audio/mp3/quiz_21.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_22
+  category: quizzes
+  title: Kodava Padipu Quiz 22 — History, Wedding Traditions & Death Customs
+  url: null
+  series: kodava_padipu
+  episode: 22
+  audio_file: data/thakk/source/audio/mp3/quiz_22.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_23
+  category: quizzes
+  title: Kodava Padipu Quiz 23 — Insects (Kodava Quest)
+  url: null
+  series: kodava_padipu
+  episode: 23
+  audio_file: data/thakk/source/audio/mp3/quiz_23.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_24
+  category: quizzes
+  title: Kodava Padipu Quiz 24 — Cultural Knowledge
+  url: null
+  series: kodava_padipu
+  episode: 24
+  audio_file: data/thakk/source/audio/mp3/quiz_24.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_25
+  category: quizzes
+  title: Kodava Padipu Quiz 25 — Three-Option Quiz
+  url: https://www.youtube.com/watch?v=8x4Sxqi-4UU
+  series: kodava_padipu
+  episode: 25
+  audio_file: data/thakk/source/audio/mp3/quiz_25.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_26
+  category: quizzes
+  title: Kodava Padipu Quiz 26 — History & Cultural Trivia
+  url: null
+  series: kodava_padipu
+  episode: 26
+  audio_file: data/thakk/source/audio/mp3/quiz_26.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: quiz_27
+  category: quizzes
+  title: Kodava Padipu Quiz 27 — Fruits in Kodava Takk
+  url: null
+  series: kodava_padipu
+  episode: 27
+  audio_file: data/thakk/source/audio/mp3/quiz_27.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: kaveri_sankramana
+  category: other
+  title: Kaveri Sankramana — Kodava Takk Cultural Video
+  url: null
+  series: null
+  episode: null
+  audio_file: data/thakk/source/audio/mp3/kaveri_sankramana.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: kodava_basic_words
+  category: other
+  title: Kodava Padipu — Basic Words (250+ Common Words)
+  url: https://www.youtube.com/watch?v=kh2OGQEMsdM
+  series: null
+  episode: null
+  audio_file: data/thakk/source/audio/mp3/quiz_basic_words.mp3
+  has_transcription: false
+  has_vocab_table: false
+- name: kodava_part1
+  category: other
+  title: Learn Kodava Language Completely — Part 1
+  url: null
+  series: learn_kodava_completely
+  episode: 1
+  audio_file: null
+  has_transcription: false
+  has_vocab_table: false
+- name: learn_kodava_part10
+  category: other
+  title: Learn Kodava Language Completely — Part 10 (Days, Time, Numbers)
+  url: null
+  series: learn_kodava_completely
+  episode: 10
+  audio_file: data/thakk/source/audio/mp3/days_of_week.mp3
+  has_transcription: false
+  has_vocab_table: false

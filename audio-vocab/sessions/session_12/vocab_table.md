@@ -1,178 +1,300 @@
-# Session 12 — Vocabulary Table
+# Chondu's Holiday — Kodava Vocabulary
+> **Source:** Chondu's Story Audio
+> **Format:** Kodava Takk language lesson through storytelling
 
-*Kodava Takk Teaching Series — Session 12: Story-Based Review (The Adventures of Choondhu)*
-
----
-
-## Nouns — People & Family
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Child | kunyi | Used to describe the main character: "Choondhu oru cheriya kunyi" (Choondhu is a small child). |
-| Girl child | muudi | Another word for a small child (female). "oru cheriya muudi" (a small child). |
-| Maternal grandmother | avaya | The story is set at the main character's avaya's house. |
-| Mother's elder brother | ballya maama | One of the relatives who came for the party. ballya = big/elder. |
-| Wife of mother's elder brother | ballya maami | One of the relatives who came for the party. |
-| Mother's younger brother | boaji maama | One of the relatives who came for the party. boaji = middle. |
-| Wife of mother's younger brother | boaji maami | One of the relatives who came for the party. |
-| Mother's youngest brother | kunyi maama | One of the relatives who came for the party. kunyi = small/young. |
-| Wife of mother's youngest brother | kunyi maami | One of the relatives who came for the party. |
-| Paternal grandmother | boajavva | One of the relatives present at the party. |
-| Paternal grandfather | boajappa | One of the relatives present at the party. |
-| Elder sister | akka | Plural form is akkanga. "Avada akkanga ava'k jadey itti kodpa injath" (Her elder sisters used to braid her hair for her). |
-| Elder brother / brother (masc. elder kin) | aNeya | Plural form is aNeyangaL. |
-| Younger brother | thamma | Plural form is thammangaL. |
-| Children | makka | Collective noun. "leen'dh êNNichi makka" (the children said it was lovely). |
-| Relatives | bendhuka | "Ella bendhuka koodith ippaka" (When all the relatives have gotten together). |
-| Hair | thalmi | "Ava'k wuttha thalmi" (She had long hair). uuk'k = to comb. |
-| Head | mande | "mande'ella uukith bappa injath" (She used to come after combing her whole head). |
-| Ear | kemi | "aane'ra kemi kaNdith uLLiiraa?" (Have you seen an elephant's ear?). |
-| Hand | kayi | "kayi kathith baari" (wash your hands and come). |
-
----
-
-## Nouns — Nature & Animals
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Tree | mara | "mara is tree". "maange mara injath'alli" (there was a mango tree there). |
-| Forest | kaad | "Kaad is forest". "Oar dhina ainga ellaar kaadu'k poaka'na'ndh decide maadchi" (One day they decided to go to the forest). |
-| Grass | pilla | "adh pilla thindand injath" (It was eating grass) — the bison. |
-| River / Stream | poLe | "Alli noat'nikki oru poLe injath" (When they looked there, there was a river). |
-| Water | neer | "neer itt'nd" (they put water) — washing clothes. |
-| Deer | miga | "oru miga injath'alli" (There was a deer there). |
-| Bison / Gaur | kaati | "ainga oru kaati baath" (They saw a bison). |
-| Porcupine | muLLu pandhi | Compound. muLLu = thorn/quil + pandhi. "muLLu paarchi" (the quils flew out). |
-| Thorn / Quil | muLLu | Can mean thorn in general; quil specifically when referring to porcupine. |
-| Elephant | aane | "pinynya ainga... aane injath" (Then there was an elephant). |
-| Elephant's trunk | sondi | "aane sondi'l... beej'nd baath" (The elephant came swinging its trunk). |
-| Elephant calf | aanemari | A baby elephant. "kutti aanemari" (small elephant calf). |
-| Bear | karadi | "Ninga Kodugu'l karadi kaNdith uLLiiraa?" (Have you seen a bear in Coorg?). |
-| Bird | pakshi | "tharathara pakshi injath" (There were various kinds of birds). |
-| Duck | baath koLi | Compound. baath + koLi (hen). The instructor distinguishes this from plain koLi. |
-| Hen / Chicken | koLi | "koLi is just a hen". baath koLi = duck. |
-| Owl | gooma | "oru gooma disturb aay poyth injath" (They had disturbed an owl). |
-| Donkey | katthe | Note: katthe (donkey) vs. kathe (story) — emphasise syllables carefully. |
-| Tiger | nari | "Oru nari, grrrrrr sabda maad'nd, oru nari injath" (A tiger making a grrr sound, there was a tiger). |
-
----
-
-## Nouns — Food & Plants
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Mango tree | maange mara | An example tree in avaya's compound. maange = mango. |
-| Avocado tree | butterfruit mara | "Butterfruit mara injath, avocado" (There was an avocado tree). |
-| Pineapple | parangi chekke | "parangi chekke'ra sumaar gida injath" (There were many pineapple plants). |
-| Plant / Sapling | gida | Used for pineapple plants. |
-| Fruit | pann | "ella pann... baari kushi injath Choondhu'k" (Choondhu really liked all the fruits). |
-| Banana | baaLe pann | "BaaLe pann ipp injath'alli" (There were bananas). baaLe = banana. |
-| Banana garden / plantation | baaLe thota | "oru cheriyor baaLe thota injath" (There was a small banana plantation). thota = garden/plantation. |
-| Bunch (of bananas) | maaLe | Used in the context of a bunch/garland of bananas. |
-| Jamun / Java plum (purple fruit) | naaraLe pann | Instructor notes it is purple in colour. |
-| Yellow | manja | "BaaLe'ra color... Manja, alla?" (The colour of a banana is yellow, right?). |
-| Vegetables | tharkari | "Pinynya tharkari, vegetables, sumaar ipp injath" (Then there were many vegetables). |
-| Green beans | chett | "chett karii'k chenna iLaayath kaNde" (green beans curry is good with potatoes). |
-| Potato | iLaayath kaNde | Etymology: from vilayath (abroad) → iLaayath; the "foreign vegetable" brought from overseas. |
-| Knol kohl / Kohlrabi | noo kolu | A vegetable grown in avaya's garden. |
-| Cooking / cooked food | adige | "Avaya... adige maadith kodpa injath" (Grandmother used to cook and give food). |
-| Snacks / food (to carry) | thindi | "thindi'ella êdth'nd poachi" (They took snacks/food with them to the forest). |
-
----
-
-## Nouns — Home & Objects
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| House | mane | "Avaya mane" (Grandmother's house). |
-| Compound / Yard | patti | "Ava patti'l, in the compound, patti'l dhumba kaLipa injath" (She used to play a lot in the compound). |
-| Year (of age) | bayt | "Ava'k êtt bayt" (She is eight years old). |
-| Tangle / Knot (in hair) | jikk | "avada thalmi'l'ella jikk aay poapo" (her hair would get completely knotted). |
-| Braid | jadey | "ava'k jadey itti kodpa injath" (they used to braid her hair for her). jadey itti = to plait/braid. |
-| Dish / Vessel | paathra | "Obba paathra kattho'k poachi" (One person went to wash the dishes). |
-| House work / Chores | kelasa | "mane'ra kelasa dhaar maadu?" (who will do the housework?). mane'ra = of the house. |
-| Song | paatt | "Paatt itt'nd ellaru aaduw'k suru maadchi" (Putting on songs, everyone started to dance). |
-| Sound | sabda | "woom sabda kêpaka" (when they heard a 'woom' sound). |
-| Story | kathe | "Naan ningak'ellaar'k ikka oru kathe êNNithappê" (I will tell you all a story). Cf. katthe (donkey). |
-| News | sudhdhi | "ella sudhdhi'na avayan'k êNNith" (telling all the news to grandmother). |
-| Study / Learning | padipa | "Kodava thakk padipa" (Kodava language learning/study). |
-| Fun / Enjoyment | gawj | "gawja maaduwa" (to have fun). "Baari gawj injath" (It was very enjoyable). |
-
----
-
-## Verbs
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| To walk / go for a walk | nadap'k | "Alli ava nadap'k poapa injath" (She used to go for a walk there). |
-| To run | oaduw'k | "Oaduwa injath" (She used to run). |
-| To play | kaLip'k | "alli ava kaLipa injath" (She used to play there). |
-| To eat | thimb'k | "chaayithe thimbak'ella thindi'ella êdth'nd poachi" (they took food to eat). |
-| To comb | uuk'k | "thalmi'na uukok'ka" (having to comb her hair). Progressive: uukond. |
-| To go | poap'k | "kaadu'k poaka'na'ndh decide maadchi" (They decided to go to the forest). |
-| To come | bapp'k | "baath bandhith" (having come for [holidays]). |
-| To jump | paaruw'k | "miga entha maaduwa? paaruwa" (What does a deer do? It jumps). |
-| To shake | koduk'k | "Koduko is to shake" — the porcupine shook its quils. |
-| To swing | beej'k | "beej'nd is to swing" — the elephant swinging its trunk and ears. |
-| To think / consider | gyana maaduw'k | "gyana maado is to think". "gyana maado'k kayva ninga'k?" (Are you able to think?). |
-| To be able to (can) | kayuw'k | "kayva is can you?" — "gyana maado'k kayva ninga'k?" (Can you think?). |
-| To wash (hands, dishes, general) | katth'k | "kayi kathith baari" (wash your hands and come). "paathra kattho" (wash dishes). Contrast with wolipp'k. |
-| To wash / launder (clothes only) | wolipp'k | Specifically for clothing. "Batte wolippa" (launder clothes). |
-| To sweep | oDk'k | "mane'na oDko'k ready aachi" (got ready to sweep the house). |
-| To wipe / mop | thuut'k | "thuuto is to wipe or mop". |
-| To sleep | waaruw'k | "nang'ikka waaruw'k poappa" (we will go to sleep now). |
-| To dance | aaduw'k | "ellaru aaduw'k suru maadchi" (everyone started to dance). |
-| To speak | pariw'k | "ninga Kodava thakki'l thakk pariviiraa?" (will you speak in Kodava takk?). |
-| To learn | padip'k | "echchak padichith uLLiiraa" (how much have you learnt). |
-| To sit | aLth'k | "shoaki'l adh aLthith injath" (It was sitting majestically). |
-| To disturb / scatter | paaruw'k | "muLLu paarchi" — quils flew/scattered out of porcupine. |
-| To start / begin | suru maaduw'k | "suru maadchi" (they started). suru = beginning + maaduw'k = to do. |
-
----
-
-## Adjectives & Descriptors
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Happy / Pleased / Liking | kushi | "kushi is to like something". "baari kushi injath ava'k" (she was very happy / she liked it very much). Also kusi. |
-| Long (hair) | wuttha | "Ava'k wuttha thalmi" (She had long hair). |
-| Various / Different kinds | tharathara | "tharathara pakshi injath" (there were various kinds of birds). |
-| Grandeur / Majesty | shoaki | "shoaki'l adh aLthith injath" (It was sitting in majesty / majestically). |
-| Fear / Scared | poadi | "poadi aachi enga'k" (we got scared). poadi = fear. |
-| Anger | chodi | "chodi'l ainga'la noatuwanekke kaNdan injath" (it looked as if it was looking at them in anger). |
-| Lovely / Beautiful / Nice | gawj | "baari gawj injath" (it was very lovely). Also used as "gawja maaduwa" (to enjoy). |
-| Always | ekkalu | "ekkalu satha" (always noisy/lively). |
-| Noisy / Lively | satha | "ekkalu satha" (always noisy/lively) — about Choondhu playing in the compound. |
-| Slow / Easy / Nice | chenna | "ainga chenna minynya'k poakanikki" (as they were going nicely and slowly). |
-
----
-
-## Expressions & Phrases
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| One day | oar dhina | Narrative opener. "Oar dhina engada mane'l party aachi" (One day there was a party at our house). oar = the article 'a'. |
-| Come quickly | beriya baa | "Choondhu, beriya baa'ndh êNN'ak" (When they would call out "Choondhu, come quickly"). beriya = quickly + baa = come (imperative). |
-| Wash your hands and come | kayi kathith baari | What avaya told the children. kayi (hand) + kathith (having washed) + baari (come, plural). |
-| It was very lovely / enjoyable | baari gawj injath | "kaadi'l baari gawj injath" (It was lovely in the forest). baari = very. |
-| Do you remember? | gothth'appa? | Rhetorical question used throughout to prompt recall. gothth = knowledge/knowing. |
-| I will tell you a story | naan ninga'k kathe êNNithappê | "Naan ningak'ellaar'k ikka oru kathe êNNithappê" — I will tell you all a story now. |
-| How old is she? | ava'k echchak bayt aayth'ikko? | Literally: to her how many years have become? bayt = years (for age). |
-| She is eight years old | ava'k êtt bayt | Literally: to her, eight years. |
-| It was very enjoyable / fun | gawja maaduwa | To have fun / to enjoy. "Rajakutt'k avaya'ra mane'k bandhith gawja maaduwa injath'ava" (She used to have great fun coming to her grandmother's house for the holidays). |
-
----
+| English | Kodava Takk | Kannada Script | Explanation |
+|---------|-------------|----------------|-------------|
+| Now | ikka | ಇಕ್ಕ | |
+| if we see | noa'thana | ನೋತಣ | |
+| you all | ninga | ನಿಂಗ | |
+| a lot | echak | ಎಚ್ಚಕ್ | |
+| have studied | padichithuLLira | ಪಡಿಚಿತ್ತುಳ್ಳಿರ | |
+| right? | andh | ಅಂದ್ | Conjunction, similar to 'isn't it?' or 'right?'. |
+| I | naanê | ನಾನೇ | Emphatic form of 'I'. |
+| to you all | ningak | ನಿಂಗಕ್ | |
+| to everyone | ellaar'ku | ಎಲ್ಲಾರ್ಕು | |
+| now | ikka | ಇಕ್ಕ | |
+| a / one | oru | ಒರು | |
+| story | kathe | ಕತೆ | |
+| I will tell | eNNithappea | ಎಣ್ಣಿತಪ್ಪೆ | |
+| that | aa | ಆ | |
+| in the story | kathe'l | ಕತೆಲ್ | |
+| a / one | oru | ಒರು | |
+| small | cheriya | ಚೆರಿಯ | |
+| child | kuññi | ಕುಂಞಿ | |
+| a / one | oru | ಒರು | |
+| small | cheriya | ಚೆರಿಯ | |
+| girl | mooDi | ಮೂಡಿ | |
+| to her | av'k | ಅವ್ಕ್ | |
+| how much | echak | ಎಚ್ಚಕ್ | |
+| years / age | baith | ಬೈತ್ | |
+| has become | aayth | ಆಯ್ತ್ | |
+| is it? | ikko | ಇಕ್ಕೊ | |
+| years | baith | ಬೈತ್ | |
+| to her | av'k | ಅವ್ಕ್ | |
+| eight | eTTu | ಎಟ್ಟು | |
+| years | baith | ಬೈತ್ | |
+| she | ava | ಅವ | |
+| her | avoDa | ಅವೊಡ | |
+| grandmother's | avvayya'nD | ಅವ್ವಯ್ಯಂಡ | Refers to maternal grandmother. |
+| to the house | mane'k | ಮನೆಕ್ | |
+| came | baath | ಬಾತ್ | |
+| holiday | raja | ರಜ | |
+| for the sake of | guTT'k | ಗುಟ್ಟಕ್ | |
+| having come | bandhith | ಬಂದಿತ್ | |
+| fun / enjoyment | gauj | ಗೌಜ್ | |
+| used to do | maaDuva injath | ಮಾಡುವ ಇಂಜತ್ | |
+| grandmother | avvayya | ಅವ್ವಯ್ಯ | Maternal grandmother. |
+| house | mane | ಮನೆ | |
+| there | alli | ಅಲ್ಲಿ | |
+| she | ava | ಅವ | |
+| to walk | naDap'k | ನಡಪಕ್ | |
+| used to go | poap injath | ಪೋಪ ಇಂಜತ್ | |
+| to go for a walk | naDp'k | ನಡಪಕ್ | |
+| used to run | oaDuva injath | ಓಡುವ ಇಂಜತ್ | |
+| used to run | oaDuva injath | ಓಡುವ ಇಂಜತ್ | |
+| she | ava | ಅವ | |
+| in the compound | patti'l | ಪಟ್ಟಿಲ್ | |
+| a lot | dhomba | ದೊಂಬ | |
+| used to play | kaLippa injath | ಕಳಿಪ್ಪ ಇಂಜತ್ | |
+| big | balliya | ಬಲ್ಲಿಯ | |
+| compound | patti | ಪಟ್ಟಿ | |
+| always | ekkolu satha | ಎಕ್ಕೊಲು ಸತ | |
+| of the house | mane'ra | ಮನೆರ | |
+| near / side | pakka | ಪಕ್ಕ | |
+| tree | mara | ಮರ | |
+| so many / a lot | poaNdi | ಪೋಂಡಿ | |
+| there were | ipp injath | ಇಪ್ಪ ಇಂಜತ್ | |
+| tree | mara | ಮರ | |
+| mango tree | maange mara | ಮಾಂಗೆ ಮರ | |
+| then / again | piññe | ಪಿಂಞೆ | |
+| what | enth | ಎಂತ್ | |
+| think | gyanappa | ಗ್ಯಾನಪ್ಪ | |
+| what all | enth-ella | ಎಂತೆಲ್ಲ | |
+| are there | ikkolu | ಇಕ್ಕೊಲು | |
+| butterfruit tree | butterfruit mara | ಬಟರ್‌ಫ್ರೂಟ್ ಮರ | Refers to an avocado tree. |
+| of pineapple | parangi chekke'ra | ಪರಂಗಿ ಚೆಕ್ಕೆರ | |
+| many / several | sumaar | ಸುಮಾರ | |
+| plant | giDa | ಗಿಡ | |
+| pineapple | parangi chekke | ಪರಂಗಿ ಚೆಕ್ಕೆ | |
+| that | adhna | ಅಧ್ನ | |
+| to see | noa't'k | ನೋಟಕ್ | |
+| happy | khushi | ಖುಶಿ | |
+| used to become | aapa injath | ಆಪ ಇಂಜತ್ | |
+| very | baari | ಬಾರಿ | |
+| all | ella | ಎಲ್ಲ | |
+| fruits | paNNu | ಪಣ್ಣು | |
+| to like / happy | khushi | ಖುಶಿ | Can mean happiness or to like something. |
+| banana (fruit) | baaLe paNN | ಬಾಳೆ ಪಣ್ಣ್ | |
+| a small one | cheriyor | ಚೆರಿಯೊರ್ | |
+| banana plantation | baaLe thoa'ta | ಬಾಳೆ ತೋಟ | |
+| in that | adh'l | ಅಧ್ಲ್ | |
+| beautiful | chaayi | ಚಾಯಿ | |
+| yellow | manja | ಮಂಜ | |
+| bunch of bananas | baaLe kuTTa | ಬಾಳೆ ಕುಟ್ಟ | |
+| tasty | rasa rasa | ರಸ ರಸ | |
+| banana | baaLe | ಬಾಳೆ | |
+| of the banana | baaLe'ra | ಬಾಳೆರ | |
+| do you know? | gotthappa? | ಗೊತ್ತಪ್ಪ? | |
+| yellow | manja | ಮಂಜ | |
+| right? | alla? | ಅಲ್ಲ? | |
+| jamun fruit | nerale paNN | ನೇರಳೆ ಪಣ್ಣ್ | |
+| red | choandha | ಚೋಂದ | |
+| of color | color'da | ಕಲರ್‌ಡ | |
+| also | sa | ಸ | |
+| will you guess? | eNNuvira | ಎಣ್ಣುವಿರ | |
+| which one | eadh | ಏದ್ | |
+| vegetables | tharkari | ತರ್ಕಾರಿ | |
+| beans | cheTTu | ಚೆಟ್ಟು | Specifically, green beans. |
+| for curry | kari'k | ಕರಿಕ್ | |
+| good / well | chenna | ಚೆನ್ನ | |
+| potatoes | ilayath kaNde | ಇಳಾಯತ್ ಕಂಡೆ | Lit. 'foreign tuber', from 'vilayath' (abroad). |
+| potatoes | ilayath kaNde | ಇಳಾಯತ್ ಕಂಡೆ | |
+| knol-khol | noakol | ನೋಕೋಲ್ | A type of vegetable. |
+| when cooked | iTTith maaD'ka | ಇಟ್ಟಿತ್ ಮಾಡ್ಕ | |
+| tasty | choadh | ಚೋದ್ | |
+| food / cooking | aDige | ಅಡಿಗೆ | |
+| used to make and give | maaDith koDpa injath | ಮಾಡಿತ್ ಕೊಡ್ಪ ಇಂಜತ್ | |
+| having eaten | thindhith | ತಿಂದಿತ್ | |
+| in happiness | khushi'l | ಖುಶಿಲ್ | |
+| used to be | ippa injath | ಇಪ್ಪ ಇಂಜತ್ | |
+| one day | or dhina | ಒರ್ ದಿನ | |
+| our | engaDa | ಎಂಗಡ | |
+| happened / was | aachi | ಆಚಿ | |
+| then | akka | ಅಕ್ಕ | |
+| who | dhaar | ದಾರ್ | |
+| came? | bandhiye | ಬಂದಿಯೆ? | |
+| elder uncle | balliya maama | ಬಲ್ಲಿಯ ಮಾಮ | Mother's elder brother. |
+| elder aunt | balliya maami | ಬಲ್ಲಿಯ ಮಾಮಿ | Wife of mother's elder brother. |
+| paternal uncle | boaj maama | ಬೋಜ್ ಮಾಮ | Father's younger brother. |
+| paternal aunt | boaj maami | ಬೋಜ್ ಮಾಮಿ | Wife of father's younger brother. |
+| younger uncle | kuññi maama | ಕುಂಞಿ ಮಾಮ | Mother's younger brother. |
+| younger aunt | kuññi maami | ಕುಂಞಿ ಮಾಮಿ | Wife of mother's younger brother. |
+| came | banth | ಬಂತ್ | |
+| did | maaDchi | ಮಾಡ್ಚಿ | |
+| there | ange | ಅಂಗೆ | |
+| older brothers | aNeyangaLu | ಅಣೆಯಂಗಲು | |
+| younger brothers | thammaNangaLu | ತಮ್ಮಣಂಗಲು | |
+| paternal grandmother | boajavva | ಬೋಜವ್ವ | Father's mother. |
+| paternal grandfather | boajappa | ಬೋಜಪ್ಪ | Father's father. |
+| with / along with | kooDe | ಕೂಡ | |
+| in the morning | polak'naarthe | ಪೊಲಕ್‌ನಾರ್ತೆ | |
+| having gotten up | eddhith | ಎದ್ದಿತ್ | |
+| clothes | baTTe | ಬಟ್ಟೆ | |
+| having worn | iTT'ND | ಇಟ್ಟಂಡ್ | |
+| used to come | bappa injath | ಬಪ್ಪ ಇಂಜತ್ | |
+| long | uttha | ಉತ್ತ | |
+| hair | thalmi | ತಲ್ಮಿ | |
+| to comb | uukko'k | ಊಕ್ಕೊಕ್ | |
+| would get late | late aayi poap | ಲೇಟ್ ಆಯಿ ಪೋಪ್ | |
+| to play | kaLip'k | ಕಳಿಪಕ್ | |
+| quickly | biriya | ಬಿರಿಯ | |
+| come | baa | ಬಾ | |
+| while saying | eNN'k | ಎಣ್ಣಕ್ | |
+| in the hair | thalmi'l | ತಲ್ಮಿಲ್ | |
+| would get tangled | jikk aayi poap | ಜಿಕ್ಕ್ ಆಯಿ ಪೋಪ್ | |
+| having combed | uukith | ಊಕಿತ್ | |
+| head | maNDe | ಮಂಡೆ | |
+| older sisters | akkanga | ಅಕ್ಕಂಗ | |
+| braid | jaDe | ಜಡೆ | |
+| used to put for her | iTTi koDpa injath | ಇಟ್ಟಿ ಕೊಡ್ಪ ಇಂಜತ್ | |
+| nearby | pakka'thl | ಪಕ್ಕತ್ಲ್ | |
+| forest | kaaD | ಕಾಡ್ | |
+| to go | poak'na | ಪೋಕ್‌ನ | |
+| beautiful things | chaaythe | ಚಾಯ್ತೆ | |
+| to eat | thimb'k | ತಿಂಬಕ್ | |
+| snacks | thiNDi | ತಿಂಡಿ | |
+| took and went | eduth'n poachi | ಎಡುತ್‌ನ್ ಪೋಚಿ | |
+| deer | miga | ಮಿಗ | |
+| does | maaDuva | ಮಾಡುವ | |
+| jumps | paaruva | ಪಾರುವ | |
+| deer | miga | ಮಿಗ | |
+| to jump | paaruva | ಪಾರುವ | |
+| while watching | noa'tiyaND | ನೋಟಿಯಂಡ್ | |
+| while being | ikkaNiki | ಇಕ್ಕಣಿಕಿ | |
+| bison / gaur | kaaTi | ಕಾಟಿ | |
+| grass | pillu | ಪಿಲ್ಲು | |
+| was eating | thindhaN injath | ತಿಂದಣ್ ಇಂಜತ್ | |
+| in anger | choDi'l | ಚೊಡಿಲ್ | |
+| them | angaLa | ಅಂಗಳ | |
+| as if looking | noa'tuva'neke | ನೋಟುವನೆಕೆ | |
+| it seemed | kaNDaN injath | ಕಂಡಣ್ ಇಂಜತ್ | |
+| porcupine | muLLu pandhi | ಮುಳ್ಳು ಪಂದಿ | Literally 'thorn pig'. |
+| came | bandhrunji | ಬಂದ್ರುಂಜಿ | |
+| shook | koDukchi | ಕೊಡುಕ್ಚಿ | |
+| to shake | koDuko | ಕೊಡುಕೊ | |
+| quills / thorns | muLLu | ಮುಳ್ಳು | |
+| flew | paaruchi | ಪಾರುಚಿ | |
+| they (here) | inga | ಇಂಗ | |
+| inside | oLi'l | ಒಳಿಲ್ | |
+| hid | oLichiyaNDith | ಒಳಿಚಿಯಂಡಿತ್ | |
+| thorns / quill | muLLu | ಮುಳ್ಳು | |
+| elephant | aane | ಆನೆ | |
+| forward | miññ'k | ಮಿಂಞಕ್ | |
+| with its trunk | soNDi'l | ಸೊಂಡಿಲ್ | |
+| swinging | beej'ND | ಬೀಜಂಡ್ | |
+| ear | kemi | ಕೆಮಿ | |
+| to swing | beej'ND | ಬೀಜಂಡ್ | |
+| small / baby | kuTTi | ಕುಟ್ಟಿ | |
+| elephant calf | aane mari | ಆನೆ ಮರಿ | |
+| bear | karaDi | ಕರಡಿ | |
+| have you seen? | kaNDithuLLira | ಕಂಡಿತುಳ್ಳಿರ | |
+| bear | karaDi | ಕರಡಿ | |
+| bird | pakshi | ಪಕ್ಶಿ | |
+| different kinds | thara thara | ತರ ತರ | |
+| river | poLe | ಪೊಳೆ | |
+| duck | baath koLi | ಬಾತ್ ಕೋಳಿ | |
+| was going | poayaN injath | ಪೋಯಣ್ ಇಂಜತ್ | |
+| duck | baath koLi | ಬಾತ್ ಕೋಳಿ | |
+| hen | koLi | ಕೋಳಿ | |
+| when heard | keap'ka | ಕೇಪಕ | |
+| looked | noa'tchi | ನೋಟ್ಚಿ | |
+| owl | guume | ಗೂಮೆ | |
+| sound | saddh | ಸದ್ದ್ | |
+| when making | maaDoNiki | ಮಾಡೋಣಿಕಿ | |
+| donkey | kattheya | ಕತ್ತೆಯ | |
+| saying / braying | eNNiyaN | ಎಣ್ಣಿಯಣ್ | |
+| donkey | katthe | ಕತ್ತೆ | |
+| what is being told | eNNiyaN uLLadh | ಎಣ್ಣಿಯಣ್ ಉಳ್ಳದ್ | |
+| story | kathe | ಕತೆ | Note the difference in sound from 'katthe' (donkey). |
+| donkey | katthe | ಕತ್ತೆ | Note the difference in sound from 'kathe' (story). |
+| saw | kaNDath | ಕಂಡತ್ | |
+| inside the forest | kaaD'ra oLi'l | ಕಾಡ್ರ ಒಳಿಲ್ | |
+| will you think? | gyaana maaDuvira | ಗ್ಯಾನ ಮಾಡುವಿರ | |
+| to think | gyaana maaDo | ಗ್ಯಾನ ಮಾಡೊ | |
+| to think | gyaana maaDo'k | ಗ್ಯಾನ ಮಾಡೊಕ್ | |
+| can you? | kaiva | ಕೈವ | |
+| tiger | nari | ನರಿ | |
+| making a sound | saddh maaDiND | ಸದ್ದ್ ಮಾಡೀಂಡ್ | |
+| tiger | nari | ನರಿ | |
+| in grandeur | shoaki'l | ಶೋಕಿಲ್ | Majestically. |
+| was sitting | aLthith injath | ಅಳ್ತಿತ್ ಇಂಜತ್ | |
+| became scared | poaDi aachi | ಪೋಡಿ ಆಚಿ | |
+| to us | engak | ಎಂಗಕ್ | |
+| on seeing the tiger | narina noa't'ka | ನರಿನ ನೋಟಕ್ | |
+| but / however | achchengi | ಅಚ್ಚೆಂಗಿ | |
+| beautiful | chaayi | ಚಾಯಿ | |
+| at the same time | aNNaneyu | ಅಣ್ಣನೆಯು | |
+| kitchen | aDige mane | ಅಡಿಗೆ ಮನೆ | |
+| when coming | bakkaNiki | ಬಕ್ಕಣಿಕಿ | |
+| wash your hands and come | kai katthith baari | ಕೈ ಕತ್ತಿತ್ ಬಾರಿ | |
+| wash your hands and come | kai katthith baari | ಕೈ ಕತ್ತಿತ್ ಬಾರಿ | |
+| said | eNNichi | ಎಣ್ಣಿಚಿ | |
+| children | makka | ಮಕ್ಕ | |
+| in the forest | kaaDi'l | ಕಾಡಿಲ್ | |
+| news | suddhi | ಸುದ್ದಿ | |
+| to grandmother | avvayyang | ಅವ್ವಯ್ಯಂಗ್ | |
+| had done | maaDithinth | ಮಾಡಿತ್ತಿಂತ್ | |
+| had cooked | aDige maaDithinth | ಅಡಿಗೆ ಮಾಡಿತ್ತಿಂತ್ | |
+| she had cooked | aDige maaDithinth | ಅಡಿಗೆ ಮಾಡಿತ್ತಿಂತ್ | |
+| to rest | vaaruva'k | ವಾರುವಕ್ | |
+| oh / now | iññu | ಇಂಞು | |
+| it was nice to eat | chaay aachi uNDadh | ಚಾಯ್ ಆಚಿ ಉಂಡದ್ | |
+| we | nange | ನಂಗೆ | |
+| will go | poapa | ಪೋಪ | |
+| were about to leave | por'tath | ಪೊರ್ಟತ್ | |
+| by then | akkaNiki | ಅಕ್ಕಣಿಕಿ | |
+| are you going? | poapada | ಪೋಪದ? | |
+| work | kelasa | ಕೆಲಸ | |
+| who will do? | dhaar maaDo | ದಾರ್ ಮಾಡೊ | |
+| one person | obba | ಒಬ್ಬ | |
+| the house | mane'na | ಮನೆನ | |
+| to sweep | oD'ko'k | ಒಡ್ಕೊಕ್ | |
+| to sweep the house | oD'ko | ಒಡ್ಕೊ | |
+| to wipe / to mop | thii'tua | ತೀಟುವ | |
+| vessels / dishes | paathra | ಪಾತ್ರ | |
+| to wash | katth'k | ಕತ್ತಕ್ | |
+| remaining | baaki | ಬಾಕಿ | |
+| two | dhaNDu | ದಂಡು | |
+| three people | muundhaLu | ಮೂಂದಾಳು | |
+| here and there | alli illiye | ಅಲ್ಲಿ ಇಲ್ಲಿಯೆ | |
+| had left/put | iTT'rith injath | ಇಟ್ಟರಿತ್ ಇಂಜತ್ | |
+| to wash (clothes) | olipp'k | ಒಲಿಪ್ಪಕ್ | |
+| to wash clothes | olippa | ಒಲಿಪ್ಪ | Specifically for laundry. |
+| to wash (general) | kattho | ಕತ್ತೊ | Used for hands, dishes, etc. |
+| wash hands | kai kattho | ಕೈ ಕತ್ತೊ | |
+| wash vessels | paathra kattho | ಪಾತ್ರ ಕತ್ತೊ | |
+| wash clothes | baTTe olippa | ಬಟ್ಟೆ ಒಲಿಪ್ಪ | |
+| water | niir | ನೀರ್ | |
+| started | suru maaDchi | ಸುರು ಮಾಡ್ಚಿ | |
+| okay? / done? | aacha? | ಆಚ? | |
+| then | iññe | ಇಂಞೆ | |
+| again | puna | ಪುನ | |
+| have to do, right? | maaDoNDuvalla | ಮಾಡೋಂಡುವಲ್ಲ | |
+| when together | kooDi thipp'ka | ಕೂಡಿ ತಿಪ್ಪಕ | |
+| relatives | bendh'ka | ಬೆಂದ್ಕ | |
+| to dance | aaDuva'k | ಆಡುವಕ್ | |
+| songs | paaTT | ಪಾಟ್ಟ್ | |
+| are you happy? | khushi uNDa | ಖುಶಿ ಉಂಡ | |
+| to Kodagu | Kodagu'k | ಕೊಡಗುಕ್ | |
+| in Kodava Takk | Kodava thakk'l | ಕೊಡವ ತಕ್ಕ್ಲ್ | |
+| language / speech | thakk | ತಕ್ಕ್ | |
+| will you speak? | parivira | ಪರಿವಿರ | |
 
 ## Topics Covered
-
-- **Story-based review (Session 12):** The entire session takes the form of a narrative about Choondhu, a young girl visiting her grandmother's house — used as a vehicle to review and reinforce vocabulary from all prior sessions.
-- **Family vocabulary:** Extended Kodava family terms — avaya (maternal grandmother), boajavva/boajappa (paternal grandparents), ballya/boaji/kunyi maama/maami (mother's brothers and their wives by age order), akkanga (elder sisters), aNeyangaL/thammangaL (brothers).
-- **Nature & wildlife vocabulary:** Forest animals encountered in the story — miga (deer), khaati (bison), muLLu pandhi (porcupine), aane (elephant), karadi (bear), pakshi (birds), baath koLi (duck), gooma (owl), nari (tiger) — with descriptive narration.
-- **Flora & garden vocabulary:** Trees and plants in avaya's compound — mara (tree), maange mara (mango), butterfruit mara (avocado), parangi chekke (pineapple), baaLe pann (banana), naaraLe pann (jamun) — plus garden vocabulary (thota, gida, pann, tharkari, chett, iLaayath kaNde, noo kolu).
-- **Household chores vocabulary:** Verbs for cleaning and domestic tasks — oDk'k (sweep), thuut'k (mop/wipe), katth'k (wash — general), wolipp'k (launder clothes), introducing the distinction between katth'k vs. wolipp'k.
-- **Minimal-pair vocabulary warning:** katthe (donkey) vs. kathe (story) — the instructor explicitly highlights the importance of syllable stress and geminate consonants in Kodava Takk.
-- **Habitual past tense in narrative:** Extensive use of the injath construction (was / used to) to describe past habitual states and actions in storytelling.
-- **Progressive forms in narrative:** thindand (eating), poyand (going), kaLipa (playing), noatiyand (looking), bandhand (coming) — progressive particles embedded in past narrative.
-- **Etymology note:** iLaayath kaNde (potato) derived from vilayath (abroad/foreign) — the "foreign vegetable."
-- **Compound nouns:** baath koLi (duck = water hen), muLLu pandhi (porcupine = thorn pig), aanemari (elephant calf), baaLe thota (banana plantation), maange mara (mango tree).
-- **Review of cultural vocabulary:** kodava household life, festivals/gatherings, children's chores, forest visits as a cultural experience in Coorg (Kodagu).
+- Family & People
+- Animals (Wild & Domestic)
+- Nature & Food
+- Actions & Verbs
+- Household & Chores
+- Descriptions & Questions

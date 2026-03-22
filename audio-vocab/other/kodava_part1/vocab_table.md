@@ -1,133 +1,252 @@
-# Kodava Takk — Question & Answer Sentences
+# Kodava Vocabulary
+> **Source:** <audio filename>
+> **Format:** Language learning video
 
-## What (entha)
+| English | Kodava Takk | Kannada Script | Explanation |
+|---------|-------------|----------------|-------------|
+| your | Needa | ನೀಡ | your |
+| name | peda | ಪೆದ | name |
+| what | enth | ಎಂತ್ | what |
+| my | Naada | ನಾಡ | my |
+| name | peda | ಪೆದ | name |
+| what | Entha | ಎಂತ | what |
+| doing | maadiand | ಮಾಡಿಯಂಡ್ | doing |
+| are you (present) | uLLiya | ಉಳ್ಳಿಯ | Used for present tense questions. |
+| I | Naanu | ನಾನು | I |
+| coffee | kaapi | ಕಾಪಿ | coffee |
+| drinking | kudichand | ಕುಡಿಚಂಡ್ | drinking |
+| am (present) | uLLê | ಉಳ್ಳೆ | Used for present tense statements. |
+| what | Entha | ಎಂತ | what |
+| doing | maadiand | ಮಾಡಿಯಂಡ್ | doing |
+| were you (past) | injiya | ಇಂಜಿಯ | Used for past tense questions. |
+| I | Naanu | ನಾನು | I |
+| out | porme | ಪೊರ್ಮೆ | out |
+| went | poyith | ಪೋಯಿತ್ | po is like going. |
+| had been (past) | injê | ಇಂಜೆ | Used for past tense statements. |
+| her | Avada | ಅವಡ | Refers to her or she. |
+| name | peda | ಪೆದ | name |
+| what | enth | ಎಂತ್ | what |
+| her | Avada | ಅವಡ | Used for a girl, her or she. |
+| his | Avanda | ಅವಂಡ | Refers to he, him or his. |
+| name | peda | ಪೆದ | name |
+| what | enth | ಎಂತ್ | what |
+| his | Avanda | ಅವಂಡ | his |
+| name | peda | ಪೆದ | name |
+| why | Ennangê | ಎನ್ನಂಗೆ | why |
+| late | thada | ತಡ | late |
+| happened | aachi | ಆಚಿ | happened |
+| for me / I | Naakê | ನಾಕೆ | for me |
+| some | channa | ಚೆನ್ನ | some |
+| work | kelsa | ಕೆಲ್ಸ | work |
+| had | injath | ಇಂಜತ್ | had |
+| you | Neenê | ನೀನ್ | you |
+| why | ennangê | ಎನ್ನಂಗೆ | why |
+| didn't come | banthlê | ಬಂತ್ಲೆ | didn't come |
+| for me / I | Naakê | ನಾಕೆ | for me |
+| office | office | ಆಫೀಸ್ | office (loanword) |
+| had | injath | ಇಂಜತ್ | had |
+| for you | Neekê | ನೀಕ್ | for you |
+| why | ennangê | ಎನ್ನಂಗೆ | why |
+| scared | poadi | ಪೋಡಿ | scared |
+| it | Adh | ಅಧ್ | it |
+| bite | kadipa | ಕಡಿಪ | bite |
+| so | adhangê | ಅದಂಗೆ | so |
+| for me / I | naakê | ನಾಕೆ | for me, I |
+| scared | poadi | ಪೋಡಿ | scared |
+| for you | Neekê | ನೀಕ್ | for you |
+| why | ennangê | ಎನ್ನಂಗೆ | why |
+| angry | chedi | ಚೆಡಿ | angry |
+| he | Avan | ಅವನ್ | he |
+| for me | naakê | ನಾಕೆ | for me |
+| scolded | bajjath | ಬಜ್ಜತ್ | scolded |
+| you | Neenê | ನೀನ್ | for you |
+| why | ennangê | ಎನ್ನಂಗೆ | why |
+| didn't eat | thinthlê | ತಿಂತ್ಲೆ | didn't eat |
+| it | Adh | ಅಧ್ | it |
+| good | chaayi | ಚಾಯಿ | good |
+| was not | inthlê | ಇಂತ್ಲೆ | negation, e.g., chaayi inthlê (not good) |
+| where | Ellikê | ಎಲ್ಲಿಕ್ | where |
+| go | poyith | ಪೋಯಿತ್ | go |
+| had you been | injiya | ಇಂಜಿಯ | had you been |
+| I | Naanê | ನಾನ್ | I |
+| went | poyith | ಪೋಯಿತ್ | went or go |
+| had been | injê | ಇಂಜೆ | had been |
+| your | Needa | ನೀಡ | your |
+| home | mane | ಮನೆ | home |
+| where | elli | ಎಲ್ಲಿ | where |
+| my | Naada | ನಾಡ | my |
+| home | mane | ಮನೆ | home |
+| nearby | pakkathê | ಪಕ್ಕತೆ | nearby |
+| is | und | ಉಂಡ್ | is |
+| you | Neenê | ನೀನ್ | you |
+| morning | polaka | ಪೊಲಕ | morning |
+| where | elli | ಎಲ್ಲಿ | where |
+| were you | injiya | ಇಂಜಿಯ | were you |
+| I | Naanê | ನಾನ್ | I |
+| roaming | suthyand | ಸುತ್ಯಂಡ್ | suth is roam |
+| was | injê | ಇಂಜೆ | was |
+| where | Ellikê | ಎಲ್ಲಿಕ್ | for where |
+| going | poyand | ಪೋಯಂಡ್ | going |
+| are you | uLLiya | ಉಳ್ಳಿಯ | are you |
+| tomorrow | naaLe | ನಾಳೆ | tomorrow |
+| anywhere | Ellikku | ಎಲ್ಲಿಕ್ಕು | not anywhere |
+| going | poyand | ಪೋಯಂಡ್ | going |
+| no / not | illê | ಇಲ್ಲೆ | no |
+| you | Neenê | ನೀನ್ | you |
+| where | elli | ಎಲ್ಲಿ | where |
+| study | oadhiye | ಓದಿಯೆ | study |
+| I | Naanê | ನಾನ್ | I |
+| study | oadhiye | ಓದಿಯೆ | study |
+| when | Ekka | ಎಕ್ಕ | when |
+| coming | bappiya | ಬಪ್ಪಿಯ | coming |
+| you | neenê | ನೀನ್ | you |
+| I | Naanê | ನಾನ್ | I |
+| today | indhê | ಇಂದೆ | today |
+| coming | bappi | ಬಪ್ಪಿ | coming |
+| when | Ekka | ಎಕ್ಕ | when |
+| going | poapo | ಪೋಪೊ | going |
+| you | neenê | ನೀನ್ | you |
+| I | Naanê | ನಾನ್ | I |
+| next / coming | bappa | ಬಪ್ಪ | next / coming |
+| week | vaara | ವಾರ | week |
+| going | poapo | ಪೋಪೊ | going |
+| your | Needa | ನೀಡ | your |
+| marriage | mangala | ಮಂಗಳ | marriage |
+| when | ekka | ಎಕ್ಕ | when |
+| my | Naada | ನಾಡ | my |
+| marriage | mangala | ಮಂಗಳ | marriage |
+| this | idhe | ಇದೆ | this |
+| month | thingath | ತಿಂಗತ್ | month |
+| when | Ekka | ಎಕ್ಕ | when |
+| give | thappiya | ತಪ್ಪಿಯ | give |
+| you | neenê | ನೀನ್ | you |
+| I | Naanê | ನಾನ್ | I |
+| can't give | thapplê | ತಪ್ಪಲೆ | can't give |
+| you | neekê | ನೀಕ್ | you |
+| when | Ekka | ಎಕ್ಕ | when |
+| built | kattiye | ಕಟ್ಟಿಯೆ | built |
+| it | adh | ಅಧ್ | it |
+| it (far) | Adh | ಅಧ್ | it (demonstrative, far) |
+| built | kattith | ಕಟ್ಟಿತ್ | built |
+| long | sumaar | ಸುಮಾರ್ | long |
+| time | time | ಟೈಮ್ | time (loanword) |
+| happened / ago | aachi | ಆಚಿ | happened / ago |
+| how | Ennanê | ಎನ್ನನೆ | how |
+| are you | uLLiya | ಉಳ್ಳಿಯ | are you |
+| you | neenê | ನೀನ್ | you |
+| I | Naanê | ನಾನ್ | I |
+| good | chaayithê | ಚಾಯಿತೆ | chaayi means good |
+| am | uLLê | ಉಳ್ಳೆ | am |
+| your | Needa | ನೀಡ | your |
+| day | dhina | ದಿನ | day |
+| how | ennanê | ಎನ್ನನೆ | how |
+| was | injath | ಇಂಜತ್ | was |
+| good | Chaayi | ಚಾಯಿ | good |
+| was not | inthlê | ಇಂತ್ಲೆ | negation, e.g., chaayi inthlê (not good) |
+| how many | Echakkê | ಎಚಕ್ಕ್ | how many (for countable things) |
+| children | makka | ಮಕ್ಕ | children |
+| for you | neekê | ನೀಕ್ | for you / you have |
+| for me / I | Naakê | ನಾಕೆ | for me / I have |
+| two | dandu | ದಂಡ್ | two |
+| children | makka | ಮಕ್ಕ | children |
+| for you | Neekê | ನೀಕ್ | for you |
+| how much | echakkê | ಎಚಕ್ಕ್ | how much (for countable things) |
+| age / old | vayssê | ವಯ್ಸ್ | age / old |
+| for me / I | Naakê | ನಾಕೆ | for me / I am |
+| twenty | iruvadhu | ಇರುವದ್ | twenty |
+| age / years old | vayssê | ವಯ್ಸ್ | age / years old |
+| its | Adhanda | ಅದಂಡ | its |
+| cost | bele | ಬೆಲೆ | cost |
+| how much | echakkê | ಎಚಕ್ಕ್ | how much |
+| its | Adhanda | ಅದಂಡ | its |
+| cost | bele | ಬೆಲೆ | cost |
+| ten | paththê | ಪತ್ತ್ | ten |
+| rupees | rupiya | ರೂಪಿಯಾ | rupees |
+| he | Avan | ಅವನ್ | he |
+| who | dhaaru | ದಾರ್ | who |
+| he | Avan | ಅವನ್ | he |
+| who | Dhaaru | ದಾರ್ | who |
+| ate | thindhiye | ತಿಂದಿಯೆ | ate (thinn means eat) |
+| this | idhanna | ಇದನ್ನ | this |
+| she | Ava | ಅವ | she |
+| ate | thindhiye | ತಿಂದಿಯೆ | ate |
+| that | adhanna | ಅದನ್ನ | that |
+| who | Dhaaru | ದಾರ್ | who |
+| good | chaayithê | ಚಾಯಿತೆ | good |
+| singing | paaduva | ಪಾಡುವ | singing (paatt is song) |
+| I | Naanê | ನಾನ್ | I |
+| good | chaayithê | ಚಾಯಿತೆ | good |
+| sing | paaduvi | ಪಾಡ್ವಿ | sing |
+| you | Neenê | ನೀನ್ | you |
+| who | dhaaru | ದಾರ್ | who |
+| I | Naanê | ನಾನ್ | I |
+| police | police | ಪೊಲೀಸ್ | police (loanword) |
+| your | Needa | ನೀಡ | your |
+| role model | maadhari | ಮಾದರಿ | role model |
+| who | dhaaru | ದಾರ್ | who |
+| my | Naada | ನಾಡ | my |
+| father | daddy | ಡ್ಯಾಡಿ | father (loanword) |
+| my | naada | ನಾಡ | my |
+| role model | maadhari | ಮಾದರಿ | role model |
+| for you | Neekê | ನೀಕ್ | for you |
+| which | eadhê | ಏದ್ | which |
+| place | jaaga | ಜಾಗ | place |
+| most / very | thumba | ತುಂಬಾ | most / very |
+| like / happy | kushi | ಕುಶಿ | like / happy |
+| for me / I | Naakê | ನಾಕ್ | for me / I |
+| most / very | thumba | ತುಂಬಾ | most / very |
+| like / happy | kushi | ಕುಶಿ | like / happy |
+| you | Neenê | ನೀನ್ | you |
+| which | eadhê | ಏದ್ | which |
+| from country | dheshathinja | ದೇಶತಿಂಜ | dhesha means country |
+| I | Naanê | ನಾನ್ | I |
+| India | Bhaaratha | ಭಾರತ | India (local name) |
+| from | thinja | ತಿಂಜ | from |
+| for you | Neekê | ನೀಕ್ | for you |
+| which | eadhê | ಏದ್ | which |
+| color | banna | ಬಣ್ಣ | color |
+| like | ishta | ಇಷ್ಟ | like (can also use kushi) |
+| for me / I | Naakê | ನಾಕ್ | for me / I |
+| black | kartha | ಕರ್ತ | black |
+| color | banna | ಬಣ್ಣ | color |
+| like / happy | kushi | ಕುಶಿ | like / happy |
+| which | Eadhê | ಏದ್ | which |
+| yours | needadh | ನೀಡದ್ | yours (needa is your) |
+| this | Idh | ಇದ್ | this |
+| mine | naada | ನಾಡ | mine |
+| that | Adh | ಅಧ್ | that |
+| mine | naada | ನಾಡ | mine |
+| you | Neenê | ನೀನ್ | you |
+| which | eadhê | ಏದ್ | which |
+| language | bhaashe | ಭಾಷೆ | language |
+| language | thakk | ತಕ್ಕ್ | language (specifically 'speech') |
+| speaking | parandand | ಪೆರಂದಂಡ್ | speaking (pari is speak) |
+| am/are | uLLê | ಉಳ್ಳೆ | am/are (present tense) |
+| I | Naanê | ನಾನ್ | I |
+| speaking | parandand | ಪೆರಂದಂಡ್ | speaking |
+| am | uLLê | ಉಳ್ಳೆ | am (present tense) |
+| this | Idh | ಇದ್ | this |
+| whose | dhaada | ದಾದ | whose |
+| vehicle | gaadi | ಗಾಡಿ | vehicle |
+| this | Idh | ಇದ್ | this |
+| my / mine | naada | ನಾಡ | my / mine |
+| vehicle | gaadi | ಗಾಡಿ | vehicle |
+| this | Idh | ಇದ್ | this |
+| whose | dhaada | ದಾದ | whose |
+| book | pusthaka | ಪುಸ್ತಕ | book |
+| this | Idh | ಇದ್ | this |
+| his | avanda | ಅವಂಡ | his |
+| book | pusthaka | ಪುಸ್ತಕ | book |
+| today | Indhê | ಇಂದೆ | today |
+| whose | dhaada | ದಾದ | whose |
+| birthday | puttna dhina | ಪುಟ್ಟ್‌ನ ದಿನ | putt is birth, dhina is day |
+| today | Indhê | ಇಂದೆ | today |
+| her | avada | ಅವಡ | her |
+| birthday | puttna dhina | ಪುಟ್ಟ್‌ನ ದಿನ | birthday |
 
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| What is your name? | niida pedha entha? | niida = your, pedha = name, entha = what |
-| My name is Rahul. | naada pedha Rahul. | naada = my, pedha = name |
-| What are you doing? | entha maadiyand uLLiya? | entha = what, maadiyand = doing, uLLiya = present tense marker |
-| I am having coffee. | naan kaapi kudchiyand uLL. | naan = I, kaapi = coffee, kudchiyand = drinking, uLL = present tense marker |
-| What were you doing? | entha maadiyand injiiyaa? | entha = what, maadiyand = doing, injiiyaa = past tense marker (vs. uLLiya for present) |
-| I had been out. | naan porme poayith injiye. | naan = I, porme = out, poa = going, poayith = went, injiye = past tense marker |
-| What is her name? | avada pedha entha? | ava = her/she, pedha = name, entha = what |
-| Her name is Sakshi. | avada pedha Sakshi. | ava = her/she (used for female) |
-| What is his name? | ããwuNda pedha entha? | ããwu = he/him/his (used for male), pedha = name, entha = what |
-| His name is Manish. | ããwuNda pedha Manish. | ããwu = his (used for male), pedha = name |
-
----
-
-## Why (ennang)
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Why are you late? | ennang thada aachi? | ennang = why, thada = late, aachi = happened |
-| I had some work. | naa'k channa kelsa injath. | naa'k = I / for me, channa = some, kelsa = work, injath = had |
-| Why didn't you come? | niin ennang banth'le? | niin = you, ennang = why, banth'le = didn't come |
-| I had office. | naa'k office injath. | naa'k = I / for me, office = office (same as English), injath = I had |
-| Why are you scared? | nii'k ennang poadi? | nii'k = for you, ennang = why, poadi = scared |
-| It will bite. So I am scared. | adh kadipa, adhange naa'k poadi. | adh = it, kadipa = bite, adhange = so, naa'k = I / for me, poadi = scared |
-| Why were you angry? | nii'k ennang chedi? | nii'k = you / for you, ennang = why, chedi = angry |
-| He scolded me. | ããwu naa'k bajjath. | ããwu = he (use ava for she), naa'k = for me, bajjath = scolded |
-| Why didn't you eat? | niin ennang thinth'le? | niin = you, ennang = why, thinth'le = didn't eat |
-| It was not good. | adh chaayi inth'le. | adh = it, chaayi = good, inth'le = negation marker (chaayi inth'le = not good) |
-
----
-
-## Where (elli)
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Where had you been? | elli'k poayith injiiyaa? | elli'k = where, poayith = went/go, injiiyaa = had been |
-| I had been to Bangalore. | naan Bengaluru'k poayith injiye. | naan = I, poayith = went, injiye = had been |
-| Where is your home? | niida mane elli? | niida = your, mane = home, elli = where |
-| My home is nearby only. | naada mane pakkate uNd. | naada = my, mane = home, pakkate uNd = nearby only, pakka = near |
-| Where were you in the morning? | niin polaaka elli injiiyaa? | niin = you, polaaka = morning, elli = where, injiiyaa = were you |
-| I was roaming. | naan sutyen injiye. | naan = I, suth = roam, sutyen = roaming, injiye = past tense marker |
-| Where are you going tomorrow? | elli'k poyand uLLiya naaLe? | elli'k = for where, poyand = going, uLLiya = present tense marker, naaLe = tomorrow |
-| I am not going anywhere. | elli'k poyand ille. | elli'k = anywhere, poyand = going, ille = no/not |
-| Where did you study? | niin elli woadhiye? | niin = you, elli = where, woadhiye = study |
-| I studied in St. Joseph. | naan St. Josephs'l woadhiye. | naan = I, woadhiye = study |
-
----
-
-## When (ekka)
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| When are you coming? | ekka bappiiya niin? | ekka = when, bappiiya = coming, niin = you |
-| I am coming today. | naan indh bappii. | naan = I, indh = today, bappii = coming |
-| When are you going? | ekka poapa niin? | ekka = when, poapa = going, niin = you |
-| I am going next week. | naan bappa waara poapo. | naan = I, bappa waara = next week, waara = week, poapo = going |
-| When is your marriage? | niida mangala ekka? | niida = your, mangala = marriage, ekka = when |
-| My marriage is in this month. | naada mangala idhe thingath'l. | naada = my, mangala = marriage, idhe = this, thinga = month, thingath'l = in this month |
-| When can you give? | ekka thappiya niin? | ekka = when, thappiya = give, niin = you |
-| I can't give you. | naan thapple nii'k. | naan = I, thapple = can't give, nii'k = you |
-| When was it built? | ekka kattiye adh? | ekka = when, kattiye = built, adh = it (far) / idh = it (near) |
-| It was built long time ago. | adh kattith sumaar samaya aachi. | adh = it, kattith = built, sumaar = long, samaya = time, aachi = ago |
-
----
-
-## How (ennane / echchak)
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| How are you? | ennane uLLiya niin? | ennane = how, uLLiya niin = are you |
-| I am good. | naan chaayite uLL. | naan = I, chaayi = good, chaayite uLL = I am good |
-| How was your day? | niida dhina ennane injath? | niida = your, dhina = day, ennane = how, injath = was it |
-| It was not good. | chaayi inth'le. | chaayi = good, inth'le = negation (chaayi inth'le = not good) |
-| How many children you have? | echchak makka nii'k? | echchak = how many (used when answer is a count), makka = children, nii'k = you have |
-| I have two children. | naa'k dhand makka. | naa'k = I, dhand = two, makka = children |
-| How old are you? | nii'k echchak vays? | nii'k = you, echchak = how much/how many (count answer), vays = years old |
-| I am 20 years old. | naa'k irovadh vays. | naa'k = I, irovadh = 20, vays = years old |
-| How much does it cost? | adhNda bele echchak? | adhNda = its, bele = cost, echchak = how much |
-| It cost 10 rupees. | adhNda bele pathth rupiyah. | adhNda = its, bele = cost, pathth = 10, rupiyah = rupees |
-
-> **Note:** Use **ennane** for "how" in general quality/manner questions. Use **echchak** when the answer involves a count or number (how many, how much, how old).
-
----
-
-## Who (dhaar)
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Who is he? | ããwu dhaar? | ããwu = he (use ava for she), dhaar = who |
-| He is Sachin. | ããwu Sachin. | ããwu = he |
-| Who ate this? | dhaar thindiye idh'na? | dhaar = who, thinn = eat, thindiye = ate, idh'na = this |
-| She ate that. | ava thindiye adh'na. | ava = she (use ããwu for he), thindiye = ate, adh'na = that |
-| Who is good at singing? | dhaar chaayite paaduwa? | dhaar = who, chaayite = good, paat = song, paaduwa = singing |
-| I sing good. | naan chaayite paadvi. | naan = I, chaayite = good, paad = sing |
-| Who are you? | niin dhaar? | niin = you, dhaar = who |
-| I am a police. | naan police. | naan = I, police = police (same as English) |
-| Who is your role model? | niida maadhri dhaar? | niida = your, maadhri = role model, dhaar = who |
-| My role model is my father. | naada daddy naada maadhri. | naada = my, daddy = father, maadhri = role model |
-
----
-
-## Which (eadh)
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Which place you like most? | nii'k eadh jaaga dhumba kusii? | nii'k = for you, eadh = which, jaaga = place, dhumba = most, kusii = like |
-| I like Kodagu the most. | naa'k Kodagu dhumba kusii. | naa'k = I / for me, dhumba = most, kusii = like |
-| Which country are you from? | niin eadh dheashath'nja? | niin = you, eadh = which, dheasha = country, 'nja = from |
-| I am from India. | naan Bhaarathath'nja. | naan = I, Bhaaratha = India (local name), 'nja = from |
-| Which color you like? | nii'k eadh baNNa ishta? | nii'k = you, eadh = which, baNNa = color, ishta = like (kusii can also be used) |
-| I like black color. | naa'k kartha baNNa kusii. | naa'k = I / for me, kartha = black, baNNa = color, kusii = like |
-| Which is yours? | eadh niidadh? | eadh = which, niidadh = yours (niida = your, niidadh = yours) |
-| This is mine. / That is mine. | idh naadadh / adh naadadh. | idh = this, adh = that, naadadh = mine |
-| Which language are you speaking? | niin eadh bhaashe thakk pariyand uLLe? | niin = you, eadh = which, bhaashe / thakk = language (both mean language), pari = speak, pariyand = speaking, uLLe = are you speaking |
-| I am speaking Kannada. | naan Kannada pariyand uLLe. | naan = I, pariyand = speaking, uLLe = present tense marker |
-
----
-
-## Whose (dhaada)
-
-| English | Kodava Takk | Explanation |
-|---------|-------------|-------------|
-| Whose vehicle is this? | idh dhaada gaadi? | idh = this, dhaada = whose, gaadi = vehicle |
-| This is my vehicle. | idh naada gaadi. | idh = this, naada = my/mine, gaadi = vehicle |
-| Whose book is this? | idh dhaada pusthaka? | idh = this, dhaada = whose, pusthaka = book |
-| This is his book. | idh ããwuNda pusthaka. | idh = this, ããwu = his (use ava for her), pusthaka = book |
-| Whose birthday is today? | indh dhaada puttana dhina? | indh = today, dhaada = whose, putta = birth, dhina = day, puttana dhina = birthday |
-| Today is her birthday. | indh avada puttana dhina. | indh = today, ava = her, puttana dhina = birthday |
+## Topics Covered
+- Question Words (What, Why, Where, When, How, Who, Which, Whose)
+- Pronouns and Possessives
+- Verbs and Tenses
+- Common Nouns
+- Numbers and Counting

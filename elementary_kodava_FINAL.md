@@ -1900,7 +1900,7 @@ Adjectives from Verbs:
 
 | | |
 |---|---|
-| budhdhiyan²⁹ uLLa baaLe | the falling banana |
+| budhdhiyand²⁹ uLLa baaLe | the falling banana |
 | dhaatiyand uLLa *train* | the departing train |
 | bandhand uLLa moDa | the approaching cloud |
 

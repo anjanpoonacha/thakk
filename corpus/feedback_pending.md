@@ -6,3 +6,4 @@ Merge this PR to promote these entries to the live corpus.
 | ID | Action | Query | Answer | Correction | Submitted |
 |---|---|---|---|---|---|
 | `fb_test0001` | corrected [kodava] | how do you say house | manè | mane | 2026-03-22 12:00 UTC |
+| `fb_test0002` | approved | how do you say water | niiru | — | 2026-03-22 12:05 UTC |

@@ -31,7 +31,7 @@
 | It is peeling a banana. | BaaLe'na maandyand uNdu. | `BaaLe'na`=banana (object). |
 | This cat is peeling a banana. | Ii puunye baaLe'na maandyand uNdu. | Example sentence. |
 | For flying? | Paaruwa'k? | Question about usage. |
-| This bird is flying. | Ii miga paaryand uNdu. | `miga`=bird, `paaryand uNdu`=is flying. |
+| This bird is flying. | Ii pakshi paaryand uNdu. | `pakshi`=bird, `paaryand uNdu`=is flying. |
 | For biting? | Kadippuwa'k? | Question about usage. |
 | (It) is biting. | Kadchond uNdu. | Verb `kadippuwa` (to bite) in present progressive. |
 | He is biting. | Avan kadchond uNdu. | Example sentence. |
@@ -71,7 +71,7 @@
 | I will chase. | Naanu balippi. | Future tense, 1st person singular. |
 | We will chase. | Nanga balippa. | Future tense, 1st person plural. |
 | This cat will peel a banana. | Ii puunye baaLe maanduva. | Future tense, 3rd person. |
-| This bird will fly. | Ii miga paaruva. | Future tense, 3rd person. |
+| This bird will fly. | Ii pakshi paaruva. | Future tense, 3rd person. |
 
 ## Arithmetic Drills
 

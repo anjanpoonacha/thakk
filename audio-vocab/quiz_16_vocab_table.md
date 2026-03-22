@@ -12,7 +12,7 @@
 | Snail | kaateanji | slow-moving shelled creature |
 | Woodpecker | marakotta pakshi | mara = tree; kotta = knocking; pakshi = bird |
 | Bison / Indian gaur | kaati | wild bovine found in Kodagu forests |
-| Vulture | chaddu patth | scavenging bird |
+| Vulture | Jaddu paddh | scavenging bird |
 | Wild boar | kaadu pandi | kaadu = wild/forest; pandi = pig |
 | Leopard | beangenari | spotted wild cat |
 | Bulbul (bird) | kottu mudicha | common garden bird |

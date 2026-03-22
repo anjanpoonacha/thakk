@@ -167,7 +167,7 @@
 
 - **Story-based review (Session 12):** The entire session takes the form of a narrative about Choondhu, a young girl visiting her grandmother's house — used as a vehicle to review and reinforce vocabulary from all prior sessions.
 - **Family vocabulary:** Extended Kodava family terms — avaya (maternal grandmother), boajavva/boajappa (paternal grandparents), ballya/boaji/kunyi maama/maami (mother's brothers and their wives by age order), akkanga (elder sisters), aNeyangaL/thammangaL (brothers).
-- **Nature & wildlife vocabulary:** Forest animals encountered in the story — miga (deer), kaati (bison), muLLu pandhi (porcupine), aane (elephant), karadi (bear), pakshi (birds), baath koLi (duck), gooma (owl), nari (tiger) — with descriptive narration.
+- **Nature & wildlife vocabulary:** Forest animals encountered in the story — miga (deer), khaati (bison), muLLu pandhi (porcupine), aane (elephant), karadi (bear), pakshi (birds), baath koLi (duck), gooma (owl), nari (tiger) — with descriptive narration.
 - **Flora & garden vocabulary:** Trees and plants in avaya's compound — mara (tree), maange mara (mango), butterfruit mara (avocado), parangi chekke (pineapple), baaLe pann (banana), naaraLe pann (jamun) — plus garden vocabulary (thota, gida, pann, tharkari, chett, iLaayath kaNde, noo kolu).
 - **Household chores vocabulary:** Verbs for cleaning and domestic tasks — oDk'k (sweep), thuut'k (mop/wipe), katth'k (wash — general), wolipp'k (launder clothes), introducing the distinction between katth'k vs. wolipp'k.
 - **Minimal-pair vocabulary warning:** katthe (donkey) vs. kathe (story) — the instructor explicitly highlights the importance of syllable stress and geminate consonants in Kodava Takk.

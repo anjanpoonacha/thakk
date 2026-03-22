@@ -368,15 +368,6 @@ videos:
   audio_file: data/thakk/source/audio/mp3/kodava_part1.mp3
   has_transcription: true
   has_vocab_table: true
-- name: kodava_part1
-  category: other
-  title: Learn Kodava Language Completely — Part 1
-  url: null
-  series: learn_kodava_completely
-  episode: 1
-  audio_file: null
-  has_transcription: true
-  has_vocab_table: true
 - name: learn_kodava_part10
   category: other
   title: Learn Kodava Language Completely — Part 10 (Days, Time, Numbers)
@@ -384,5 +375,41 @@ videos:
   series: learn_kodava_completely
   episode: 10
   audio_file: data/thakk/source/audio/mp3/days_of_week.mp3
+  has_transcription: true
+  has_vocab_table: true
+- name: puthari
+  category: other
+  title: Puthari — Kodava Takk Cultural Video
+  url: https://youtu.be/42sl3m-QdHs
+  series: null
+  episode: null
+  audio_file: data/thakk/source/audio/mp3/puthari.mp3
+  has_transcription: true
+  has_vocab_table: true
+- name: kailpoudh
+  category: other
+  title: Kailpoudh — Kodava Takk Cultural Video
+  url: https://www.youtube.com/watch?v=PfcH3hNupow
+  series: null
+  episode: null
+  audio_file: data/thakk/source/audio/mp3/kailpoudh.mp3
+  has_transcription: true
+  has_vocab_table: true
+- name: kakkada_18
+  category: other
+  title: Kakkada 18 — Kodava Takk
+  url: https://youtu.be/saYVku6IU3A
+  series: null
+  episode: null
+  audio_file: data/thakk/source/audio/mp3/kakkada_18.mp3
+  has_transcription: true
+  has_vocab_table: true
+- name: edamyar_ondhe
+  category: other
+  title: Edamyar Ondhe — Kodava New Year
+  url: https://youtu.be/0YpMD-vYbwY
+  series: null
+  episode: null
+  audio_file: data/thakk/source/audio/mp3/edamyar_ondhe.mp3
   has_transcription: true
   has_vocab_table: true

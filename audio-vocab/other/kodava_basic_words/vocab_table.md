@@ -128,7 +128,8 @@
 | Kids | Makka | ಮಕ್ಕ |  |
 | Knife | Chaaku | ಚಾಕು |  |
 | Language | Thakku | ತಕ್ಕು |  |
-| Laugh | ThaLi | ತಳಿ |  |
+| to laugh | toLip | ತೊಳಿಪ್ | Verb: to laugh. Note ಳ (retroflex L), not ಲ. |
+| to peel | tolip | ತೊಲಿಪ್ | Verb: to peel. Note ಲ (lateral l), not ಳ. |
 | Leaves | Thoppu | ತೊಪ್ಪು |  |
 | Left | Edatha | ಎಡತ |  |
 | Leg | Kaalu | ಕಾಲು |  |

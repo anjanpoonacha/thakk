@@ -1,13 +1,14 @@
 # Quiz 25 — Kodava Vocabulary
 
-> **Source:** Kodava Padipu — Kodava Quiz (Muundanda choodh — "three options" format)
-> **Format:** Each question has exactly three correct answers
+> **Source:** https://www.youtube.com/watch?v=8x4Sxqi-4UU
+> **Quiz by:** Pattamada Preeth Chinnappa | **Voice:** Mangerira Spoorthi Ponnanna
+> **Format:** Each question has exactly three answer options (moond tarattra — "three kinds")
 
 | English | Kodava Takk | Explanation |
 |---------|-------------|-------------|
 | Three types of Kodava weddings for a girl | Kanni mangala, kemi kutti mangala, kuttika nippadh | mangala = wedding; three traditional forms |
-| Three parts of the Kaira (traditional ornament) | Bebbatt, woyi, bera | Three components of the Kaira, a traditional Kodava ornament |
-| Three estates (okkas) near Talakaveri | Mandira, Manottira, Pattamada | Prominent okkas (family clans/estates) near Talakaveri |
+| Three parts of the Kaira (traditional ornament) | Pebbattu, uyi, bera | Three components of the Kaira, a traditional Kodava ornament |
+| Three estates (okkas) near Talakaveri | Mandira, Manavattira, Pattamada | Prominent okkas (family clans/estates) near Talakaveri |
 | Three symbols on the Puttari flag | Pakshi, paambu, kallaala deva | pakshi = bird; paambu = snake; kallaala deva = local deity |
 | Three foods served at Puttari festival | Puttari kaLanji, tambutt, akki payisa | Traditional dishes of the Puttari harvest festival; akki = rice |
 | Three dialect types in Kodagu | Naadu takk, desha takk, ooru takk | takk = language/speech; regional dialect divisions |

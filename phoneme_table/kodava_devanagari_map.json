@@ -22,6 +22,8 @@
       { "kodava": "oa",  "devanagari": "ओ",  "kannada": "ಓ",  "hint": "like 'o' in ownership, loan — hold longer",  "confidence": "⚠️", "type": "vowel_long", "note": "single long-O character ಓ — must never be split into two characters" },
       { "kodava": "u",   "devanagari": "उ",  "hint": "like 'oo' in good, put, could",              "confidence": "✅", "type": "vowel_short" },
       { "kodava": "uu",  "devanagari": "ऊ",  "hint": "like 'oo' in oops, pool, crouton",           "confidence": "✅", "type": "vowel_long" },
+      { "kodava": "ai",  "devanagari": "ऐ",  "kannada": "ಐ",  "hint": "like 'i' in kite, my, sky",         "confidence": "✅", "type": "vowel_diphthong", "note": "diphthong; matra form ೈ — e.g. baip'w → ಬೈಪ್ವ, ainga → ಐಂಗ" },
+      { "kodava": "au",  "devanagari": "औ",  "kannada": "ಔ",  "hint": "like 'ou' in out, cow, how",        "confidence": "⚠️", "type": "vowel_diphthong", "note": "rare in Kodava; matra form ೌ" },
       { "kodava": "ãã",  "devanagari": "आं", "hint": "nasalized aa — like Portuguese coração",     "confidence": "⚠️", "type": "vowel_nasal", "note": "Devanagari anusvara is approximate" },
       { "kodava": "ĩĩ",  "devanagari": "ईं", "hint": "nasalized ii — say 'keen to' very fast",     "confidence": "⚠️", "type": "vowel_nasal", "note": "Devanagari anusvara is approximate" }
     ],

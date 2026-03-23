@@ -137,7 +137,7 @@
 | younger brothers | thammaNangaLu | ತಮ್ಮಣಂಗಲು | |
 | paternal grandmother | boajavva | ಬೋಜವ್ವ | Father's mother. |
 | paternal grandfather | boajappa | ಬೋಜಪ್ಪ | Father's father. |
-| with / along with | kooDe | ಕೂಡ | |
+| with / along with | kooDe | ಕೂಡೆ | |
 | in the morning | polak'naarthe | ಪೊಲಕ್‌ನಾರ್ತೆ | |
 | having gotten up | eddhith | ಎದ್ದಿತ್ | |
 | clothes | baTTe | ಬಟ್ಟೆ | |

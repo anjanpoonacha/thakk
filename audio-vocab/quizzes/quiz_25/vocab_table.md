@@ -56,7 +56,7 @@
 | Jewelry / ornament | paaje | ಪಾಜೆ | Jewelry or ornaments; used collectively for Kodava adornments. |
 | Gold | ponnê | ಪೊನ್ನು | Gold; a precious metal used in Kodava jewelry. |
 | Silver | boLLi | ಬೊಳ್ಳಿ | Silver; a precious metal used in Kodava jewelry. |
-| Brass | pichchoaLe | ಪಿಚ್ಚೋಳ | Brass; a metal used in Kodava jewelry and utensils. |
+| Brass | pichchoaLe | ಪಿಚ್ಚೋಳೆ | Brass; a metal used in Kodava jewelry and utensils. |
 | Old / ancient | paLeya | ಪಳಿಯ | Adjective meaning old or ancient. |
 | Name | peda | ಪೆದ | A name or title. |
 | An old name for Kodagu | Kodavu | ಕೊಡವು | A historical name for the region of Kodagu. |

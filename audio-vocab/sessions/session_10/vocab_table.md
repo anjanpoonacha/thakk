@@ -186,7 +186,7 @@
 | all evening | bayt'di | ಬೈಟ್'ಡಿ | Throughout the evening. |
 | was sleeping | wariyend injath | ವರಿಯೆಂಡ್ ಇಂಜತ್ | Past continuous tense: 'sleeping' + 'was'. |
 | her | avada | ಅವಡ | Possessive pronoun, third-person feminine singular. |
-| with her cat | puunyara koode | ಪೂಞರ ಕೂಡ | 'cat' + 'with'. |
+| with her cat | puunyara koode | ಪೂಞರ ಕೂಡೆ | 'cat' + 'with'. |
 | than | inji | ಇಂಜಿ | A postposition used for comparison. |
 | bigger | balyad | ಬಲ್ಯದ್ | Comparative form of 'big'. |
 | smaller | cheriyad | ಚೆರಿಯದ್ | Comparative form of 'small'. |

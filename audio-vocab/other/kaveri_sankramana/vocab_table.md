@@ -35,7 +35,7 @@
 | is | undu | ಉಂಡು | The verb 'to be'. |
 | that | endu | ಎಂಡು | Conjunction 'that'. |
 | we have heard | keatu bandhithu | ಕೇಟು ಬಂದಿತು | Literally 'having heard, it has come'. |
-| With me | NaaDa kooDe | ನಾಡ ಕೂಡ | `NaaDa` (my) + `kooDe` (with). |
+| With me | NaaDa kooDe | ನಾಡ ಕೂಡೆ | `NaaDa` (my) + `kooDe` (with). |
 | today | indh | ಇಂದ್ | Adverb of time 'today'. |
 | Monnanda Nithin | MoNNanda Nithin | ಮೊಣ್ಣಂಡ ನಿತಿನ್ | A person's full name. |
 | is | undu | ಉಂಡು | The verb 'to be'. |

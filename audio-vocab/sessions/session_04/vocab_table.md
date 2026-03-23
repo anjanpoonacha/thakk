@@ -79,7 +79,7 @@
 | Woman | manshathi | ಮನ್ಶತಿ | Another noun for a woman. |
 | Grandmother | Avvaya | ಅವ್ವಯ | Maternal or paternal grandmother. |
 | Grandfather | Thaatha | ತಾತ | Maternal or paternal grandfather. |
-| Child | Kunyi | ಕುಞಿ | Noun for a young child or baby. |
+| Child | kunji | ಕುಞ್ಞಿ | Noun for a young child or baby. |
 | Mother | Avva | ಅವ್ವ | Noun for mother. |
 | Father | Appa | ಅಪ್ಪ | Noun for father. |
 | Younger sister | Thange | ತಂಗೆ | Kinship term. |

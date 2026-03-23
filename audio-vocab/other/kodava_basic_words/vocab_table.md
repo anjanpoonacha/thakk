@@ -23,7 +23,7 @@
 | Apple | Sebu | ಸೇಬು |  |
 | Area | Jaaga | ಜಾಗ |  |
 | Ask | KeaLu | ಕೇಳು |  |
-| Baby | Kunji | ಕುಂಞಿ | ಮಗು |
+| Baby | Kunji | ಕುಞ್ಞಿ | ಮಗು |
 | Back | Bayya | ಬೈಯ್ಯ | ಬೆನ್ನು |
 | Bad | Kattadhu | ಕಟ್ಟದು | ಕೆಟ್ಟದ್ದು |
 | Banana | BaaLe | ಬಾಳೆ |  |

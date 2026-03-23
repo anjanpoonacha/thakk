@@ -189,8 +189,8 @@ English: For that, the weapons and arms that we have are taken out and worshippe
 English: We celebrate this festival by expressing gratitude to the fields, granaries, and tools in the house. Next, we worship and thank the cattle that were used in the paddy cultivation. Finally, we take out the weapons and worship them as means of getting ready to protect the crops from wild animals.
 
 [03:55]
-Kannada: ನಿತನ್, ಈ ನಮ್ಮೆನ ನಂಗ ಎನ್ನನೆಕ್ ಕೈಪ? How is this festival celebrated?
-English: Nithan, ii nammena nanga ennanek kaipa? How is this festival celebrated?
+Kannada: ನಿತನ್, ಈ ನಮ್ಮೆನ ನಂಗ ಎನ್ನನೆ ಕೈಪ? How is this festival celebrated?
+English: Nithan, ii nammena nanga ennane kaipa? How is this festival celebrated?
 ---
 Kannada: ನಿತನ್, ಈ ಹಬ್ಬವನ್ನು ನಾವು ಹೇಗೆ ಆಚರಿಸುತ್ತೇವೆ? How is this festival celebrated?
 English: Nithan, how do we celebrate this festival? How is this festival celebrated?

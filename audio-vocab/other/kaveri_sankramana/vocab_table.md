@@ -50,7 +50,7 @@
 | what | enth | ಎಂತ್ | Interrogative pronoun 'what'. |
 | this festival | Ii nammena | ಈ ನಮ್ಮೆನ | `Ii` (this) + `nammena` (the festival). |
 | we | nanga | ನಂಗ | First-person plural pronoun. |
-| how | ennange | ಎನ್ನಂಗೆ | Interrogative adverb 'how'. |
+| why | ennange | ಎನ್ನಂಗೆ | Interrogative adverb 'why'. |
 | celebrate | kaipu | ಕೈಪು | Verb 'to celebrate' or 'to observe'. |
 | about this festival | Ii nammera bagge | ಈ ನಮ್ಮೆರ ಬಗ್ಗೆ | 'About this festival'. |
 | if we are to know | noaNadaachinge | ನೋಣಡಾಚಿಂಗೆ | A conditional phrase, 'if one looks/sees'. |

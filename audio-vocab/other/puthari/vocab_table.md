@@ -32,7 +32,7 @@
 | what | enthu | ಎಂತ್ | The interrogative pronoun 'what'. |
 | when | yakka | ಯಕ್ಕ | The interrogative pronoun 'when'. |
 | and | pinya | ಪಿಞ | And, also. |
-| how | ennange | ಎನ್ನಂಗೆ | How, in what manner. |
+| why | ennange | ಎನ್ನಂಗೆ | Interrogative adverb meaning 'why'. |
 | Before | minja | ಮಿಞ | Before, prior to. |
 | a couple | dandu | ದಂಡ್ | Two, a couple. |
 | to say | enno'k | ಎಣ್ಣೋಕ್ | To say or to tell. |

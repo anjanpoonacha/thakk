@@ -49,8 +49,8 @@ English: Happy Changrandhi festival wishes to everyone. Thank you, Pramod.
 
 [00:39]
 Q1:
-Kannada: ಆ, ನಿತಿನ್, ಕಾವೇರಿ ಚಂಗ್ರಾಂದಿ ಅಥವಾ ಕಾವೇರಿ ಸಂಕ್ರಮಣ'ತ್ರ ವಿಶೇಷತೆ ಎಂತ್? ಈ ನಮ್ಮೆನ ನಂಗೆ ಎನ್ನಂಗೆ ಕೈಪು?
-English: Aa, Nithin, Kaaveri Changraandhi athava Kaaveri SankramaNa'thra visheashathe enth? Ii nammena nanga ennange kaipu?
+Kannada: ಆ, ನಿತಿನ್, ಕಾವೇರಿ ಚಂಗ್ರಾಂದಿ ಅಥವಾ ಕಾವೇರಿ ಸಂಕ್ರಮಣ'ತ್ರ ವಿಶೇಷತೆ ಎಂತ್? ಈ ನಮ್ಮೆನ ನಂಗೆ ಎನ್ನನೆ ಕೈಪು?
+English: Aa, Nithin, Kaaveri Changraandhi athava Kaaveri SankramaNa'thra visheashathe enth? Ii nammena nanga ennane kaipu?
 ---
 Kannada: ಆ, ನಿತಿನ್, ಕಾವೇರಿ ಚಂಗ್ರಾಂದಿ ಅಥವಾ ಕಾವೇರಿ ಸಂಕ್ರಮಣದ ವಿಶೇಷತೆ ಏನು? ಈ ಹಬ್ಬವನ್ನು ನಾವು ಹೇಗೆ ಆಚರಿಸುತ್ತೇವೆ?
 English: Ah, Nithin, what is the specialty of Kaveri Changrandhi or Kaveri Sankramana? How do we celebrate this festival?

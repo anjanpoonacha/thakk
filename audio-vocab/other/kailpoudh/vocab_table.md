@@ -217,7 +217,7 @@
 | all the weapons | aayudhathanella | ಆಯುಧತನೆಲ್ಲ | All of the arms and weapons. |
 | (they) do worship | pooje maaduva | ಪೂಜೆ ಮಾಡುವ | To perform a 'pooja' or worship. |
 | that which is done | maaduvanth | ಮಾಡುವಂತ | Something that is performed or done. |
-| how | ennanek | ಎನ್ನನೆಕ್ | In what manner; how. |
+| how | ennane | ಎನ್ನನೆ | In what manner; how. |
 | in the family/clan | okkath'l | ಒಕ್ಕತ್ಲ್ | Within the 'okka' or family unit. |
 | everyone | ellaru | ಎಲ್ಲಾರು | All people. |
 | their | aingada | ಐಂಗಡ | Possessive plural 'their'. |

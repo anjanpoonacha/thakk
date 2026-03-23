@@ -57,8 +57,8 @@
 | hen | `koali` | `ಕೋಳಿ` | The word for hen. |
 | duck | `baath koali` | `ಬಾತ್ ಕೋಳಿ` | The word for duck, literally 'bath hen'. |
 | Duck | `Baath koali` | `ಬಾತುಕೋಳಿ` | The word for duck. |
-| Cat | `puunya` | `ಪೂಞ` | The word for cat. |
-| cat | `puunya` | `ಪೂಞ` | The word for cat. |
+| Cat | `puunynye` | `ಪೂಞ್ಞೆ` | The word for cat. |
+| cat | `puunynye` | `ಪೂಞ್ಞೆ` | The word for cat. |
 | Cow | `Payyu` | `ಪಯ್ಯು` | The word for cow. |
 | Horse | `Kudure` | `ಕುದುರೆ` | The word for horse. |
 | Sheep | `Kori` | `ಕೊರಿ` | The word for sheep. |
@@ -68,7 +68,7 @@
 | Goat | `Aadu` | `ಆಡ್` | The word for goat. |
 | Dog | `Naayi` | `ನಾಯಿ` | The word for dog. |
 | Duck | `Baath koali` | `ಬಾತ್ ಕೋಳಿ` | The word for duck. |
-| cat | `puunya` | `ಪೂಞ` | The word for cat. |
+| cat | `puunynye` | `ಪೂಞ್ಞೆ` | The word for cat. |
 | One | `Ondu` | `ಒಂದು` | The number one. |
 | cow | `payyu` | `ಪಯ್ಯು` | The word for cow. |
 | Two | `dhandu` | `ದಂಡು` | The number two. |
@@ -88,7 +88,7 @@
 | Nine | `Oimbadu` | `ಒಯಿಂಬದು` | The number nine. |
 | ducks | `baath koali` | `ಬಾತ್ ಕೋಳಿ` | The word for duck. |
 | Ten | `Pattu` | `ಪತ್ತು` | The number ten. |
-| cats | `puunya` | `ಪೂಞ` | The word for cat. |
+| cats | `puunynye` | `ಪೂಞ್ಞೆ` | The word for cat. |
 | day | `dhina` | `ದಿನ` | The word for day. |
 | week | `vaara` | `ವಾರ` | The word for week. |
 | Days of the week | `Vaara'thra dhina` | `ವಾರ'ತ್ರ ದಿನ` | Literally 'week's days'. |

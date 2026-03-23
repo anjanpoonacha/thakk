@@ -43,7 +43,9 @@
       { "kodava": "h",  "devanagari": "ह",  "hint": "like 'h' in house, Ohio",                    "confidence": "✅", "type": "consonant" },
       { "kodava": "r",  "devanagari": "र",  "hint": "like American 'water', Spanish toro — flapped r", "confidence": "✅", "type": "consonant" },
       { "kodava": "y",  "devanagari": "य",  "hint": "like 'y' in mayo",                           "confidence": "✅", "type": "consonant" },
-      { "kodava": "w",  "devanagari": "व",  "hint": "like 'w' in water",                          "confidence": "✅", "type": "consonant" }
+      { "kodava": "w",  "devanagari": "व",  "hint": "like 'w' in water",                          "confidence": "✅", "type": "consonant" },
+      { "kodava": "ny", "devanagari": "ञ",  "kannada": "ಞ",  "hint": "palatal nasal — the 'ny' in 'canyon', 'mañana'", "confidence": "✅", "type": "consonant_palatal_nasal", "note": "digraph — like ch/th/dh; when geminate use 'nyny'. Examples: puunynye (cat ಪೂಞ್ಞೆ), kunji (baby ಕುಂಞಿ), minja (front ಮಿಂಞ), pinja (and ಪಿಂಞ), njandu (crab ಞಂಡು); NEVER write as ನ+ಯ" },
+      { "kodava": "ri", "devanagari": "ऋ",  "kannada": "ಋ",  "hint": "vocalic r — like 'ri' in Sanskrit/Kannada loanwords", "confidence": "⚠️", "type": "vowel_vocalic_r", "note": "rare in native Kodava; appears in Sanskrit-origin words like krutagnate (gratitude ಕೃತಜ್ಞತೆ); matra form ೃ" }
     ],
     "retroflex_consonants": [
       { "kodava": "ṭ",  "devanagari": "ट",  "hint": "retroflex t — curl tongue back, underside touches roof", "confidence": "✅", "type": "retroflex" },
@@ -61,7 +63,8 @@
       { "kodava": "nn",   "devanagari": "न्न", "hint": "double n — hold twice as long",           "confidence": "✅", "type": "geminate" },
       { "kodava": "mm",   "devanagari": "म्म", "hint": "double m — hold twice as long",           "confidence": "✅", "type": "geminate" },
       { "kodava": "ll",   "devanagari": "ल्ल", "hint": "double l — hold twice as long, like 'wall lighting'", "confidence": "✅", "type": "geminate" },
-      { "kodava": "LL",   "devanagari": "ळ्ळ", "hint": "double retroflex L — hold twice as long", "confidence": "✅", "type": "geminate" }
+      { "kodava": "LL",   "devanagari": "ळ्ळ", "hint": "double retroflex L — hold twice as long", "confidence": "✅", "type": "geminate" },
+      { "kodava": "nyny", "devanagari": "ञ्ञ", "kannada": "ಞ್ಞ", "hint": "double palatal nasal — puunynye (cat)", "confidence": "✅", "type": "geminate", "note": "romanised as 'nyny', not 'nn'; e.g. puunynye → ಪೂಞ್ಞೆ" }
     ]
   },
   "suffix_rules": [

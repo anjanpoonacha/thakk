@@ -47,7 +47,7 @@
 | Button | Kondi | ಕೊಂಡಿ | ಗುಂಡಿ |
 | Cap | MuchaLa | ಮುಚ್ಚಳ |  |
 | Careful | Echara | ಎಚ್ಚರ |  |
-| Cat | Poonje | ಪೂಂಞೆ | ಬೆಕ್ಕು |
+| Cat | Puunynye | ಪೂಞ್ಞೆ | ಬೆಕ್ಕು |
 | Catch | Pudi | ಪುಡಿ | ಹಿಡಿ |
 | Chilli | MaLu | ಮಳು | ಮೆಣಸು |
 | Close | Muchu | ಮುಚ್ಚು |  |

@@ -51,7 +51,7 @@
 | ninety-one | thombathond | ತೊಂಬತ್ತೊಂದು | The number ninety-one. |
 | oranges | puLi | ಪುಳಿ | The name for the orange fruit. |
 | forty | naapad | ನಾಪದ್ | The number forty. |
-| cats | puunya | ಪೂಞ | Plural of 'cat'. |
+| cats | puunynye | ಪೂಞ್ಞೆ | Plural of 'cat'. |
 | fifty-two | aymbad-dand | ಐಂಬದ್ದಂಡ್ | The number fifty-two. |
 | ninety-two | thombad-dand | ತೊಂಬದ್ದಂಡ್ | The number ninety-two. |
 | fifty | aymbad | ಐಂಬದ್ | The number fifty. |
@@ -186,7 +186,7 @@
 | all evening | bayt'di | ಬೈಟ್'ಡಿ | Throughout the evening. |
 | was sleeping | wariyend injath | ವರಿಯೆಂಡ್ ಇಂಜತ್ | Past continuous tense: 'sleeping' + 'was'. |
 | her | avada | ಅವಡ | Possessive pronoun, third-person feminine singular. |
-| with her cat | puunyara koode | ಪೂಞರ ಕೂಡೆ | 'cat' + 'with'. |
+| with her cat | puunynye'ra koode | ಪೂಞ್ಞೆರ ಕೂಡೆ | 'cat' + genitive + 'with'. |
 | than | inji | ಇಂಜಿ | A postposition used for comparison. |
 | bigger | balyad | ಬಲ್ಯದ್ | Comparative form of 'big'. |
 | smaller | cheriyad | ಚೆರಿಯದ್ | Comparative form of 'small'. |

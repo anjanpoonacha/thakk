@@ -150,8 +150,8 @@
 | I am singing | Naanu paadiyond'uLLo | ನಾನು ಪಾಡಿಯಂಡುಳ್ಳೊ | Present continuous, 1st person singular. |
 | She is dancing | Ava aadiyond'uNDu | ಅವ ಆಡಿಯಂಡುಂಡು | Present continuous, 3rd person singular feminine. |
 | He is pushing a car | Avo oru kaat'na nuukkiyond'uNDu | ಅವೊ ಒರು ಕಾಟ್ನ ನೂಕ್ಕಿಯಂಡುಂಡು | Present continuous, 3rd person singular masculine. |
-| Cat | puunje | ಪೂಂಜೆ | Noun for 'cat'. |
-| This cat is scratching | Ee puunje maandiyond'uNDu | ಈ ಪೂಂಜೆ ಮಾಂದ್ಯಂಡುಂಡು | Present continuous example. |
+| Cat | puunynye | ಪೂಞ್ಞೆ | Noun for 'cat'. |
+| This cat is scratching | Ee puunynye maandiyond'uNDu | ಈ ಪೂಞ್ಞೆ ಮಾಂದ್ಯಂಡುಂಡು | Present continuous example. |
 | Deer | miga | ಮಿಗ | Noun for 'deer'. |
 | This deer is jumping | Ee miga paariyond'uNDu | ಈ ಮಿಗ ಪಾರಿಯಂಡುಂಡು | Present continuous example. |
 | He is biting | Avo kadichond'uNDu | ಅವೊ ಕಡಿಚಂಡುಂಡು | Present continuous, 3rd person singular masculine. |
@@ -170,7 +170,7 @@
 | Will you bathe? | Niinu kuLippiya? | ನೀನು ಕುಳಿಪ್ಪಿಯ? | Simple future tense, 2nd person singular question. |
 | We will push | Nanga nuukkuva | ನಂಗ ನೂಕ್ಕುವ | Simple future tense, 1st person plural. |
 | I will pull | Naanu balippi | ನಾನು ಬಲಿಪ್ಪಿ | Simple future tense, 1st person singular. |
-| This cat will scratch the neck | Ee puunje boaLe maandhva | ಈ ಪೂಂಜೆ ಬೋಳೆ ಮಾಂದ್ವ | Simple future tense example. |
+| This cat will scratch the neck | Ee puunynye boaLe maandhva | ಈ ಪೂಞ್ಞೆ ಬೋಳೆ ಮಾಂದ್ವ | Simple future tense example. |
 | This deer will jump | Ee miga paaruva | ಈ ಮಿಗ ಪಾರುವ | Simple future tense example. |
 
 ## Topics Covered

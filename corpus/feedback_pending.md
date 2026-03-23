@@ -6,3 +6,4 @@ Merge this PR to promote these entries to the live corpus.
 | ID | Action | Query | Answer | Correction | Submitted |
 |---|---|---|---|---|---|
 | `fb_1774195967` | corrected [kannada] | Good Morning | ## Verdict **pollakathra nallame** is not confirmed as "good morning" in the cor | ಪೋಲಕತ್ರ ನಲ್ಲಮೆ | 2026-03-22 16:12 UTC |
+| `0dbd055a` | corrected [kodava] | did you have dinner? | The corpus confirms **dinner umba** (to eat dinner) and the 2nd person past ques | dinner undiyaa | 2026-03-23 05:00 UTC |

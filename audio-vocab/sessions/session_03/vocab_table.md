@@ -76,8 +76,8 @@
 | Oil | Enne | ಎಣ್ಣೆ | General word for any type of oil. |
 | Oil | enne | ಎಣ್ಣೆ | General word for any type of oil. |
 | Oil | Enne | ಎಣ್ಣೆ | General word for any type of oil. |
-| Coconut | Thenge | ತೆಂಗ | The word for coconut. |
-| Coconut | thenge | ತೆಂಗ | The word for coconut. |
+| Coconut | Thenge | ತೆಂಗೆ | The word for coconut. |
+| Coconut | thenge | ತೆಂಗೆ | The word for coconut. |
 | Uncooked rice | Akki | ಅಕ್ಕಿ | Specific word for raw, uncooked rice. |
 | Uncooked rice | Akki | ಅಕ್ಕಿ | Specific word for raw, uncooked rice. |
 | Uncooked rice | Akki | ಅಕ್ಕಿ | Specific word for raw, uncooked rice. |

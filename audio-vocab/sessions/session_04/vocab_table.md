@@ -132,7 +132,7 @@
 | All of these things | Idhella | ಇದೆಲ್ಲಾ | Plural demonstrative pronoun (proximal). |
 | In the room | kaamre'l | ಕಾಮ್ರೆಲ್ | Locative case of 'kaamre' (room). |
 | My hen | Naada koaLi | ನಾಡ ಕೋಳಿ | Possessive form: 'my hen'. |
-| Our house | nangada mane | ನಂಗಡ ಮನ | Possessive form: 'our house'. |
+| Our house | nangada mane | ನಂಗಡ ಮನೆ | Possessive form: 'our house'. |
 | Your sister | needa akkaya | ನೀಡ ಅಕ್ಕಯ | Possessive form: 'your (sg.) sister'. |
 | Your mango | ningada maange | ನಿಂಗಡ ಮಾಂಗೆ | Possessive form: 'your (pl.) mango'. |
 | Her little sister | ivada thange | ಇವಡ ತಂಗೆ | Possessive form: 'her younger sister'. |

@@ -38,8 +38,8 @@
 | nine | `Oimbadu` | `ಒಯಿಂಬದು` | The number nine. |
 | ten | `pattu` | `ಪತ್ತು` | The number ten. |
 | cow | `payyu` | `ಪಯ್ಯು` | The word for cow. |
-| Horse | `kudura` | `ಕುದುರ` | The word for horse. |
-| Horse | `Kudura` | `ಕುದುರ` | The word for horse. |
+| Horse | `kudure` | `ಕುದುರೆ` | The word for horse. |
+| Horse | `Kudure` | `ಕುದುರೆ` | The word for horse. |
 | sheep | `Kori` | `ಕೊರಿ` | The word for sheep. |
 | sheep | `kori` | `ಕೊರಿ` | The word for sheep. |
 | Sheep meat | `Kori erchi` | `ಕೊರಿ ಎರ್ಚಿ` | Compound of 'kori' (sheep) and 'erchi' (meat). |
@@ -48,8 +48,8 @@
 | hen | `Koali` | `ಕೋಳಿ` | The word for hen, linked to its 'kok-ko' sound. |
 | rabbit | `mola` | `ಮೊಲ` | The word for rabbit. |
 | Rabbit | `Mola` | `ಮೊಲ` | The word for rabbit. |
-| donkey | `kattha` | `ಕತ್ತ` | The word for donkey. Note the dental 'th' sound. |
-| Donkey | `Kattha` | `ಕತ್ತೆ` | The word for donkey. |
+| donkey | `katthe` | `ಕತ್ತೆ` | The word for donkey. Note the dental 'th' sound. |
+| Donkey | `Katthe` | `ಕತ್ತೆ` | The word for donkey. |
 | Goat | `Aadu` | `ಆಡ್` | The word for goat, linked to its 'aaah' sound. |
 | goat | `Aadu` | `ಆಡ್` | The word for goat. |
 | goat | `Aadu` | `ಆಡ್` | The word for goat. |
@@ -60,11 +60,11 @@
 | Cat | `puunya` | `ಪೂಞ` | The word for cat. |
 | cat | `puunya` | `ಪೂಞ` | The word for cat. |
 | Cow | `Payyu` | `ಪಯ್ಯು` | The word for cow. |
-| Horse | `Kudura` | `ಕುದುರ` | The word for horse. |
+| Horse | `Kudure` | `ಕುದುರೆ` | The word for horse. |
 | Sheep | `Kori` | `ಕೊರಿ` | The word for sheep. |
 | Hen | `Koali` | `ಕೋಳಿ` | The word for hen. |
 | Rabbit | `Mola` | `ಮೊಲ` | The word for rabbit. |
-| Donkey | `Kattha` | `ಕತ್ತ` | The word for donkey. |
+| Donkey | `Katthe` | `ಕತ್ತೆ` | The word for donkey. |
 | Goat | `Aadu` | `ಆಡ್` | The word for goat. |
 | Dog | `Naayi` | `ನಾಯಿ` | The word for dog. |
 | Duck | `Baath koali` | `ಬಾತ್ ಕೋಳಿ` | The word for duck. |
@@ -72,7 +72,7 @@
 | One | `Ondu` | `ಒಂದು` | The number one. |
 | cow | `payyu` | `ಪಯ್ಯು` | The word for cow. |
 | Two | `dhandu` | `ದಂಡು` | The number two. |
-| horses | `kudura` | `ಕುದುರ` | The word for horse. |
+| horses | `kudure` | `ಕುದುರೆ` | The word for horse. |
 | Three | `muund` | `ಮೂಂದ್` | The number three. |
 | sheep | `kori` | `ಕೊರಿ` | The word for sheep. |
 | Four | `naalu` | `ನಾಲ್` | The number four. |
@@ -80,7 +80,7 @@
 | Five | `Anji` | `ಅಂಜಿ` | The number five. |
 | rabbits | `mola` | `ಮೊಲ` | The word for rabbit. |
 | Six | `Aaru` | `ಆರು` | The number six. |
-| donkeys | `kattha` | `ಕತ್ತ` | The word for donkey. |
+| donkeys | `katthe` | `ಕತ್ತೆ` | The word for donkey. |
 | Seven | `EaLu` | `ಏಳ್` | The number seven. |
 | goats | `aadu` | `ಆಡ್` | The word for goat. |
 | Eight | `Ettu` | `ಎಟ್ಟು` | The number eight. |
@@ -100,7 +100,7 @@
 | Tuesday | `chavvaacha` | `ಚವ್ವಾಚ` | The word for Tuesday. |
 | Wednesday | `padhinaacha` | `ಪದಿನಾಚ` | The word for Wednesday. Also a market day in Virajpet. |
 | Wednesday | `padhinaacha` | `ಪದಿನಾಚ` | The word for Wednesday. |
-| shandy (market) | `chattha` | `ಚತ್ತ` | The word for a weekly market or 'shandy'. |
+| shandy (market) | `chatthe` | `ಚತ್ತೆ` | The word for a weekly market or 'shandy'. |
 | Thursday | `baaLaacha` | `ಬಾಳಾಚ` | The word for Thursday. |
 | Friday | `BoLLiyaacha` | `ಬೊಳ್ಳಿಯಾಚ` | The word for Friday. |
 | Friday | `boLLiyaacha` | `ಬೊಳ್ಳಿಯಾಚ` | The word for Friday. Also a market day in Madikeri. |

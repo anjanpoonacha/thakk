@@ -60,8 +60,9 @@
       { "kodava": "jj",   "devanagari": "ज्ज", "hint": "double j — hold twice as long",           "confidence": "✅", "type": "geminate" },
       { "kodava": "thth", "devanagari": "त्त", "hint": "double dental t — hold twice as long",    "confidence": "✅", "type": "geminate" },
       { "kodava": "dhdh", "devanagari": "द्द", "hint": "double dental d — hold twice as long",    "confidence": "✅", "type": "geminate" },
-      { "kodava": "nn",   "devanagari": "न्न", "hint": "double n — hold twice as long",           "confidence": "✅", "type": "geminate" },
-      { "kodava": "mm",   "devanagari": "म्म", "hint": "double m — hold twice as long",           "confidence": "✅", "type": "geminate" },
+      { "kodava": "nn",   "devanagari": "न्न", "kannada": "ನ್ನ", "hint": "double dental n — hold twice as long", "confidence": "✅", "type": "geminate", "note": "dental n geminate — distinct from NN (retroflex)" },
+      { "kodava": "NN",   "devanagari": "ण्ण", "kannada": "ಣ್ಣ", "hint": "double retroflex N — hold twice as long", "confidence": "✅", "type": "geminate", "note": "retroflex N geminate: enne→ಎಣ್ಣೆ (oil), kaNNu→ಕಣ್ಣು (eye), poNNa→ಪೊಣ್ಣ (girl). NEVER write as nn→ನ್ನ" },
+      { "kodava": "mm",   "devanagari": "म्म", "kannada": "ಮ್ಮ", "hint": "double m — hold twice as long",           "confidence": "✅", "type": "geminate" },
       { "kodava": "ll",   "devanagari": "ल्ल", "hint": "double l — hold twice as long, like 'wall lighting'", "confidence": "✅", "type": "geminate" },
       { "kodava": "LL",   "devanagari": "ळ्ळ", "hint": "double retroflex L — hold twice as long", "confidence": "✅", "type": "geminate" },
       { "kodava": "nyny", "devanagari": "ञ्ञ", "kannada": "ಞ್ಞ", "hint": "double palatal nasal — puunynye (cat)", "confidence": "✅", "type": "geminate", "note": "romanised as 'nyny', not 'nn'; e.g. puunynye → ಪೂಞ್ಞೆ" }

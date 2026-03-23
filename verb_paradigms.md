@@ -221,7 +221,7 @@ The past tense forms of poap'k (to go). Person-distinct irregular forms.
 
 | Person | Kodava | Kannada | Notes |
 |--------|--------|---------|-------|
-| naan (I) | poanê | ಪೋಅನ್ | ✅ verified |
+| naan (I) | poanê | ಪೋನೆ | ✅ verified (ends with ê, pronounced as [eː] or [ɛ]) |
 | niin (you sg.) | poaya | ಪೋಯ | 🟡 |
 | āāwu (he/she/it) | poa'chi | ಪೋಚಿ | 🟡 |
 | nanga (we) | poa'chi | ಪೋಚಿ | 🟡 |

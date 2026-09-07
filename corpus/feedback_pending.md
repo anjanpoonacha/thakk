@@ -9,3 +9,4 @@ Merge this PR to promote these entries to the live corpus.
 | `0dbd055a` | corrected [kodava] | did you have dinner? | The corpus confirms **dinner umba** (to eat dinner) and the 2nd person past ques | dinner undiyaa | 2026-03-23 05:00 UTC |
 | `f9a265e6` | corrected [kodava] | I will go to office tomorrow | **NaaLe naa office'k popii** नाळे ना ऑफीस्क् पोपी \| Kodava \| Devanagari \| Glo | NaaLe naan office'k popii | 2026-03-23 05:06 UTC |
 | `1a29ec05` | corrected [kodava] | Wadiye Meaning Kodava | **wadiye** is not in the corpus yet. | Wadiye meaning is Husband | 2026-04-30 12:21 UTC |
+| `fb_1788763184` | approved | Okkache - Meaning in English? | **okkache** = *together as a family* ಒಕ್ಕಚೆ As one family unit. | — | 2026-09-07 06:39 UTC |
